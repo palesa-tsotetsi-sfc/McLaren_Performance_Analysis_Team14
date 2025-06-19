@@ -1,0 +1,9 @@
+#Python virtual environment
+venv/
+datathon/
+__pycache__/
+*.py[cod]
+
+#VSCode/IDE settings
+.vscode/
+.idea/
