@@ -104,7 +104,7 @@ JOIN MaxPointsPerYear MP ON CP.YEAR = MP.YEAR
 WHERE CP.CONSTRUCTOR_NAME = 'McLaren'
 ORDER BY CP.YEAR;
 
---Average finishing position for Mercedez drivers
+--Average finishing position for McLaren drivers
 SELECT  R.YEAR, 
 		AVG(RE.POSITIONORDER) AS AVG_FINISH_POSITION
 FROM RESULTS RE
@@ -116,10 +116,10 @@ ORDER BY R.YEAR;
 
 
 
---Which circuits/countries has Mercedes dominated most (most wins)?
+--Which circuits/countries has McLaren dominated most (most wins)?
 SELECT C.NAME AS CIRCUIT_NAME,
         C.COUNTRY, 
-        COUNT(*) AS MERCEDES_WINS
+        COUNT(*) AS MCLAREN_WINS
 FROM RESULTS RE
 JOIN RACES R
 ON RE.RACEID = R.RACEID
@@ -129,7 +129,7 @@ JOIN CONSTRUCTORS CON
 ON RE.CONSTRUCTORID = CON.CONSTRUCTORID
 WHERE CON.NAME = 'McLaren' AND RE.POSITION = 1
 GROUP BY C.NAME, C.COUNTRY 
-ORDER BY MERCEDES_WINS DESC 
+ORDER BY MCLAREN_WINS DESC 
 
 
 
