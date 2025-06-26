@@ -161,7 +161,6 @@ WHERE
 GROUP BY (d.FORENAME + ' ' + d.SURNAME)
 ORDER BY front_row_starts DESC;
 
-
 -- What is the correlation between starting position and final position for McLaren?
 SELECT RE.RACEID, RE.GRID, RE.POSITIONORDER
 FROM RESULTS RE
