@@ -116,7 +116,7 @@ ORDER BY R.YEAR DESC
 --Which circuits/countries has McLaren dominated most (most wins)?
 SELECT C.NAME AS CIRCUIT_NAME,
         C.COUNTRY, 
-        COUNT(*) AS MCLAREN_WINS
+        COUNT(*) AS McLaren_WINS
 FROM RESULTS RE
 JOIN RACES R
 ON RE.RACEID = R.RACEID
@@ -126,7 +126,7 @@ JOIN CONSTRUCTORS CON
 ON RE.CONSTRUCTORID = CON.CONSTRUCTORID
 WHERE CON.NAME = 'McLaren' AND RE.POSITION = 1
 GROUP BY C.NAME, C.COUNTRY 
-ORDER BY MCLAREN_WINS DESC 
+ORDER BY McLaren_WINS DESC 
 
 
 
@@ -143,7 +143,7 @@ JOIN (
 JOIN RESULTS res ON lt.RACEID = res.RACEID AND lt.DRIVERID = res.DRIVERID
 JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
 JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
-WHERE LOWER(c.NAME) = 'mclaren'
+WHERE LOWER(c.NAME) = 'McLaren'
 GROUP BY d.FORENAME, d.SURNAME
 ORDER BY fastest_laps DESC;
 
@@ -156,37 +156,22 @@ FROM RESULTS res
 JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
 JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
 WHERE 
-    LOWER(c.NAME) = 'mclaren'
+    LOWER(c.NAME) = 'McLaren'
     AND res.GRID IN (1, 2)
 GROUP BY (d.FORENAME + ' ' + d.SURNAME)
 ORDER BY front_row_starts DESC;
 
 
-
 -- What is the correlation between starting position and final position for McLaren?
-SELECT 
-    d.FORENAME + ' ' + d.SURNAME AS driver_name,
-    ROUND(AVG(CAST(res.GRID AS FLOAT)),2) AS avg_start_position,
-    ROUND(AVG(CAST(res.POSITION AS FLOAT)),2) AS avg_finish_position
-FROM RESULTS res
-JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
-JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
-WHERE 
-    LOWER(c.NAME) = 'mclaren'
-    AND res.GRID IS NOT NULL
-    AND res.POSITION IS NOT NULL
-GROUP BY d.FORENAME, d.SURNAME
-ORDER BY driver_name;
-
+SELECT RE.RACEID, RE.GRID, RE.POSITIONORDER
+FROM RESULTS RE
+JOIN CONSTRUCTORS C ON RE.CONSTRUCTORID = C.CONSTRUCTORID
+WHERE C.NAME = 'McLaren';
 
 
 -- Do McLaren drivers complete more laps on average than others?
 SELECT 
     d.FORENAME + ' ' + d.SURNAME AS driver_name,
-    CASE 
-        WHEN LOWER(c.NAME) = 'mclaren' THEN 1 
-        ELSE 0 
-    END AS is_mclaren_driver,
     COUNT(DISTINCT lt.RACEID) AS races_participated,
     COUNT(*) AS total_laps_completed,
     ROUND(COUNT(*) * 1.0 / COUNT(DISTINCT lt.RACEID), 2) AS avg_laps_per_race
@@ -194,11 +179,14 @@ FROM LAP_TIMES lt
 JOIN DRIVERS d ON lt.DRIVERID = d.DRIVERID
 JOIN RESULTS r ON lt.RACEID = r.RACEID AND lt.DRIVERID = r.DRIVERID
 JOIN CONSTRUCTORS c ON r.CONSTRUCTORID = c.CONSTRUCTORID
-WHERE lt.MILLISECONDS IS NOT NULL
+WHERE lt.MILLISECONDS IS NOT NULL AND C.NAME= 'McLaren'
 GROUP BY d.FORENAME, d.SURNAME, c.NAME
 ORDER BY avg_laps_per_race DESC;
 
-
+SELECT AVG(RE.LAPS) AS AVG_LAPS_COMPLETED
+FROM RESULTS RE
+JOIN CONSTRUCTORS C ON RE.CONSTRUCTORID = C.CONSTRUCTORID
+WHERE C.NAME = 'McLaren';
 
 
 --Which McLaren driver has the most podium finishes (positions 1–3)?
@@ -212,54 +200,74 @@ FROM RESULTS res
 JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
 JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
 WHERE 
-    LOWER(c.NAME) = 'mclaren'
+    LOWER(c.NAME) = 'McLaren'
     AND res.POSITION IN (1, 2, 3)
 GROUP BY (d.FORENAME + ' ' + d.SURNAME)
 ORDER BY total_podiums DESC
 
 
-
-
 --What is McLaren’ driver lineup per year and how consistent has it been?
-SELECT 
-    ra.YEAR AS race_year,
-    d.FORENAME + ' ' + d.SURNAME AS driver_name
-FROM RESULTS res
-JOIN RACES ra ON res.RACEID = ra.RACEID
-JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
-JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
-WHERE LOWER(c.NAME) = 'mclaren'
-GROUP BY ra.YEAR, (d.FORENAME + ' ' + d.SURNAME)
-ORDER BY ra.YEAR, driver_name;
-
+SELECT  DISTINCT R.YEAR, 
+		CONCAT(D.FORENAME, ' ', D.SURNAME) AS DRIVER_NAME
+FROM RESULTS RE
+JOIN RACES R ON RE.RACEID = R.RACEID
+JOIN CONSTRUCTORS C ON RE.CONSTRUCTORID = C.CONSTRUCTORID
+JOIN DRIVERS D ON RE.DRIVERID = D.DRIVERID
+WHERE C.NAME = 'McLaren'
+ORDER BY R.YEAR, DRIVER_NAME;
 
 
 --How many races has McLaren failed to finish (DNFs)?
+WITH driver_race_counts AS (
+    SELECT 
+        d.DRIVERID,
+        CONCAT(d.FORENAME, ' ', d.SURNAME) AS driver_name,
+        COUNT(*) AS total_races
+    FROM RESULTS res
+    JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
+    JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
+    WHERE LOWER(c.NAME) = 'McLaren'
+    GROUP BY d.DRIVERID, CONCAT(d.FORENAME, ' ', d.SURNAME)
+),
+
+dnf_counts AS (
+    SELECT 
+        d.DRIVERID,
+        CONCAT(d.FORENAME, ' ', d.SURNAME) AS driver_name,
+        COUNT(*) AS dnf_count
+    FROM RESULTS res
+    JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
+    JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
+    JOIN STATUS s ON res.STATUSID = s.STATUSID
+    WHERE LOWER(c.NAME) = 'McLaren'
+      AND LOWER(s.STATUS) NOT IN ('finished', '1 lap', '2 laps', '3 laps')
+    GROUP BY d.DRIVERID, CONCAT(d.FORENAME, ' ', d.SURNAME)
+)
+
+--Join both metric
 SELECT 
-    d.FORENAME + ' ' + d.SURNAME AS driver_name,
-    COUNT(*) AS dnf_count
-FROM RESULTS res
-JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
-JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
-JOIN STATUS s ON res.STATUSID = s.STATUSID
-WHERE 
-    LOWER(c.NAME) = 'mclaren'
-    AND LOWER(s.STATUS) NOT IN ('finished', '1 lap', '2 laps', '3 laps') 
-GROUP BY (d.FORENAME + ' ' + d.SURNAME)
+    r.driver_name,
+    r.total_races,
+    COALESCE(d.dnf_count, 0) AS dnf_count
+FROM driver_race_counts r
+LEFT JOIN dnf_counts d ON r.DRIVERID = d.DRIVERID
 
 UNION ALL
 
+--TOTAL row
 SELECT 
     'TOTAL' AS driver_name,
-    COUNT(*) AS dnf_count
+    COUNT(*) AS total_races,
+    SUM(CASE 
+        WHEN LOWER(s.STATUS) NOT IN ('finished', '1 lap', '2 laps', '3 laps') 
+        THEN 1 ELSE 0 
+    END) AS dnf_count
 FROM RESULTS res
 JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
 JOIN STATUS s ON res.STATUSID = s.STATUSID
-WHERE 
-    LOWER(c.NAME) = 'mclaren'
-    AND LOWER(s.STATUS) NOT IN ('finished', '1 lap', '2 laps', '3 laps')
-ORDER BY dnf_count DESC;
+WHERE LOWER(c.NAME) = 'McLaren'
 
+ORDER BY dnf_count DESC;
 
 
 --SELECT  CON.NAME AS CONSTRUCTOR_NAME,
