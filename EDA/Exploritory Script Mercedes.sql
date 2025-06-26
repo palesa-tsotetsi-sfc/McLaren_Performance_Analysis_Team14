@@ -21,7 +21,7 @@ ORDER BY R.DATE
 
 --Races Mercedes won each season
 SELECT	R.YEAR AS SEASON, 
-		COUNT(*) AS MERCEDES_WINS,
+		COUNT(*) AS Mercedes_WINS,
 		(SELECT COUNT(*) 
 		    FROM RACES R2
 		    WHERE R2.YEAR = R.YEAR) AS NUMBER_OF_RACES
@@ -32,11 +32,8 @@ WHERE C.NAME = 'Mercedes' AND RE.POSITION = 1
 GROUP BY R.YEAR
 ORDER BY R.YEAR
 
-SELECT * FROM DRIVERS
-
 --Mercedes Drivers 
-SELECT	CON.NAME AS CONSTRUCTOR_NAME,
-		CONCAT(D.FORENAME, ' ', D.SURNAME) AS DRIVER_NAME,
+SELECT	DISTINCT CONCAT(D.FORENAME, ' ', D.SURNAME) AS DRIVER_NAME,
 		MAX(R.YEAR) AS LATEST_RACE_YEAR,
 		DATEDIFF(YEAR, D.DOB, MAX(R.DATE)) AS AGE_AT_LAST_RACE
 FROM RESULTS RE
@@ -70,7 +67,7 @@ JOIN RACES R ON RE.RACEID = R.RACEID
 JOIN CONSTRUCTORS C ON RE.CONSTRUCTORID = C.CONSTRUCTORID
 WHERE C.NAME = 'Mercedes'
 GROUP BY R.YEAR
-ORDER BY R.YEAR;
+ORDER BY R.YEAR DESC
 
 
 --Mercedes Points Per Season, Win/Loss
@@ -102,7 +99,7 @@ SELECT
 FROM ConstructorPoints CP
 JOIN MaxPointsPerYear MP ON CP.YEAR = MP.YEAR
 WHERE CP.CONSTRUCTOR_NAME = 'Mercedes'
-ORDER BY CP.YEAR;
+ORDER BY CP.YEAR DESC
 
 --Average finishing position for Mercedes drivers
 SELECT  R.YEAR, 
@@ -112,12 +109,14 @@ JOIN RACES R ON RE.RACEID = R.RACEID
 JOIN CONSTRUCTORS C ON RE.CONSTRUCTORID = C.CONSTRUCTORID
 WHERE C.NAME = 'Mercedes'
 GROUP BY R.YEAR
-ORDER BY R.YEAR;
+ORDER BY R.YEAR DESC
+
+
 
 --Which circuits/countries has Mercedes dominated most (most wins)?
 SELECT C.NAME AS CIRCUIT_NAME,
         C.COUNTRY, 
-        COUNT(*) AS MERCEDES_WINS
+        COUNT(*) AS Mercedes_WINS
 FROM RESULTS RE
 JOIN RACES R
 ON RE.RACEID = R.RACEID
@@ -127,65 +126,67 @@ JOIN CONSTRUCTORS CON
 ON RE.CONSTRUCTORID = CON.CONSTRUCTORID
 WHERE CON.NAME = 'Mercedes' AND RE.POSITION = 1
 GROUP BY C.NAME, C.COUNTRY 
-ORDER BY MERCEDES_WINS DESC 
+ORDER BY Mercedes_WINS DESC 
+
 
 
 -- How often did Mercedes drivers set the fastest lap in a race?
 SELECT 
-    d.FORENAME || ' ' || d.SURNAME AS driver_name,
+    d.FORENAME + ' ' + d.SURNAME AS driver_name,
     COUNT(*) AS fastest_laps
 FROM LAP_TIMES lt
+JOIN (
+    SELECT RACEID, MIN(MILLISECONDS) AS fastest_time
+    FROM LAP_TIMES
+    GROUP BY RACEID
+) ft ON lt.RACEID = ft.RACEID AND lt.MILLISECONDS = ft.fastest_time
 JOIN RESULTS res ON lt.RACEID = res.RACEID AND lt.DRIVERID = res.DRIVERID
 JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
 JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
-WHERE LOWER(c.NAME) = 'mercedes'
-  AND (lt.RACEID, lt.MILLISECONDS) IN (
-      SELECT RACEID, MIN(MILLISECONDS)
-      FROM LAP_TIMES
-      GROUP BY RACEID
-  )
-GROUP BY driver_name
+WHERE LOWER(c.NAME) = 'Mercedes'
+GROUP BY d.FORENAME, d.SURNAME
 ORDER BY fastest_laps DESC;
-
 
 
 --How often are Mercedes drivers starting on the front row (GRID = 1 or 2)?
 SELECT 
-    d.FORENAME || ' ' || d.SURNAME AS driver_name,
+    d.FORENAME + ' ' + d.SURNAME AS driver_name,
     COUNT(*) AS front_row_starts
 FROM RESULTS res
 JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
 JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
 WHERE 
-    LOWER(c.NAME) = 'mercedes'
+    LOWER(c.NAME) = 'Mercedes'
     AND res.GRID IN (1, 2)
-GROUP BY driver_name
+GROUP BY (d.FORENAME + ' ' + d.SURNAME)
 ORDER BY front_row_starts DESC;
 
 
 
--- --What is the correlation between starting position and final position for Mercedes?
+-- What is the correlation between starting position and final position for Mercedes?
 SELECT 
-    d.FORENAME || ' ' || d.SURNAME AS driver_name,
-    AVG(res.GRID) AS avg_start_position,
-    AVG(res.POSITION) AS avg_finish_position,
-    CORR(res.GRID, res.POSITION) AS grid_position_correlation
+    d.FORENAME + ' ' + d.SURNAME AS driver_name,
+    ROUND(AVG(CAST(res.GRID AS FLOAT)),2) AS avg_start_position,
+    ROUND(AVG(CAST(res.POSITION AS FLOAT)),2) AS avg_finish_position
 FROM RESULTS res
 JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
 JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
 WHERE 
-    LOWER(c.NAME) = 'mercedes'
+    LOWER(c.NAME) = 'Mercedes'
     AND res.GRID IS NOT NULL
     AND res.POSITION IS NOT NULL
-GROUP BY driver_name
-ORDER BY grid_position_correlation;
+GROUP BY d.FORENAME, d.SURNAME
+ORDER BY driver_name;
 
 
 
---Do Mercedes drivers complete more laps on average than others?
+-- Do Mercedes drivers complete more laps on average than others?
 SELECT 
-    d.FORENAME || ' ' || d.SURNAME AS driver_name,
-    LOWER(c.NAME) = 'mercedes' AS is_mercedes_driver,
+    d.FORENAME + ' ' + d.SURNAME AS driver_name,
+    CASE 
+        WHEN LOWER(c.NAME) = 'Mercedes' THEN 1 
+        ELSE 0 
+    END AS is_Mercedes_driver,
     COUNT(DISTINCT lt.RACEID) AS races_participated,
     COUNT(*) AS total_laps_completed,
     ROUND(COUNT(*) * 1.0 / COUNT(DISTINCT lt.RACEID), 2) AS avg_laps_per_race
@@ -194,14 +195,15 @@ JOIN DRIVERS d ON lt.DRIVERID = d.DRIVERID
 JOIN RESULTS r ON lt.RACEID = r.RACEID AND lt.DRIVERID = r.DRIVERID
 JOIN CONSTRUCTORS c ON r.CONSTRUCTORID = c.CONSTRUCTORID
 WHERE lt.MILLISECONDS IS NOT NULL
-GROUP BY driver_name, is_mercedes_driver
+GROUP BY d.FORENAME, d.SURNAME, c.NAME
 ORDER BY avg_laps_per_race DESC;
+
 
 
 
 --Which Mercedes driver has the most podium finishes (positions 1–3)?
 SELECT 
-    d.FORENAME || ' ' || d.SURNAME AS driver_name,
+    d.FORENAME + ' ' + d.SURNAME AS driver_name,
     SUM(CASE WHEN res.POSITION = 1 THEN 1 ELSE 0 END) AS first_places,
     SUM(CASE WHEN res.POSITION = 2 THEN 1 ELSE 0 END) AS second_places,
     SUM(CASE WHEN res.POSITION = 3 THEN 1 ELSE 0 END) AS third_places,
@@ -210,40 +212,40 @@ FROM RESULTS res
 JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
 JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
 WHERE 
-    LOWER(c.NAME) = 'mercedes'
+    LOWER(c.NAME) = 'Mercedes'
     AND res.POSITION IN (1, 2, 3)
-GROUP BY driver_name
+GROUP BY (d.FORENAME + ' ' + d.SURNAME)
 ORDER BY total_podiums DESC
-LIMIT 1;
+
 
 
 
 --What is Mercedes’ driver lineup per year and how consistent has it been?
 SELECT 
     ra.YEAR AS race_year,
-    d.FORENAME || ' ' || d.SURNAME AS driver_name
+    d.FORENAME + ' ' + d.SURNAME AS driver_name
 FROM RESULTS res
 JOIN RACES ra ON res.RACEID = ra.RACEID
 JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
 JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
-WHERE LOWER(c.NAME) = 'mercedes'
-GROUP BY ra.YEAR, driver_name
+WHERE LOWER(c.NAME) = 'Mercedes'
+GROUP BY ra.YEAR, (d.FORENAME + ' ' + d.SURNAME)
 ORDER BY ra.YEAR, driver_name;
 
 
 
 --How many races has Mercedes failed to finish (DNFs)?
 SELECT 
-    d.FORENAME || ' ' || d.SURNAME AS driver_name,
+    d.FORENAME + ' ' + d.SURNAME AS driver_name,
     COUNT(*) AS dnf_count
 FROM RESULTS res
 JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
 JOIN DRIVERS d ON res.DRIVERID = d.DRIVERID
 JOIN STATUS s ON res.STATUSID = s.STATUSID
 WHERE 
-    LOWER(c.NAME) = 'mercedes'
+    LOWER(c.NAME) = 'Mercedes'
     AND LOWER(s.STATUS) NOT IN ('finished', '1 lap', '2 laps', '3 laps') 
-GROUP BY driver_name
+GROUP BY (d.FORENAME + ' ' + d.SURNAME)
 
 UNION ALL
 
@@ -254,10 +256,9 @@ FROM RESULTS res
 JOIN CONSTRUCTORS c ON res.CONSTRUCTORID = c.CONSTRUCTORID
 JOIN STATUS s ON res.STATUSID = s.STATUSID
 WHERE 
-    LOWER(c.NAME) = 'mercedes'
+    LOWER(c.NAME) = 'Mercedes'
     AND LOWER(s.STATUS) NOT IN ('finished', '1 lap', '2 laps', '3 laps')
 ORDER BY dnf_count DESC;
-
 
 
 
@@ -287,8 +288,5 @@ ORDER BY dnf_count DESC;
 --LEFT JOIN SEASONS S
 --ON R.YEAR = S.YEAR
 --ORDER BY S.YEAR, R.ROUND
-
-
-
 
 
