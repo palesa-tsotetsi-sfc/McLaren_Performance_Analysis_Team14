@@ -1,486 +1,486 @@
-CONSTRUCTOR_NAME;DRIVER_NAME;DRIVER_NATIONALITY;ROUND;SEASON;CIRCUIT_NAME;LOCATION;COUNTRY;GRID;POSITION;STATUS;POINTS;LAPS;TIME;TIME_IN_MILLISECONDS;Q1_IN_MILLISECONDS;Q2_IN_MILLISECONDS;Q3_IN_MILLISECONDS;PIT_COUNT;AVG_PIT_DURATION;TOTAL_PIT_TIME
-Mercedes;Michael Schumacher;German;2;2011;Sepang International Circuit;Kuala Lumpur;Malaysia;11;9;Finished;2.0;56;+1:24.896;5944728;3064000;2255000;;3;22.3547;67.064
-Mercedes;Nico Rosberg;German;3;2011;Shanghai International Circuit;Shanghai;China;4;5;Finished;10.0;56;+13.448;5831674;2372000;2950000;2710000;3;21.1653;63.496
-Mercedes;Michael Schumacher;German;3;2011;Shanghai International Circuit;Shanghai;China;14;8;Finished;4.0;56;+31.026;5849252;2608000;2617000;;3;21.2953;63.886
-Mercedes;Nico Rosberg;German;4;2011;Istanbul Park;Istanbul;Turkey;3;5;Finished;10.0;58;+47.539;5465097;2134000;2301000;2074000;4;21.1893;84.757
-Mercedes;Michael Schumacher;German;4;2011;Istanbul Park;Istanbul;Turkey;8;12;Finished;0.0;58;+1:25.444;5503002;2317000;1681000;2206000;4;23.0162;92.065
-Mercedes;Michael Schumacher;German;7;2011;Circuit Gilles Villeneuve;Montreal;Canada;8;4;Finished;12.0;70;+14.219;14693756;1810000;1082000;1644000;4;23.5923;94.369
-Mercedes;Nico Rosberg;German;7;2011;Circuit Gilles Villeneuve;Montreal;Canada;6;11;Finished;0.0;70;+50.454;14729991;1760000;1730000;1594000;4;22.882;91.528
-Mercedes;Nico Rosberg;German;8;2011;Valencia Street Circuit;Valencia;Spain;7;7;Finished;6.0;57;+1:38.090;6074259;2606000;2653000;2511000;3;21.8323;65.497
-Mercedes;Nico Rosberg;German;9;2011;Silverstone Circuit;Silverstone;UK;9;6;Finished;8.0;52;+1:00.665;5381861;2226000;2215000;2129000;2;24.5605;49.121
-Mercedes;Michael Schumacher;German;9;2011;Silverstone Circuit;Silverstone;UK;13;9;Finished;2.0;52;+1:17.912;5399108;2200000;2576000;;3;28.8813;86.644
-Mercedes;Michael Schumacher;German;12;2011;Circuit de Spa-Francorchamps;Spa;Belgium;24;5;Finished;10.0;44;+47.464;5252357;;;;3;20.566;61.698
-Mercedes;Nico Rosberg;German;12;2011;Circuit de Spa-Francorchamps;Spa;Belgium;5;6;Finished;8.0;44;+48.674;5253567;391000;903000;3552000;2;22.1305;44.261
-Mercedes;Michael Schumacher;German;13;2011;Autodromo Nazionale di Monza;Monza;Italy;8;5;Finished;10.0;53;+32.677;4878849;1608000;2051000;2157000;2;22.3615;44.723
-Mercedes;Michael Schumacher;German;15;2011;Suzuka Circuit;Suzuka;Japan;8;6;Finished;8.0;53;+27.120;5480547;2728000;2036000;;3;21.372;64.116
-Mercedes;Nico Rosberg;German;15;2011;Suzuka Circuit;Suzuka;Japan;23;10;Finished;1.0;53;+44.322;5497749;;;;3;20.683;62.049
-Mercedes;Nico Rosberg;German;16;2011;Korean International Circuit;Yeongam County;Korea;7;8;Finished;4.0;55;+54.053;5936047;2706000;3112000;2974000;2;20.4315;40.863
-Mercedes;Michael Schumacher;German;17;2011;Buddh International Circuit;Uttar Pradesh;India;11;5;Finished;10.0;60;+1:05.421;5500423;2350000;1897000;;2;21.1875;42.375
-Mercedes;Nico Rosberg;German;17;2011;Buddh International Circuit;Uttar Pradesh;India;7;6;Finished;8.0;60;+1:06.851;5501853;1924000;2055000;1951000;2;22.0635;44.127
-Mercedes;Nico Rosberg;German;18;2011;Yas Marina Circuit;Abu Dhabi;UAE;7;6;Finished;8.0;55;+52.317;5884203;2580000;2760000;3113000;2;19.846;39.692
-Mercedes;Michael Schumacher;German;18;2011;Yas Marina Circuit;Abu Dhabi;UAE;8;7;Finished;6.0;55;+1:15.964;5907850;3125000;2954000;3062000;2;20.149;40.298
-Mercedes;Nico Rosberg;German;1;2012;Albert Park Grand Prix Circuit;Melbourne;Australia;7;12;Finished;0.0;58;+57.642;5707207;2323000;1969000;2186000;2;23.11;46.22
-Mercedes;Michael Schumacher;German;2;2012;Sepang International Circuit;Kuala Lumpur;Malaysia;3;10;Finished;1.0;56;+49.996;9941808;2737000;2237000;2551000;3;23.696;71.088
-Mercedes;Nico Rosberg;German;2;2012;Sepang International Circuit;Kuala Lumpur;Malaysia;7;13;Finished;0.0;56;+1:18.593;9970405;2916000;3156000;2824000;4;24.27;97.08
-Mercedes;Nico Rosberg;German;3;2012;Shanghai International Circuit;Shanghai;China;1;1;Finished;25.0;56;1:36:26.929;5786929;3035000;2825000;2221000;2;20.879;41.758
-Mercedes;Nico Rosberg;German;4;2012;Bahrain International Circuit;Sakhir;Bahrain;5;5;Finished;10.0;57;+55.460;5766450;2628000;2199000;2741000;3;22.3397;67.019
-Mercedes;Michael Schumacher;German;4;2012;Bahrain International Circuit;Sakhir;Bahrain;22;10;Finished;1.0;57;+1:11.490;5782480;2905000;;;3;22.092;66.276
-Mercedes;Nico Rosberg;German;5;2012;Circuit de Barcelona-Catalunya;Montmeló;Spain;6;7;Finished;6.0;66;+1:17.919;6027064;1750000;2202000;1385000;3;20.2527;60.758
-Mercedes;Nico Rosberg;German;6;2012;Circuit de Monaco;Monte-Carlo;Monaco;2;2;Finished;18.0;78;+0.643;6367200;1800000;922000;1288000;1;24.874;24.874
-Mercedes;Nico Rosberg;German;7;2012;Circuit Gilles Villeneuve;Montreal;Canada;5;6;Finished;8.0;70;+13.842;5563428;998000;1408000;1251000;2;21.2005;42.401
-Mercedes;Michael Schumacher;German;8;2012;Valencia Street Circuit;Valencia;Spain;12;3;Finished;15.0;57;+12.639;6269288;2787000;3050000;;2;20.259;40.518
-Mercedes;Nico Rosberg;German;8;2012;Valencia Street Circuit;Valencia;Spain;6;6;Finished;8.0;57;+21.176;6277825;2401000;2784000;2903000;2;20.37;40.74
-Mercedes;Michael Schumacher;German;9;2012;Silverstone Circuit;Silverstone;UK;3;7;Finished;6.0;52;+29.153;5140441;3331000;4099000;3140000;2;25.745;51.49
-Mercedes;Nico Rosberg;German;9;2012;Silverstone Circuit;Silverstone;UK;11;15;Finished;0.0;52;+57.394;5168682;3544000;3528000;;2;29.359;58.718
-Mercedes;Michael Schumacher;German;10;2012;Hockenheimring;Hockenheim;Germany;3;7;Finished;6.0;67;+28.970;5494832;1646000;2290000;2979000;3;18.196;54.588
-Mercedes;Nico Rosberg;German;10;2012;Hockenheimring;Hockenheim;Germany;21;10;Finished;1.0;67;+48.889;5514751;1888000;3011000;;3;18.3433;55.03
-Mercedes;Nico Rosberg;German;11;2012;Hungaroring;Budapest;Hungary;13;10;Finished;1.0;69;+51.234;6116737;1399000;2155000;;2;20.492;40.984
-Mercedes;Michael Schumacher;German;12;2012;Circuit de Spa-Francorchamps;Spa;Belgium;13;7;Finished;6.0;44;+53.374;5401904;3682000;3021000;;2;21.2495;42.499
-Mercedes;Nico Rosberg;German;12;2012;Circuit de Spa-Francorchamps;Spa;Belgium;23;11;Finished;0.0;44;+65.111;5413641;3181000;;;2;20.798;41.596
-Mercedes;Michael Schumacher;German;13;2012;Autodromo Nazionale di Monza;Monza;Italy;4;6;Finished;8.0;53;+31.259;4812480;1802000;2115000;1980000;2;22.2785;44.557
-Mercedes;Nico Rosberg;German;13;2012;Autodromo Nazionale di Monza;Monza;Italy;6;7;Finished;6.0;53;+33.550;4814771;2129000;1955000;2273000;2;22.1;44.2
-Mercedes;Nico Rosberg;German;14;2012;Marina Bay Street Circuit;Marina Bay;Singapore;10;5;Finished;10.0;59;+34.784;7260928;3403000;3763000;;2;29.6165;59.233
-Mercedes;Michael Schumacher;German;15;2012;Suzuka Circuit;Suzuka;Japan;23;11;Finished;0.0;53;+67.769;5404011;2329000;2389000;;2;20.511;41.022
-Mercedes;Michael Schumacher;German;16;2012;Korean International Circuit;Yeongam County;Korea;10;13;Finished;0.0;55;+89.241;5877892;3088000;2716000;2793000;2;20.1815;40.363
-Mercedes;Nico Rosberg;German;17;2012;Buddh International Circuit;Uttar Pradesh;India;10;11;Finished;0.0;60;+1:21.694;5552438;2018000;2476000;;1;21.49;21.49
-Mercedes;Michael Schumacher;German;18;2012;Yas Marina Circuit;Abu Dhabi;UAE;13;11;Finished;0.0;55;+28.075;6386742;3255000;2809000;;2;20.4855;40.971
-Mercedes;Nico Rosberg;German;19;2012;Circuit of the Americas;Austin;USA;17;13;Finished;0.0;56;+85.510;5840779;3142000;2781000;;1;21.346;21.346
-Mercedes;Michael Schumacher;German;20;2012;Autódromo José Carlos Pace;São Paulo;Brazil;13;7;Finished;6.0;71;+11.907;6334563;965000;1174000;;4;23.134;92.536
-Mercedes;Lewis Hamilton;British;1;2013;Albert Park Grand Prix Circuit;Melbourne;Australia;3;5;Finished;10.0;58;+45.561;5448786;3156000;2785000;1767000;3;21.9827;65.948
-Mercedes;Lewis Hamilton;British;2;2013;Sepang International Circuit;Kuala Lumpur;Malaysia;4;3;Finished;15.0;56;+12.181;5948862;2733000;2677000;3759000;4;22.3045;89.218
-Mercedes;Nico Rosberg;German;2;2013;Sepang International Circuit;Kuala Lumpur;Malaysia;6;4;Finished;12.0;56;+12.640;5949321;2459000;2350000;3639000;4;21.6058;86.423
-Mercedes;Lewis Hamilton;British;3;2013;Shanghai International Circuit;Shanghai;China;1;3;Finished;15.0;56;+12.322;5799267;2893000;2178000;2524000;3;20.1877;60.563
-Mercedes;Lewis Hamilton;British;4;2013;Bahrain International Circuit;Sakhir;Bahrain;9;5;Finished;10.0;57;+35.230;5795728;2478000;2326000;2682000;3;21.7053;65.116
-Mercedes;Nico Rosberg;German;4;2013;Bahrain International Circuit;Sakhir;Bahrain;1;9;Finished;2.0;57;+41.126;5801624;2344000;2787000;2250000;4;21.5045;86.018
-Mercedes;Nico Rosberg;German;5;2013;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;6;Finished;8.0;66;+1:08.020;6024616;2173000;2036000;1918000;3;19.5993;58.798
-Mercedes;Nico Rosberg;German;6;2013;Circuit de Monaco;Monte-Carlo;Monaco;1;1;Finished;25.0;78;2:17:52.056;8272056;2060000;1095000;1656000;1;25.2;25.2
-Mercedes;Lewis Hamilton;British;6;2013;Circuit de Monaco;Monte-Carlo;Monaco;2;4;Finished;12.0;78;+13.894;8285950;2159000;1225000;1747000;1;24.801;24.801
-Mercedes;Lewis Hamilton;British;7;2013;Circuit Gilles Villeneuve;Montreal;Canada;2;3;Finished;15.0;70;+15.942;5545085;2181000;2269000;2012000;2;20.7675;41.535
-Mercedes;Nico Rosberg;German;7;2013;Circuit Gilles Villeneuve;Montreal;Canada;4;5;Finished;10.0;70;+1:09.725;5598868;2220000;2100000;1568000;3;21.1387;63.416
-Mercedes;Nico Rosberg;German;8;2013;Silverstone Circuit;Silverstone;UK;2;1;Finished;25.0;52;1:32:59.456;5579456;2215000;1888000;1859000;3;25.1063;75.319
-Mercedes;Lewis Hamilton;British;8;2013;Silverstone Circuit;Silverstone;UK;1;4;Finished;12.0;52;+7.756;5587212;2795000;2084000;2347000;2;26.8305;53.661
-Mercedes;Lewis Hamilton;British;9;2013;Nürburgring;Nürburg;Germany;1;5;Finished;10.0;60;+26.927;6101638;1991000;1952000;2138000;3;19.3747;58.124
-Mercedes;Nico Rosberg;German;9;2013;Nürburgring;Nürburg;Germany;11;9;Finished;2.0;60;+46.821;6121532;2182000;2126000;;3;20.527;61.581
-Mercedes;Lewis Hamilton;British;10;2013;Hungaroring;Budapest;Hungary;1;1;Finished;25.0;70;1:42:29.445;6149445;1563000;2002000;1528000;3;21.81;65.43
-Mercedes;Lewis Hamilton;British;11;2013;Circuit de Spa-Francorchamps;Spa;Belgium;1;3;Finished;15.0;44;+27.734;5049930;368000;3007000;72000;2;23.0395;46.079
-Mercedes;Nico Rosberg;German;11;2013;Circuit de Spa-Francorchamps;Spa;Belgium;4;4;Finished;12.0;44;+29.872;5052068;159000;3432000;371000;2;23.308;46.616
-Mercedes;Nico Rosberg;German;12;2013;Autodromo Nazionale di Monza;Monza;Italy;6;6;Finished;8.0;53;+10.999;4724351;1967000;1833000;1632000;1;24.079;24.079
-Mercedes;Lewis Hamilton;British;12;2013;Autodromo Nazionale di Monza;Monza;Italy;12;9;Finished;2.0;53;+33.527;4746879;2029000;2243000;;2;24.3875;48.775
-Mercedes;Nico Rosberg;German;13;2013;Marina Bay Street Circuit;Marina Bay;Singapore;2;4;Finished;12.0;61;+51.155;7204287;2908000;3472000;3452000;2;29.414;58.828
-Mercedes;Lewis Hamilton;British;13;2013;Marina Bay Street Circuit;Marina Bay;Singapore;5;5;Finished;10.0;61;+53.159;7206291;2836000;3500000;2834000;2;29.5585;59.117
-Mercedes;Lewis Hamilton;British;14;2013;Korean International Circuit;Yeongam County;Korea;2;5;Finished;10.0;55;+25.255;6218956;2854000;3044000;2640000;2;22.2605;44.521
-Mercedes;Nico Rosberg;German;14;2013;Korean International Circuit;Yeongam County;Korea;4;7;Finished;6.0;55;+26.698;6220399;2698000;2311000;2899000;2;32.922;65.844
-Mercedes;Nico Rosberg;German;15;2013;Suzuka Circuit;Suzuka;Japan;6;8;Finished;4.0;53;+1:12.023;5281324;2164000;2624000;2257000;4;21.485;85.94
-Mercedes;Nico Rosberg;German;16;2013;Buddh International Circuit;Uttar Pradesh;India;2;2;Finished;18.0;60;+29.823;5502010;2333000;1804000;2311000;2;23.79;47.58
-Mercedes;Lewis Hamilton;British;16;2013;Buddh International Circuit;Uttar Pradesh;India;3;6;Finished;8.0;60;+52.475;5524662;2302000;1759000;2381000;2;23.56;47.12
-Mercedes;Nico Rosberg;German;17;2013;Yas Marina Circuit;Abu Dhabi;UAE;3;3;Finished;15.0;55;+33.650;5919756;2880000;2873000;2819000;2;21.643;43.286
-Mercedes;Lewis Hamilton;British;17;2013;Yas Marina Circuit;Abu Dhabi;UAE;4;7;Finished;6.0;55;+1:19.267;5965373;3093000;2877000;2901000;2;21.4905;42.981
-Mercedes;Lewis Hamilton;British;18;2013;Circuit of the Americas;Austin;USA;5;4;Finished;12.0;56;+27.358;5984506;3179000;3074000;2565000;1;23.904;23.904
-Mercedes;Nico Rosberg;German;18;2013;Circuit of the Americas;Austin;USA;12;9;Finished;2.0;56;+59.141;6016289;3023000;2644000;;1;23.806;23.806
-Mercedes;Nico Rosberg;German;19;2013;Autódromo José Carlos Pace;São Paulo;Brazil;2;5;Finished;10.0;71;+39.048;5595348;2056000;2186000;1722000;2;23.0405;46.081
-Mercedes;Lewis Hamilton;British;19;2013;Autódromo José Carlos Pace;São Paulo;Brazil;5;9;Finished;2.0;71;+1:12.903;5629203;1842000;2258000;2297000;3;21.4877;64.463
-Mercedes;Nico Rosberg;German;1;2014;Albert Park Grand Prix Circuit;Melbourne;Australia;3;1;Finished;25.0;57;1:32:58.710;5578710;2484000;2784000;3235000;2;24.002;48.004
-Mercedes;Lewis Hamilton;British;2;2014;Sepang International Circuit;Kuala Lumpur;Malaysia;1;1;Finished;25.0;56;1:40:25.974;6025974;3622000;3581000;3971000;3;24.7947;74.384
-Mercedes;Nico Rosberg;German;2;2014;Sepang International Circuit;Kuala Lumpur;Malaysia;3;2;Finished;18.0;56;+17.313;6043287;3603000;3985000;50000;3;24.888;74.664
-Mercedes;Lewis Hamilton;British;3;2014;Bahrain International Circuit;Sakhir;Bahrain;2;1;Finished;25.0;57;1:39:42.743;5982743;2423000;2852000;2444000;2;24.9165;49.833
-Mercedes;Nico Rosberg;German;3;2014;Bahrain International Circuit;Sakhir;Bahrain;1;2;Finished;18.0;57;+1.085;5983828;2539000;2688000;2165000;2;24.879;49.758
-Mercedes;Lewis Hamilton;British;4;2014;Shanghai International Circuit;Shanghai;China;1;1;Finished;25.0;54;1:33:28.338;5608338;3816000;3269000;4040000;2;23.4835;46.967
-Mercedes;Nico Rosberg;German;4;2014;Shanghai International Circuit;Shanghai;China;4;2;Finished;18.0;54;+18.062;5626400;3418000;3594000;3443000;2;23.183;46.366
-Mercedes;Lewis Hamilton;British;5;2014;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:41:05.155;6065155;1858000;1770000;1732000;2;23.2705;46.541
-Mercedes;Nico Rosberg;German;5;2014;Circuit de Barcelona-Catalunya;Montmeló;Spain;2;2;Finished;18.0;66;+0.636;6065791;2324000;1648000;1900000;2;22.2815;44.563
-Mercedes;Nico Rosberg;German;6;2014;Circuit de Monaco;Monte-Carlo;Monaco;1;1;Finished;25.0;78;1:49:27.661;6567661;1698000;1425000;1889000;1;24.672;24.672
-Mercedes;Lewis Hamilton;British;6;2014;Circuit de Monaco;Monte-Carlo;Monaco;2;2;Finished;18.0;78;+9.210;6576871;1843000;1314000;1008000;1;27.509;27.509
-Mercedes;Nico Rosberg;German;7;2014;Circuit Gilles Villeneuve;Montreal;Canada;1;2;Finished;18.0;70;+4.236;5957066;1431000;1189000;1714000;2;24.492;48.984
-Mercedes;Nico Rosberg;German;8;2014;Red Bull Ring;Spielberg;Austria;3;1;Finished;25.0;71;1:27:54.976;5274976;1235000;1454000;1424000;2;21.569;43.138
-Mercedes;Lewis Hamilton;British;8;2014;Red Bull Ring;Spielberg;Austria;9;2;Finished;18.0;71;+1.932;5276908;1054000;632000;;2;22.3905;44.781
-Mercedes;Lewis Hamilton;British;9;2014;Silverstone Circuit;Silverstone;UK;6;1;Finished;25.0;52;2:26:52.094;8812094;2518000;2910000;2572000;2;29.485;58.97
-Mercedes;Nico Rosberg;German;10;2014;Hockenheimring;Hockenheim;Germany;1;1;Finished;25.0;67;1:33:42.914;5622914;1651000;1129000;1500000;2;20.156;40.312
-Mercedes;Lewis Hamilton;British;10;2014;Hockenheimring;Hockenheim;Germany;20;3;Finished;15.0;67;+22.530;5645444;1763000;;;3;19.832;59.496
-Mercedes;Lewis Hamilton;British;11;2014;Hungaroring;Budapest;Hungary;22;3;Finished;15.0;70;+5.857;6790915;;;;2;23.582;47.164
-Mercedes;Nico Rosberg;German;11;2014;Hungaroring;Budapest;Hungary;1;4;Finished;12.0;70;+6.361;6791419;1727000;1690000;2035000;3;22.8973;68.692
-Mercedes;Nico Rosberg;German;12;2014;Circuit de Spa-Francorchamps;Spa;Belgium;1;2;Finished;18.0;44;+3.383;5079939;550000;1083000;891000;3;25.4417;76.325
-Mercedes;Lewis Hamilton;British;13;2014;Autodromo Nazionale di Monza;Monza;Italy;1;1;Finished;25.0;53;1:19:10.236;4750236;1863000;2000000;1549000;1;24.453;24.453
-Mercedes;Nico Rosberg;German;13;2014;Autodromo Nazionale di Monza;Monza;Italy;2;2;Finished;18.0;53;+3.175;4753411;1993000;2040000;1823000;1;24.583;24.583
-Mercedes;Lewis Hamilton;British;14;2014;Marina Bay Street Circuit;Marina Bay;Singapore;1;1;Finished;25.0;60;2:00:04.795;7204795;3681000;3047000;3381000;3;29.9153;89.746
-Mercedes;Lewis Hamilton;British;15;2014;Suzuka Circuit;Suzuka;Japan;2;1;Finished;25.0;44;1:51:43.021;6703021;2591000;2902000;2623000;2;23.784;47.568
-Mercedes;Nico Rosberg;German;15;2014;Suzuka Circuit;Suzuka;Japan;1;2;Finished;18.0;44;+9.180;6712201;2651000;2870000;2426000;2;24.279;48.558
-Mercedes;Lewis Hamilton;British;16;2014;Sochi Autodrom;Sochi;Russia;1;1;Finished;25.0;53;1:31:50.744;5510744;3039000;2618000;2793000;1;30.503;30.503
-Mercedes;Nico Rosberg;German;16;2014;Sochi Autodrom;Sochi;Russia;2;2;Finished;18.0;53;+13.657;5524401;2416000;2886000;2993000;1;33.82;33.82
-Mercedes;Lewis Hamilton;British;17;2014;Circuit of the Americas;Austin;USA;2;1;Finished;25.0;56;1:40:04.785;6004785;2416000;2507000;2603000;2;24.306;48.612
-Mercedes;Nico Rosberg;German;17;2014;Circuit of the Americas;Austin;USA;1;2;Finished;18.0;56;+4.314;6009099;2583000;2450000;2227000;2;24.473;48.946
-Mercedes;Nico Rosberg;German;18;2014;Autódromo José Carlos Pace;São Paulo;Brazil;1;1;Finished;25.0;71;1:30:02.555;5402555;947000;903000;623000;3;23.4387;70.316
-Mercedes;Lewis Hamilton;British;18;2014;Autódromo José Carlos Pace;São Paulo;Brazil;2;2;Finished;18.0;71;+1.457;5404012;1057000;1312000;656000;3;23.483;70.449
-Mercedes;Lewis Hamilton;British;19;2014;Yas Marina Circuit;Abu Dhabi;UAE;2;1;Finished;50.0;55;1:39:02.619;5942619;2667000;3320000;3266000;2;21.886;43.772
-Mercedes;Lewis Hamilton;British;1;2015;Albert Park Grand Prix Circuit;Melbourne;Australia;1;1;Finished;25.0;58;1:31:54.067;5514067;2266000;2454000;1887000;1;22.295;22.295
-Mercedes;Nico Rosberg;German;1;2015;Albert Park Grand Prix Circuit;Melbourne;Australia;2;2;Finished;18.0;58;+1.360;5515427;2586000;1717000;2481000;1;22.105;22.105
-Mercedes;Lewis Hamilton;British;2;2015;Sepang International Circuit;Kuala Lumpur;Malaysia;1;2;Finished;18.0;56;+8.569;6074362;2609000;2977000;3774000;3;24.956;74.868
-Mercedes;Nico Rosberg;German;2;2015;Sepang International Circuit;Kuala Lumpur;Malaysia;3;3;Finished;15.0;56;+12.310;6078103;2714000;2717000;3299000;3;27.533;82.599
-Mercedes;Lewis Hamilton;British;3;2015;Shanghai International Circuit;Shanghai;China;1;1;Finished;25.0;56;1:39:42.008;5982008;2565000;2583000;2882000;2;22.44;44.88
-Mercedes;Nico Rosberg;German;3;2015;Shanghai International Circuit;Shanghai;China;2;2;Finished;18.0;56;+0.714;5982722;2776000;2907000;2928000;2;22.656;45.312
-Mercedes;Lewis Hamilton;British;4;2015;Bahrain International Circuit;Sakhir;Bahrain;1;1;Finished;25.0;57;1:35:05.809;5705809;2908000;2589000;2491000;2;25.1595;50.319
-Mercedes;Nico Rosberg;German;4;2015;Bahrain International Circuit;Sakhir;Bahrain;3;3;Finished;15.0;57;+6.033;5711842;2438000;2858000;2109000;2;25.3645;50.729
-Mercedes;Nico Rosberg;German;5;2015;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:41:12.555;6072555;2050000;1666000;2121000;2;22.161;44.322
-Mercedes;Lewis Hamilton;British;5;2015;Circuit de Barcelona-Catalunya;Montmeló;Spain;2;2;Finished;18.0;66;+17.551;6090106;1942000;2240000;2388000;3;23.0927;69.278
-Mercedes;Nico Rosberg;German;6;2015;Circuit de Monaco;Monte-Carlo;Monaco;2;1;Finished;25.0;78;1:49:18.420;6558420;1488000;1371000;1340000;1;24.789;24.789
-Mercedes;Lewis Hamilton;British;6;2015;Circuit de Monaco;Monte-Carlo;Monaco;1;3;Finished;15.0;78;+6.053;6564473;1548000;1764000;998000;2;24.838;49.676
-Mercedes;Lewis Hamilton;British;7;2015;Circuit Gilles Villeneuve;Montreal;Canada;1;1;Finished;25.0;70;1:31:53.145;5513145;1795000;1501000;1233000;1;23.708;23.708
-Mercedes;Nico Rosberg;German;7;2015;Circuit Gilles Villeneuve;Montreal;Canada;2;2;Finished;18.0;70;+2.285;5515430;1793000;1513000;1542000;1;23.321;23.321
-Mercedes;Nico Rosberg;German;8;2015;Red Bull Ring;Spielberg;Austria;2;1;Finished;25.0;71;1:30:16.930;5416930;1576000;1114000;1135000;1;21.768;21.768
-Mercedes;Lewis Hamilton;British;8;2015;Red Bull Ring;Spielberg;Austria;1;2;Finished;18.0;71;+8.800;5425730;938000;602000;935000;1;21.869;21.869
-Mercedes;Lewis Hamilton;British;9;2015;Silverstone Circuit;Silverstone;UK;1;1;Finished;25.0;52;1:31:27.729;5487729;2776000;2048000;2168000;2;28.698;57.396
-Mercedes;Nico Rosberg;German;9;2015;Silverstone Circuit;Silverstone;UK;2;2;Finished;18.0;52;+10.956;5498685;2455000;2657000;2281000;2;29.393;58.786
-Mercedes;Lewis Hamilton;British;10;2015;Hungaroring;Budapest;Hungary;1;6;Finished;8.0;69;+52.025;6422010;2210000;1605000;1340000;6;21.2812;127.687
-Mercedes;Nico Rosberg;German;10;2015;Hungaroring;Budapest;Hungary;2;8;Finished;4.0;69;+58.876;6428861;2299000;2095000;1915000;5;20.5542;102.771
-Mercedes;Lewis Hamilton;British;11;2015;Circuit de Spa-Francorchamps;Spa;Belgium;1;1;Finished;25.0;43;1:23:40.387;5020387;3788000;2904000;3017000;2;22.679;45.358
-Mercedes;Nico Rosberg;German;11;2015;Circuit de Spa-Francorchamps;Spa;Belgium;2;2;Finished;18.0;43;+2.058;5022445;3803000;3775000;3475000;2;22.881;45.762
-Mercedes;Lewis Hamilton;British;12;2015;Autodromo Nazionale di Monza;Monza;Italy;1;1;Finished;25.0;53;1:18:00.688;4680688;1691000;1763000;1777000;1;24.368;24.368
-Mercedes;Nico Rosberg;German;13;2015;Marina Bay Street Circuit;Marina Bay;Singapore;6;4;Finished;12.0;61;+24.720;7306838;2961000;3353000;3115000;2;30.2245;60.449
-Mercedes;Lewis Hamilton;British;14;2015;Suzuka Circuit;Suzuka;Japan;2;1;Finished;25.0;53;1:28:06.508;5286508;2764000;2709000;2580000;2;22.9575;45.915
-Mercedes;Nico Rosberg;German;14;2015;Suzuka Circuit;Suzuka;Japan;1;2;Finished;18.0;53;+18.964;5305472;1995000;2552000;2504000;2;23.1595;46.319
-Mercedes;Lewis Hamilton;British;15;2015;Sochi Autodrom;Sochi;Russia;2;1;Finished;25.0;53;1:37:11.024;5831024;2838000;2892000;2653000;1;30.216;30.216
-Mercedes;Lewis Hamilton;British;16;2015;Circuit of the Americas;Austin;USA;2;1;Finished;25.0;56;1:50:52.703;6652703;4231000;4289000;;2;24.221;48.442
-Mercedes;Nico Rosberg;German;16;2015;Circuit of the Americas;Austin;USA;1;2;Finished;18.0;56;+2.850;6655553;4031000;4184000;;2;24.941;49.882
-Mercedes;Nico Rosberg;German;17;2015;Autódromo Hermanos Rodríguez;Mexico City;Mexico;1;1;Finished;25.0;71;1:42:35.038;6155038;1636000;1253000;1620000;2;22.347;44.694
-Mercedes;Lewis Hamilton;British;17;2015;Autódromo Hermanos Rodríguez;Mexico City;Mexico;2;2;Finished;18.0;71;+1.954;6156992;2008000;1969000;1808000;2;22.316;44.632
-Mercedes;Nico Rosberg;German;18;2015;Autódromo José Carlos Pace;São Paulo;Brazil;1;1;Finished;25.0;71;1:31:09.090;5469090;1406000;933000;942000;3;23.802;71.406
-Mercedes;Lewis Hamilton;British;18;2015;Autódromo José Carlos Pace;São Paulo;Brazil;2;2;Finished;18.0;71;+7.756;5476846;1342000;1325000;1020000;3;23.4707;70.412
-Mercedes;Nico Rosberg;German;19;2015;Yas Marina Circuit;Abu Dhabi;UAE;1;1;Finished;25.0;55;1:38:30.175;5910175;2571000;3379000;2637000;2;21.6085;43.217
-Mercedes;Lewis Hamilton;British;19;2015;Yas Marina Circuit;Abu Dhabi;UAE;2;2;Finished;18.0;55;+8.271;5918446;3374000;3158000;3014000;2;21.369;42.738
-Mercedes;Nico Rosberg;German;1;2016;Albert Park Grand Prix Circuit;Melbourne;Australia;2;1;Finished;25.0;57;1:48:15.565;6495565;2494000;2236000;1637000;1;21.531;21.531
-Mercedes;Lewis Hamilton;British;1;2016;Albert Park Grand Prix Circuit;Melbourne;Australia;1;2;Finished;18.0;57;+8.060;6503625;1851000;2045000;2217000;1;21.94;21.94
-Mercedes;Nico Rosberg;German;2;2016;Bahrain International Circuit;Sakhir;Bahrain;2;1;Finished;25.0;57;1:33:34.696;5614696;2185000;2335000;2310000;3;25.9737;77.921
-Mercedes;Lewis Hamilton;British;2;2016;Bahrain International Circuit;Sakhir;Bahrain;1;3;Finished;15.0;57;+30.148;5644844;2251000;1839000;2233000;3;24.6887;74.066
-Mercedes;Nico Rosberg;German;3;2016;Shanghai International Circuit;Shanghai;China;1;1;Finished;25.0;56;1:38:53.891;5933891;2889000;2400000;2502000;2;23.195;46.39
-Mercedes;Lewis Hamilton;British;3;2016;Shanghai International Circuit;Shanghai;China;22;7;Finished;6.0;56;+1:18.230;6012121;;;;5;24.4252;122.126
-Mercedes;Nico Rosberg;German;4;2016;Sochi Autodrom;Sochi;Russia;1;1;Finished;25.0;53;1:32:41.997;5561997;2279000;2437000;2517000;1;29.709;29.709
-Mercedes;Lewis Hamilton;British;4;2016;Sochi Autodrom;Sochi;Russia;10;2;Finished;18.0;53;+25.022;5587019;2166000;2920000;;1;30.001;30.001
-Mercedes;Lewis Hamilton;British;6;2016;Circuit de Monaco;Monte-Carlo;Monaco;3;1;Finished;25.0;78;1:59:29.133;7169133;1666000;896000;1722000;1;26.315;26.315
-Mercedes;Nico Rosberg;German;6;2016;Circuit de Monaco;Monte-Carlo;Monaco;2;7;Finished;6.0;78;+1:33.290;7262423;1713000;883000;1571000;2;27.189;54.378
-Mercedes;Lewis Hamilton;British;7;2016;Circuit Gilles Villeneuve;Montreal;Canada;1;1;Finished;25.0;70;1:31:05.296;5465296;961000;856000;1532000;1;22.243;22.243
-Mercedes;Nico Rosberg;German;7;2016;Circuit Gilles Villeneuve;Montreal;Canada;2;5;Finished;10.0;70;+1:02.093;5527389;1494000;874000;1594000;2;22.597;45.194
-Mercedes;Nico Rosberg;German;8;2016;Baku City Circuit;Baku;Azerbaijan;1;1;Finished;25.0;51;1:32:52.366;5572366;3265000;3040000;3278000;1;20.058;20.058
-Mercedes;Lewis Hamilton;British;8;2016;Baku City Circuit;Baku;Azerbaijan;10;5;Finished;10.0;51;+56.335;5628701;2899000;3106000;1014000;1;20.108;20.108
-Mercedes;Lewis Hamilton;British;9;2016;Red Bull Ring;Spielberg;Austria;1;1;Finished;25.0;71;1:27:38.107;5258107;1307000;588000;1342000;4;20.1815;80.726
-Mercedes;Nico Rosberg;German;9;2016;Red Bull Ring;Spielberg;Austria;6;4;Finished;12.0;71;+16.710;5274817;876000;763000;945000;4;19.776;79.104
-Mercedes;Lewis Hamilton;British;10;2016;Silverstone Circuit;Silverstone;UK;1;1;Finished;25.0;52;1:34:55.831;5695831;2539000;1983000;2027000;2;29.5355;59.071
-Mercedes;Nico Rosberg;German;10;2016;Silverstone Circuit;Silverstone;UK;2;3;Finished;15.0;52;+16.911;5712742;2524000;2710000;2346000;2;29.555;59.11
-Mercedes;Lewis Hamilton;British;11;2016;Hungaroring;Budapest;Hungary;2;1;Finished;25.0;70;1:40:30.115;6030115;2250000;2276000;1308000;2;21.607;43.214
-Mercedes;Nico Rosberg;German;11;2016;Hungaroring;Budapest;Hungary;1;2;Finished;18.0;70;+1.977;6032092;2282000;2126000;2105000;2;21.792;43.584
-Mercedes;Lewis Hamilton;British;12;2016;Hockenheimring;Hockenheim;Germany;2;1;Finished;25.0;67;1:30:44.200;5444200;1143000;1588000;1310000;3;18.543;55.629
-Mercedes;Nico Rosberg;German;12;2016;Hockenheimring;Hockenheim;Germany;1;4;Finished;12.0;67;+15.845;5460045;1385000;1679000;1203000;3;22.331;66.993
-Mercedes;Nico Rosberg;German;13;2016;Circuit de Spa-Francorchamps;Spa;Belgium;1;1;Finished;25.0;44;1:44:51.058;6291058;2899000;3759000;3504000;1;22.596;22.596
-Mercedes;Lewis Hamilton;British;13;2016;Circuit de Spa-Francorchamps;Spa;Belgium;21;3;Finished;15.0;44;+27.634;6318692;3033000;;;2;23.3875;46.775
-Mercedes;Nico Rosberg;German;14;2016;Autodromo Nazionale di Monza;Monza;Italy;2;1;Finished;25.0;53;1:17:28.089;4648089;1817000;2069000;1873000;1;25.55;25.55
-Mercedes;Lewis Hamilton;British;14;2016;Autodromo Nazionale di Monza;Monza;Italy;1;2;Finished;18.0;53;+15.070;4663159;2114000;1758000;1395000;1;23.633;23.633
-Mercedes;Nico Rosberg;German;15;2016;Marina Bay Street Circuit;Marina Bay;Singapore;1;1;Finished;25.0;61;1:55:48.950;6948950;3016000;2600000;3104000;3;28.622;85.866
-Mercedes;Lewis Hamilton;British;15;2016;Marina Bay Street Circuit;Marina Bay;Singapore;3;3;Finished;15.0;61;+8.038;6956988;2867000;3051000;2868000;4;27.5848;110.339
-Mercedes;Nico Rosberg;German;16;2016;Sepang International Circuit;Kuala Lumpur;Malaysia;2;3;Finished;15.0;56;+25.516;5858292;2500000;2589000;2244000;3;23.9623;71.887
-Mercedes;Nico Rosberg;German;17;2016;Suzuka Circuit;Suzuka;Japan;1;1;Finished;25.0;53;1:26:43.333;5203333;2718000;2514000;2447000;2;22.9115;45.823
-Mercedes;Lewis Hamilton;British;17;2016;Suzuka Circuit;Suzuka;Japan;2;3;Finished;15.0;53;+5.776;5209109;2138000;1989000;2460000;2;22.8605;45.721
-Mercedes;Lewis Hamilton;British;18;2016;Circuit of the Americas;Austin;USA;1;1;Finished;25.0;56;1:38:12.618;5892618;2456000;2610000;3039000;2;23.588;47.176
-Mercedes;Nico Rosberg;German;18;2016;Circuit of the Americas;Austin;USA;2;2;Finished;18.0;56;+4.520;5897138;2557000;2511000;2315000;2;23.8375;47.675
-Mercedes;Lewis Hamilton;British;19;2016;Autódromo Hermanos Rodríguez;Mexico City;Mexico;1;1;Finished;25.0;71;1:40:31.402;6031402;1587000;1277000;1784000;1;21.709;21.709
-Mercedes;Nico Rosberg;German;19;2016;Autódromo Hermanos Rodríguez;Mexico City;Mexico;2;2;Finished;18.0;71;+8.354;6039756;2136000;1901000;2038000;1;21.997;21.997
-Mercedes;Lewis Hamilton;British;21;2016;Yas Marina Circuit;Abu Dhabi;UAE;1;1;Finished;25.0;55;1:38:04.013;5884013;2827000;2722000;3035000;2;21.9775;43.955
-Mercedes;Nico Rosberg;German;21;2016;Yas Marina Circuit;Abu Dhabi;UAE;2;2;Finished;18.0;55;+0.439;5884452;2911000;2830000;2398000;2;22.4855;44.971
-Mercedes;Lewis Hamilton;British;1;2017;Albert Park Grand Prix Circuit;Melbourne;Australia;1;2;Finished;18.0;57;+9.975;5061647;1631000;1631000;1508000;1;21.709;21.709
-Mercedes;Valtteri Bottas;Finnish;1;2017;Albert Park Grand Prix Circuit;Melbourne;Australia;3;3;Finished;15.0;57;+11.250;5062922;1954000;1595000;1801000;1;21.44;21.44
-Mercedes;Lewis Hamilton;British;2;2017;Shanghai International Circuit;Shanghai;China;1;1;Finished;25.0;56;1:37:36.158;5856158;2313000;2326000;2538000;4;20.255;81.02
-Mercedes;Valtteri Bottas;Finnish;2;2017;Shanghai International Circuit;Shanghai;China;3;6;Finished;8.0;56;+48.808;5904966;2664000;2472000;2725000;4;22.8175;91.27
-Mercedes;Lewis Hamilton;British;3;2017;Bahrain International Circuit;Sakhir;Bahrain;2;2;Finished;18.0;57;+6.660;5640034;2614000;2275000;2472000;2;30.6845;61.369
-Mercedes;Valtteri Bottas;Finnish;3;2017;Bahrain International Circuit;Sakhir;Bahrain;1;3;Finished;15.0;57;+20.397;5653771;1901000;2295000;2449000;2;26.454;52.908
-Mercedes;Valtteri Bottas;Finnish;4;2017;Sochi Autodrom;Sochi;Russia;3;1;Finished;25.0;52;1:28:08.743;5288743;2081000;2244000;2269000;1;29.356;29.356
-Mercedes;Lewis Hamilton;British;4;2017;Sochi Autodrom;Sochi;Russia;4;4;Finished;12.0;52;+36.320;5325063;2449000;2740000;2747000;1;29.739;29.739
-Mercedes;Lewis Hamilton;British;5;2017;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:35:56.497;5756497;1711000;1410000;1289000;2;21.633;43.266
-Mercedes;Valtteri Bottas;Finnish;6;2017;Circuit de Monaco;Monte-Carlo;Monaco;3;4;Finished;12.0;78;+5.517;6289857;1105000;1621000;943000;1;24.308;24.308
-Mercedes;Lewis Hamilton;British;6;2017;Circuit de Monaco;Monte-Carlo;Monaco;13;7;Finished;6.0;78;+15.801;6300141;1420000;946000;;1;24.155;24.155
-Mercedes;Lewis Hamilton;British;7;2017;Circuit Gilles Villeneuve;Montreal;Canada;1;1;Finished;25.0;70;1:33:05.154;5585154;1412000;1216000;1119000;1;23.061;23.061
-Mercedes;Valtteri Bottas;Finnish;7;2017;Circuit Gilles Villeneuve;Montreal;Canada;3;2;Finished;18.0;70;+19.783;5604937;1405000;1283000;897000;1;22.946;22.946
-Mercedes;Valtteri Bottas;Finnish;8;2017;Baku City Circuit;Baku;Azerbaijan;2;2;Finished;18.0;51;+3.904;7439477;2606000;2962000;2487000;3;23.8823;71.647
-Mercedes;Lewis Hamilton;British;8;2017;Baku City Circuit;Baku;Azerbaijan;1;5;Finished;10.0;51;+6.188;7441761;3443000;2735000;2993000;3;20.8923;62.677
-Mercedes;Valtteri Bottas;Finnish;9;2017;Red Bull Ring;Spielberg;Austria;1;1;Finished;25.0;71;1:21:48.523;4908523;1060000;556000;491000;1;22.387;22.387
-Mercedes;Lewis Hamilton;British;9;2017;Red Bull Ring;Spielberg;Austria;8;4;Finished;12.0;71;+7.430;4915953;364000;1040000;664000;1;20.761;20.761
-Mercedes;Lewis Hamilton;British;10;2017;Silverstone Circuit;Silverstone;UK;1;1;Finished;25.0;51;1:21:27.430;4887430;2409000;2513000;2160000;1;27.733;27.733
-Mercedes;Valtteri Bottas;Finnish;10;2017;Silverstone Circuit;Silverstone;UK;9;2;Finished;18.0;51;+14.063;4901493;3038000;2412000;1996000;1;27.858;27.858
-Mercedes;Valtteri Bottas;Finnish;11;2017;Hungaroring;Budapest;Hungary;3;3;Finished;15.0;70;+12.462;5999175;1138000;1382000;1490000;1;22.681;22.681
-Mercedes;Lewis Hamilton;British;11;2017;Hungaroring;Budapest;Hungary;4;4;Finished;12.0;70;+12.885;5999598;1512000;1653000;1667000;1;21.338;21.338
-Mercedes;Lewis Hamilton;British;12;2017;Circuit de Spa-Francorchamps;Spa;Belgium;1;1;Finished;25.0;44;1:24:42.820;5082820;2824000;3447000;3073000;2;22.197;44.394
-Mercedes;Valtteri Bottas;Finnish;12;2017;Circuit de Spa-Francorchamps;Spa;Belgium;3;5;Finished;10.0;44;+16.456;5099276;3413000;2829000;2674000;2;22.941;45.882
-Mercedes;Lewis Hamilton;British;13;2017;Autodromo Nazionale di Monza;Monza;Italy;1;1;Finished;25.0;53;1:15:32.312;4532312;2169000;2700000;2654000;1;23.725;23.725
-Mercedes;Valtteri Bottas;Finnish;13;2017;Autodromo Nazionale di Monza;Monza;Italy;4;2;Finished;18.0;53;+4.471;4536783;2816000;2496000;3053000;1;23.728;23.728
-Mercedes;Lewis Hamilton;British;14;2017;Marina Bay Street Circuit;Marina Bay;Singapore;5;1;Finished;25.0;58;2:03:23.544;7403544;2975000;2977000;2526000;4;26.9033;107.613
-Mercedes;Valtteri Bottas;Finnish;14;2017;Marina Bay Street Circuit;Marina Bay;Singapore;6;3;Finished;15.0;58;+8.800;7412344;2717000;2869000;3210000;4;27.583;110.332
-Mercedes;Lewis Hamilton;British;15;2017;Sepang International Circuit;Kuala Lumpur;Malaysia;1;2;Finished;18.0;56;+12.770;5414060;2465000;2777000;1876000;1;23.489;23.489
-Mercedes;Valtteri Bottas;Finnish;15;2017;Sepang International Circuit;Kuala Lumpur;Malaysia;5;5;Finished;10.0;56;+56.021;5457311;2174000;2603000;2558000;1;23.676;23.676
-Mercedes;Lewis Hamilton;British;16;2017;Suzuka Circuit;Suzuka;Japan;1;1;Finished;25.0;53;1:27:31.194;5251194;1787000;2439000;1939000;1;22.724;22.724
-Mercedes;Valtteri Bottas;Finnish;16;2017;Suzuka Circuit;Suzuka;Japan;6;4;Finished;12.0;53;+10.580;5261774;2072000;2223000;2271000;1;22.876;22.876
-Mercedes;Lewis Hamilton;British;17;2017;Circuit of the Americas;Austin;USA;1;1;Finished;25.0;56;1:33:50.991;5630991;2862000;2417000;2088000;1;23.402;23.402
-Mercedes;Valtteri Bottas;Finnish;17;2017;Circuit of the Americas;Austin;USA;3;5;Finished;10.0;56;+34.967;5665958;2409000;2749000;2548000;2;23.3565;46.713
-Mercedes;Valtteri Bottas;Finnish;18;2017;Autódromo Hermanos Rodríguez;Mexico City;Mexico;4;2;Finished;18.0;71;+19.678;5806230;1598000;1181000;1918000;1;21.758;21.758
-Mercedes;Valtteri Bottas;Finnish;19;2017;Autódromo José Carlos Pace;São Paulo;Brazil;1;2;Finished;18.0;71;+2.762;5489024;992000;1118000;802000;4;19.348;77.392
-Mercedes;Lewis Hamilton;British;19;2017;Autódromo José Carlos Pace;São Paulo;Brazil;20;4;Finished;12.0;71;+5.468;5491730;;;;4;20.115;80.46
-Mercedes;Valtteri Bottas;Finnish;20;2017;Yas Marina Circuit;Abu Dhabi;UAE;1;1;Finished;25.0;55;1:34:14.062;5654062;2576000;2982000;2391000;1;21.478;21.478
-Mercedes;Lewis Hamilton;British;20;2017;Yas Marina Circuit;Abu Dhabi;UAE;2;2;Finished;18.0;55;+3.899;5657961;2611000;2902000;2563000;1;21.274;21.274
-Mercedes;Lewis Hamilton;British;1;2018;Albert Park Grand Prix Circuit;Melbourne;Australia;1;2;Finished;18.0;58;+5.036;5378319;2144000;1371000;1424000;1;21.821;21.821
-Mercedes;Valtteri Bottas;Finnish;1;2018;Albert Park Grand Prix Circuit;Melbourne;Australia;15;8;Finished;4.0;58;+34.339;5407622;2066000;1409000;;1;21.664;21.664
-Mercedes;Valtteri Bottas;Finnish;2;2018;Bahrain International Circuit;Sakhir;Bahrain;3;2;Finished;18.0;57;+0.699;5522639;2015000;2474000;1804000;1;26.105;26.105
-Mercedes;Lewis Hamilton;British;2;2018;Bahrain International Circuit;Sakhir;Bahrain;9;3;Finished;15.0;57;+6.512;5528452;2136000;2138000;1900000;1;24.302;24.302
-Mercedes;Valtteri Bottas;Finnish;3;2018;Shanghai International Circuit;Shanghai;China;3;2;Finished;18.0;56;+8.894;5745274;2841000;1983000;2485000;1;22.097;22.097
-Mercedes;Lewis Hamilton;British;3;2018;Shanghai International Circuit;Shanghai;China;4;4;Finished;12.0;56;+16.985;5753365;2263000;2774000;2535000;1;22.464;22.464
-Mercedes;Lewis Hamilton;British;4;2018;Baku City Circuit;Baku;Azerbaijan;2;1;Finished;25.0;51;1:43:44.291;6224291;3213000;3196000;3137000;2;20.853;41.706
-Mercedes;Lewis Hamilton;British;5;2018;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:35:29.972;5729972;1653000;1186000;1133000;1;22.085;22.085
-Mercedes;Valtteri Bottas;Finnish;5;2018;Circuit de Barcelona-Catalunya;Montmeló;Spain;2;2;Finished;18.0;66;+20.593;5750565;1694000;1131000;1173000;1;23.213;23.213
-Mercedes;Lewis Hamilton;British;6;2018;Circuit de Monaco;Monte-Carlo;Monaco;3;3;Finished;15.0;78;+17.013;6191820;1180000;1244000;892000;1;23.739;23.739
-Mercedes;Valtteri Bottas;Finnish;6;2018;Circuit de Monaco;Monte-Carlo;Monaco;5;5;Finished;10.0;78;+18.822;6193629;1154000;722000;1101000;1;24.02;24.02
-Mercedes;Valtteri Bottas;Finnish;7;2018;Circuit Gilles Villeneuve;Montreal;Canada;2;2;Finished;18.0;68;+7.376;5318753;1610000;1174000;1457000;1;23.775;23.775
-Mercedes;Lewis Hamilton;British;7;2018;Circuit Gilles Villeneuve;Montreal;Canada;4;5;Finished;10.0;68;+21.559;5332936;1495000;1400000;1596000;1;23.335;23.335
-Mercedes;Lewis Hamilton;British;8;2018;Circuit Paul Ricard;Le Castellet;France;1;1;Finished;25.0;53;1:30:11.385;5411385;2131000;2445000;1829000;1;24.31;24.31
-Mercedes;Valtteri Bottas;Finnish;8;2018;Circuit Paul Ricard;Le Castellet;France;2;7;Finished;6.0;53;+1:20.632;5492017;2636000;2087000;1947000;2;29.3105;58.621
-Mercedes;Lewis Hamilton;British;10;2018;Silverstone Circuit;Silverstone;UK;1;2;Finished;18.0;52;+2.264;5252048;2378000;1816000;2392000;1;28.982;28.982
-Mercedes;Valtteri Bottas;Finnish;10;2018;Silverstone Circuit;Silverstone;UK;4;4;Finished;12.0;52;+8.883;5258667;1645000;1973000;1777000;1;27.894;27.894
-Mercedes;Lewis Hamilton;British;11;2018;Hockenheimring;Hockenheim;Germany;14;1;Finished;25.0;67;1:32:29.845;5549845;792000;;;1;18.978;18.978
-Mercedes;Valtteri Bottas;Finnish;11;2018;Hockenheimring;Hockenheim;Germany;2;2;Finished;18.0;67;+4.535;5554380;1682000;872000;1076000;2;26.2335;52.467
-Mercedes;Lewis Hamilton;British;12;2018;Hungaroring;Budapest;Hungary;1;1;Finished;25.0;70;1:37:16.427;5836427;1439000;2102000;2758000;1;21.48;21.48
-Mercedes;Valtteri Bottas;Finnish;12;2018;Hungaroring;Budapest;Hungary;2;5;Finished;10.0;70;+50.000;5886427;1143000;2001000;3018000;1;21.337;21.337
-Mercedes;Lewis Hamilton;British;13;2018;Circuit de Spa-Francorchamps;Spa;Belgium;1;2;Finished;18.0;44;+11.061;5025537;3497000;3013000;3659000;2;20.8735;41.747
-Mercedes;Valtteri Bottas;Finnish;13;2018;Circuit de Spa-Francorchamps;Spa;Belgium;19;4;Finished;12.0;44;+1:03.605;5078081;3325000;2711000;;3;24.4223;73.267
-Mercedes;Lewis Hamilton;British;14;2018;Autodromo Nazionale di Monza;Monza;Italy;3;1;Finished;25.0;53;1:16:54.484;4614484;2010000;1938000;1434000;1;23.728;23.728
-Mercedes;Valtteri Bottas;Finnish;14;2018;Autodromo Nazionale di Monza;Monza;Italy;4;3;Finished;15.0;53;+14.066;4628550;1641000;1627000;1796000;1;23.763;23.763
-Mercedes;Lewis Hamilton;British;15;2018;Marina Bay Street Circuit;Marina Bay;Singapore;1;1;Finished;25.0;61;1:51:11.611;6671611;2743000;2564000;2175000;1;28.946;28.946
-Mercedes;Valtteri Bottas;Finnish;15;2018;Marina Bay Street Circuit;Marina Bay;Singapore;4;4;Finished;12.0;61;+51.930;6723541;2631000;2474000;2862000;1;28.542;28.542
-Mercedes;Lewis Hamilton;British;16;2018;Sochi Autodrom;Sochi;Russia;2;1;Finished;25.0;53;1:27:25.181;5245181;2330000;2515000;2392000;1;29.551;29.551
-Mercedes;Valtteri Bottas;Finnish;16;2018;Sochi Autodrom;Sochi;Russia;1;2;Finished;18.0;53;+2.545;5247726;2884000;2664000;2247000;1;29.794;29.794
-Mercedes;Lewis Hamilton;British;17;2018;Suzuka Circuit;Suzuka;Japan;1;1;Finished;25.0;53;1:27:17.062;5237062;2382000;1697000;2380000;1;22.614;22.614
-Mercedes;Valtteri Bottas;Finnish;17;2018;Suzuka Circuit;Suzuka;Japan;2;2;Finished;18.0;53;+12.919;5249981;2037000;2607000;1739000;1;22.777;22.777
-Mercedes;Lewis Hamilton;British;18;2018;Circuit of the Americas;Austin;USA;1;3;Finished;15.0;56;+2.342;5660985;2170000;2460000;2157000;2;23.804;47.608
-Mercedes;Valtteri Bottas;Finnish;18;2018;Circuit of the Americas;Austin;USA;3;5;Finished;10.0;56;+24.744;5683387;2558000;2682000;2536000;1;23.478;23.478
-Mercedes;Lewis Hamilton;British;19;2018;Autódromo Hermanos Rodríguez;Mexico City;Mexico;3;4;Finished;12.0;71;+1:18.738;5987589;1573000;1544000;1734000;2;22.334;44.668
-Mercedes;Lewis Hamilton;British;20;2018;Autódromo José Carlos Pace;São Paulo;Brazil;1;1;Finished;25.0;71;1:27:09.066;5229066;944000;1215000;701000;1;22.641;22.641
-Mercedes;Valtteri Bottas;Finnish;20;2018;Autódromo José Carlos Pace;São Paulo;Brazil;3;5;Finished;10.0;71;+22.943;5252009;972000;1147000;861000;2;22.841;45.682
-Mercedes;Lewis Hamilton;British;21;2018;Yas Marina Circuit;Abu Dhabi;UAE;1;1;Finished;25.0;55;1:39:40.382;5980382;2988000;2793000;2834000;1;21.283;21.283
-Mercedes;Valtteri Bottas;Finnish;21;2018;Yas Marina Circuit;Abu Dhabi;UAE;2;5;Finished;10.0;55;+47.957;6028339;2949000;2552000;2996000;2;21.4445;42.889
-Mercedes;Valtteri Bottas;Finnish;1;2019;Albert Park Grand Prix Circuit;Melbourne;Australia;2;1;Finished;26.0;58;1:25:27.325;5127325;1687000;1453000;1798000;1;22.014;22.014
-Mercedes;Lewis Hamilton;British;1;2019;Albert Park Grand Prix Circuit;Melbourne;Australia;1;2;Finished;18.0;58;+20.886;5148211;1363000;1274000;1686000;1;21.515;21.515
-Mercedes;Lewis Hamilton;British;2;2019;Bahrain International Circuit;Sakhir;Bahrain;3;1;Finished;25.0;57;1:34:21.295;5661295;2002000;2258000;1870000;2;24.2895;48.579
-Mercedes;Valtteri Bottas;Finnish;2;2019;Bahrain International Circuit;Sakhir;Bahrain;4;2;Finished;18.0;57;+2.980;5664275;2238000;2510000;1936000;2;24.649;49.298
-Mercedes;Lewis Hamilton;British;3;2019;Shanghai International Circuit;Shanghai;China;2;1;Finished;25.0;56;1:32:06.350;5526350;2095000;2497000;2430000;2;23.1205;46.241
-Mercedes;Valtteri Bottas;Finnish;3;2019;Shanghai International Circuit;Shanghai;China;1;2;Finished;18.0;56;+6.552;5532902;2578000;2588000;2407000;2;23.1395;46.279
-Mercedes;Valtteri Bottas;Finnish;4;2019;Baku City Circuit;Baku;Azerbaijan;1;1;Finished;25.0;51;1:31:52.942;5512942;2546000;2960000;2895000;1;20.006;20.006
-Mercedes;Lewis Hamilton;British;4;2019;Baku City Circuit;Baku;Azerbaijan;2;2;Finished;18.0;51;+1.524;5514466;3074000;3040000;2954000;1;19.993;19.993
-Mercedes;Lewis Hamilton;British;5;2019;Circuit de Barcelona-Catalunya;Montmeló;Spain;2;1;Finished;26.0;66;1:35:50.443;5750443;1312000;998000;1000000;2;22.388;44.776
-Mercedes;Valtteri Bottas;Finnish;5;2019;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;2;Finished;18.0;66;+4.074;5754517;1939000;1824000;1306000;2;22.026;44.052
-Mercedes;Lewis Hamilton;British;6;2019;Circuit de Monaco;Monte-Carlo;Monaco;1;1;Finished;25.0;78;1:43:28.437;6208437;1202000;1435000;766000;1;24.266;24.266
-Mercedes;Valtteri Bottas;Finnish;6;2019;Circuit de Monaco;Monte-Carlo;Monaco;2;3;Finished;15.0;78;+3.162;6211599;1222000;1301000;852000;2;24.903;49.806
-Mercedes;Lewis Hamilton;British;7;2019;Circuit Gilles Villeneuve;Montreal;Canada;2;1;Finished;25.0;70;1:29:07.084;5347084;1178000;670000;1046000;1;23.662;23.662
-Mercedes;Valtteri Bottas;Finnish;7;2019;Circuit Gilles Villeneuve;Montreal;Canada;6;4;Finished;13.0;70;+51.043;5398127;889000;755000;761000;2;23.725;47.45
-Mercedes;Lewis Hamilton;British;8;2019;Circuit Paul Ricard;Le Castellet;France;1;1;Finished;25.0;53;1:24:31.198;5071198;2409000;2260000;1999000;1;30.186;30.186
-Mercedes;Valtteri Bottas;Finnish;8;2019;Circuit Paul Ricard;Le Castellet;France;2;2;Finished;18.0;53;+18.056;5089254;2350000;2177000;2285000;1;30.412;30.412
-Mercedes;Valtteri Bottas;Finnish;9;2019;Red Bull Ring;Spielberg;Austria;3;3;Finished;15.0;71;+18.960;4940782;324000;1043000;717000;1;22.552;22.552
-Mercedes;Lewis Hamilton;British;9;2019;Red Bull Ring;Spielberg;Austria;4;5;Finished;10.0;71;+22.805;4944627;998000;983000;442000;1;30.067;30.067
-Mercedes;Lewis Hamilton;British;10;2019;Silverstone Circuit;Silverstone;UK;2;1;Finished;26.0;52;1:21:08.452;4868452;2013000;2340000;1599000;1;28.905;28.905
-Mercedes;Valtteri Bottas;Finnish;10;2019;Silverstone Circuit;Silverstone;UK;1;2;Finished;18.0;52;+24.928;4893380;2250000;2172000;1593000;2;28.335;56.67
-Mercedes;Lewis Hamilton;British;11;2019;Hockenheimring;Hockenheim;Germany;1;9;Finished;2.0;64;+19.667;6290942;1572000;869000;1427000;5;21.9688;109.844
-Mercedes;Lewis Hamilton;British;12;2019;Hungaroring;Budapest;Hungary;3;1;Finished;25.0;70;1:35:03.796;5703796;1028000;1448000;1609000;2;22.135;44.27
-Mercedes;Lewis Hamilton;British;13;2019;Circuit de Spa-Francorchamps;Spa;Belgium;3;2;Finished;18.0;44;+0.981;5026691;2960000;3172000;2862000;1;23.497;23.497
-Mercedes;Valtteri Bottas;Finnish;13;2019;Circuit de Spa-Francorchamps;Spa;Belgium;4;3;Finished;15.0;44;+12.585;5038295;2841000;3560000;2995000;1;22.579;22.579
-Mercedes;Valtteri Bottas;Finnish;14;2019;Autodromo Nazionale di Monza;Monza;Italy;3;2;Finished;18.0;53;+0.835;4527500;1356000;1218000;1494000;1;23.7;23.7
-Mercedes;Lewis Hamilton;British;14;2019;Autodromo Nazionale di Monza;Monza;Italy;2;3;Finished;16.0;53;+35.199;4561864;1472000;1604000;1486000;2;23.8215;47.643
-Mercedes;Lewis Hamilton;British;15;2019;Marina Bay Street Circuit;Marina Bay;Singapore;2;4;Finished;12.0;61;+4.608;7118275;2785000;3093000;2568000;1;28.93;28.93
-Mercedes;Valtteri Bottas;Finnish;15;2019;Marina Bay Street Circuit;Marina Bay;Singapore;5;5;Finished;10.0;61;+6.119;7119786;2537000;2362000;2366000;1;29.234;29.234
-Mercedes;Lewis Hamilton;British;16;2019;Sochi Autodrom;Sochi;Russia;2;1;Finished;26.0;53;1:33:38.992;5618992;2210000;2114000;1950000;1;29.751;29.751
-Mercedes;Valtteri Bottas;Finnish;16;2019;Sochi Autodrom;Sochi;Russia;4;2;Finished;18.0;53;+3.829;5622821;2393000;2261000;2552000;1;29.436;29.436
-Mercedes;Valtteri Bottas;Finnish;17;2019;Suzuka Circuit;Suzuka;Japan;3;1;Finished;25.0;52;1:21:46.755;4906755;2576000;2308000;1913000;2;23.0785;46.157
-Mercedes;Lewis Hamilton;British;17;2019;Suzuka Circuit;Suzuka;Japan;4;3;Finished;16.0;52;+13.858;4920613;2415000;2446000;1922000;2;23.5865;47.173
-Mercedes;Lewis Hamilton;British;18;2019;Autódromo Hermanos Rodríguez;Mexico City;Mexico;3;1;Finished;25.0;71;1:36:48.904;5808904;1384000;1621000;1162000;1;22.269;22.269
-Mercedes;Valtteri Bottas;Finnish;18;2019;Autódromo Hermanos Rodríguez;Mexico City;Mexico;6;3;Finished;15.0;71;+3.553;5812457;1082000;1752000;1238000;1;22.179;22.179
-Mercedes;Valtteri Bottas;Finnish;19;2019;Circuit of the Americas;Austin;USA;1;1;Finished;25.0;56;1:33:55.653;5635653;2730000;2140000;1949000;2;23.985;47.97
-Mercedes;Lewis Hamilton;British;19;2019;Circuit of the Americas;Austin;USA;5;2;Finished;18.0;56;+4.148;5639801;2434000;2025000;2241000;1;23.943;23.943
-Mercedes;Lewis Hamilton;British;20;2019;Autódromo José Carlos Pace;São Paulo;Brazil;3;7;Finished;6.0;71;+11.139;5605817;1094000;568000;1119000;3;23.01;69.03
-Mercedes;Lewis Hamilton;British;21;2019;Yas Marina Circuit;Abu Dhabi;UAE;1;1;Finished;26.0;55;1:34:05.715;5645715;2951000;2734000;2819000;1;22.178;22.178
-Mercedes;Valtteri Bottas;Finnish;21;2019;Yas Marina Circuit;Abu Dhabi;UAE;20;4;Finished;12.0;55;+44.379;5690094;2360000;2774000;3013000;1;21.145;21.145
-Mercedes;Valtteri Bottas;Finnish;1;2020;Red Bull Ring;Spielberg;Austria;1;1;Finished;25.0;71;1:30:55.739;5455739;351000;195000;1059000;2;19.172;38.344
-Mercedes;Lewis Hamilton;British;1;2020;Red Bull Ring;Spielberg;Austria;5;4;Finished;12.0;71;+5.689;5461428;438000;276000;1071000;2;19.1075;38.215
-Mercedes;Lewis Hamilton;British;2;2020;Red Bull Ring;Spielberg;Austria;1;1;Finished;25.0;71;1:22:50.683;4970683;1268000;1845000;1413000;1;21.729;21.729
-Mercedes;Valtteri Bottas;Finnish;2;2020;Red Bull Ring;Spielberg;Austria;4;2;Finished;18.0;71;+13.719;4984402;1871000;1737000;1901000;1;21.376;21.376
-Mercedes;Lewis Hamilton;British;3;2020;Hungaroring;Budapest;Hungary;1;1;Finished;26.0;70;1:36:12.473;5772473;1747000;1101000;1227000;3;22.3367;67.01
-Mercedes;Valtteri Bottas;Finnish;3;2020;Hungaroring;Budapest;Hungary;2;3;Finished;15.0;70;+9.452;5781925;1374000;1370000;1334000;3;21.7073;65.122
-Mercedes;Lewis Hamilton;British;4;2020;Silverstone Circuit;Silverstone;UK;1;1;Finished;25.0;52;1:28:01.283;5281283;2400000;1847000;1743000;1;28.805;28.805
-Mercedes;Valtteri Bottas;Finnish;4;2020;Silverstone Circuit;Silverstone;UK;2;11;Finished;0.0;52;+42.167;5323450;2301000;1515000;2056000;2;32.0865;64.173
-Mercedes;Lewis Hamilton;British;5;2020;Silverstone Circuit;Silverstone;UK;2;2;Finished;19.0;52;+11.326;4793319;2378000;1826000;1717000;2;28.904;57.808
-Mercedes;Valtteri Bottas;Finnish;5;2020;Silverstone Circuit;Silverstone;UK;1;3;Finished;15.0;52;+19.231;4801224;2298000;2285000;1654000;2;28.298;56.596
-Mercedes;Lewis Hamilton;British;6;2020;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:31:45.279;5505279;1832000;973000;1484000;2;22.615;45.23
-Mercedes;Valtteri Bottas;Finnish;6;2020;Circuit de Barcelona-Catalunya;Montmeló;Spain;2;3;Finished;16.0;66;+44.752;5550031;1263000;1112000;1543000;3;22.3533;67.06
-Mercedes;Lewis Hamilton;British;7;2020;Circuit de Spa-Francorchamps;Spa;Belgium;1;1;Finished;25.0;44;1:24:08.761;5048761;2843000;2534000;2712000;1;23.298;23.298
-Mercedes;Valtteri Bottas;Finnish;7;2020;Circuit de Spa-Francorchamps;Spa;Belgium;2;2;Finished;18.0;44;+8.448;5057209;3054000;2646000;3223000;1;25.548;25.548
-Mercedes;Valtteri Bottas;Finnish;8;2020;Autodromo Nazionale di Monza;Monza;Italy;2;5;Finished;10.0;53;+7.108;6433164;1926000;2032000;2036000;1;24.41;24.41
-Mercedes;Lewis Hamilton;British;8;2020;Autodromo Nazionale di Monza;Monza;Italy;1;7;Finished;7.0;53;+17.245;6443301;1654000;1232000;1967000;2;28.157;56.314
-Mercedes;Lewis Hamilton;British;9;2020;Autodromo Internazionale del Mugello;Mugello;Italy;1;1;Finished;26.0;59;2:19:35.060;8375060;1678000;1209000;1044000;3;20.927;62.781
-Mercedes;Valtteri Bottas;Finnish;9;2020;Autodromo Internazionale del Mugello;Mugello;Italy;2;2;Finished;18.0;59;+4.880;8379940;1649000;1222000;1103000;3;21.29;63.87
-Mercedes;Valtteri Bottas;Finnish;10;2020;Sochi Autodrom;Sochi;Russia;3;1;Finished;26.0;53;1:34:00.364;5640364;2576000;2325000;2816000;1;29.75;29.75
-Mercedes;Lewis Hamilton;British;10;2020;Sochi Autodrom;Sochi;Russia;1;3;Finished;15.0;53;+22.729;5663093;2903000;2755000;2164000;1;41.352;41.352
-Mercedes;Lewis Hamilton;British;11;2020;Nürburgring;Nürburg;Germany;2;1;Finished;25.0;60;1:35:49.641;5749641;2180000;1890000;2025000;2;23.5815;47.163
-Mercedes;Lewis Hamilton;British;12;2020;Autódromo Internacional do Algarve;Portimão;Portugal;1;1;Finished;26.0;66;1:29:56.828;5396828;1788000;1784000;1612000;1;27.162;27.162
-Mercedes;Valtteri Bottas;Finnish;12;2020;Autódromo Internacional do Algarve;Portimão;Portugal;2;2;Finished;18.0;66;+25.592;5422420;1905000;1426000;1714000;1;26.512;26.512
-Mercedes;Lewis Hamilton;British;13;2020;Autodromo Enzo e Dino Ferrari;Imola;Italy;2;1;Finished;26.0;63;1:28:32.430;5312430;1069000;1483000;1486000;2;30.6535;61.307
-Mercedes;Valtteri Bottas;Finnish;13;2020;Autodromo Enzo e Dino Ferrari;Imola;Italy;1;2;Finished;18.0;63;+5.783;5318213;1061000;1425000;1389000;2;29.8645;59.729
-Mercedes;Lewis Hamilton;British;14;2020;Istanbul Park;Istanbul;Turkey;6;1;Finished;25.0;58;1:42:19.313;6139313;1019000;3829000;3680000;1;23.86;23.86
-Mercedes;Lewis Hamilton;British;15;2020;Bahrain International Circuit;Sakhir;Bahrain;1;1;Finished;25.0;57;2:59:47.515;10787515;2023000;2206000;1884000;2;24.203;48.406
-Mercedes;Valtteri Bottas;Finnish;15;2020;Bahrain International Circuit;Sakhir;Bahrain;2;8;Finished;4.0;57;+19.680;10807195;2447000;1743000;2173000;3;24.7817;74.345
-Mercedes;Valtteri Bottas;Finnish;16;2020;Bahrain International Circuit;Sakhir;Bahrain;1;8;Finished;4.0;87;+15.389;5490503;4084000;3983000;3557000;2;38.713;77.426
-Mercedes;George Russell;British;16;2020;Bahrain International Circuit;Sakhir;Bahrain;2;9;Finished;3.0;87;+18.556;5493670;3400000;3999000;3583000;4;25.608;102.432
-Mercedes;Valtteri Bottas;Finnish;17;2020;Yas Marina Circuit;Abu Dhabi;UAE;2;2;Finished;18.0;55;+15.976;5804621;2799000;2627000;2371000;1;21.587;21.587
-Mercedes;Lewis Hamilton;British;17;2020;Yas Marina Circuit;Abu Dhabi;UAE;3;3;Finished;15.0;55;+18.415;5807060;2628000;2566000;2432000;1;22.406;22.406
-Mercedes;Lewis Hamilton;British;1;2021;Bahrain International Circuit;Sakhir;Bahrain;2;1;Finished;25.0;56;1:32:03.897;5523897;2417000;1885000;2125000;2;24.4575;48.915
-Mercedes;Valtteri Bottas;Finnish;1;2021;Bahrain International Circuit;Sakhir;Bahrain;3;3;Finished;16.0;56;+37.383;5561280;2060000;1986000;2326000;3;27.2417;81.725
-Mercedes;Lewis Hamilton;British;2;2021;Autodromo Enzo e Dino Ferrari;Imola;Italy;1;2;Finished;19.0;63;+22.000;7376598;1663000;1657000;1251000;2;35.155;70.31
-Mercedes;Lewis Hamilton;British;3;2021;Autódromo Internacional do Algarve;Portimão;Portugal;2;1;Finished;25.0;66;1:34:31.421;5671421;1937000;1988000;1435000;3;23.8323;71.497
-Mercedes;Valtteri Bottas;Finnish;3;2021;Autódromo Internacional do Algarve;Portimão;Portugal;1;3;Finished;16.0;66;+33.530;5704951;1802000;1538000;1428000;4;24.24;96.96
-Mercedes;Lewis Hamilton;British;4;2021;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:33:07.680;5587680;1325000;1186000;1701000;2;22.149;44.298
-Mercedes;Valtteri Bottas;Finnish;4;2021;Circuit de Barcelona-Catalunya;Montmeló;Spain;3;3;Finished;15.0;66;+26.610;5614290;1085000;1162000;1833000;2;21.9745;43.949
-Mercedes;Lewis Hamilton;British;5;2021;Circuit de Monaco;Monte-Carlo;Monaco;7;7;Finished;7.0;78;+1:08.231;6005051;1282000;776000;755000;2;24.0135;48.027
-Mercedes;Valtteri Bottas;Finnish;6;2021;Baku City Circuit;Baku;Azerbaijan;10;12;Finished;0.0;51;+11.264;8027674;3221000;2626000;3179000;2;20.851;41.702
-Mercedes;Lewis Hamilton;British;6;2021;Baku City Circuit;Baku;Azerbaijan;2;15;Finished;0.0;51;+17.668;8034078;3005000;3094000;2910000;2;18.951;37.902
-Mercedes;Lewis Hamilton;British;7;2021;Circuit Paul Ricard;Le Castellet;France;2;2;Finished;18.0;53;+2.904;5248674;2097000;2588000;2048000;1;30.263;30.263
-Mercedes;Valtteri Bottas;Finnish;7;2021;Circuit Paul Ricard;Le Castellet;France;3;4;Finished;12.0;53;+14.618;5260388;2529000;2535000;2176000;1;30.572;30.572
-Mercedes;Lewis Hamilton;British;8;2021;Red Bull Ring;Spielberg;Austria;2;2;Finished;19.0;71;+35.743;4974668;912000;752000;307000;2;21.4295;42.859
-Mercedes;Valtteri Bottas;Finnish;8;2021;Red Bull Ring;Spielberg;Austria;5;3;Finished;15.0;71;+46.907;4985832;777000;683000;275000;1;21.752;21.752
-Mercedes;Valtteri Bottas;Finnish;9;2021;Red Bull Ring;Spielberg;Austria;5;2;Finished;18.0;71;+17.973;5052516;803000;616000;289000;1;21.071;21.071
-Mercedes;Lewis Hamilton;British;9;2021;Red Bull Ring;Spielberg;Austria;4;4;Finished;12.0;71;+46.452;5080995;746000;498000;254000;2;21.213;42.426
-Mercedes;Lewis Hamilton;British;10;2021;Silverstone Circuit;Silverstone;UK;2;1;Finished;25.0;52;1:58:23.284;7103284;2346000;1583000;1694000;1;40.266;40.266
-Mercedes;Valtteri Bottas;Finnish;10;2021;Silverstone Circuit;Silverstone;UK;3;3;Finished;15.0;52;+11.125;7114409;2107000;2324000;1888000;1;28.209;28.209
-Mercedes;Lewis Hamilton;British;11;2021;Hungaroring;Budapest;Hungary;1;2;Finished;18.0;70;+2.736;7485935;1384000;1513000;1319000;3;21.485;64.455
-Mercedes;Lewis Hamilton;British;13;2021;Circuit Park Zandvoort;Zandvoort;Netherlands;2;2;Finished;19.0;72;+20.932;5426327;714000;1266000;1403000;3;19.28;57.84
-Mercedes;Valtteri Bottas;Finnish;13;2021;Circuit Park Zandvoort;Zandvoort;Netherlands;3;3;Finished;15.0;72;+56.460;5461855;819000;1309000;762000;2;20.3015;40.603
-Mercedes;Valtteri Bottas;Finnish;14;2021;Autodromo Nazionale di Monza;Monza;Italy;19;3;Finished;15.0;53;+4.921;4919286;1885000;1232000;1695000;1;24.308;24.308
-Mercedes;Lewis Hamilton;British;15;2021;Sochi Autodrom;Sochi;Russia;4;1;Finished;25.0;53;1:30:41.001;5441001;3692000;2829000;2690000;2;29.9615;59.923
-Mercedes;Valtteri Bottas;Finnish;15;2021;Sochi Autodrom;Sochi;Russia;16;5;Finished;10.0;53;+1:07.533;5508534;3156000;3006000;3350000;2;29.7525;59.505
-Mercedes;Valtteri Bottas;Finnish;16;2021;Istanbul Park;Istanbul;Turkey;1;1;Finished;26.0;58;1:31:04.103;5464103;1547000;1959000;2318000;1;22.962;22.962
-Mercedes;Lewis Hamilton;British;16;2021;Istanbul Park;Istanbul;Turkey;11;5;Finished;10.0;58;+41.812;5505915;2025000;1462000;2188000;1;22.684;22.684
-Mercedes;Lewis Hamilton;British;17;2021;Circuit of the Americas;Austin;USA;2;2;Finished;19.0;56;+1.333;5677885;2619000;2777000;2099000;2;24.0785;48.157
-Mercedes;Valtteri Bottas;Finnish;17;2021;Circuit of the Americas;Austin;USA;9;6;Finished;8.0;56;+1:20.128;5756680;2630000;2939000;2455000;2;24.0315;48.063
-Mercedes;Lewis Hamilton;British;18;2021;Autódromo Hermanos Rodríguez;Mexico City;Mexico;2;2;Finished;18.0;71;+16.555;5935641;1227000;1434000;980000;1;22.373;22.373
-Mercedes;Lewis Hamilton;British;19;2021;Autódromo José Carlos Pace;São Paulo;Brazil;10;1;Finished;25.0;71;1:32:22.851;5542851;1213000;548000;1354000;4;20.481;81.924
-Mercedes;Valtteri Bottas;Finnish;19;2021;Autódromo José Carlos Pace;São Paulo;Brazil;1;3;Finished;15.0;71;+13.576;5556427;580000;906000;949000;4;20.4638;81.855
-Mercedes;Lewis Hamilton;British;20;2021;Losail International Circuit;Al Daayen;Qatar;1;1;Finished;25.0;57;1:24:28.471;5068471;2161000;1942000;2027000;2;25.308;50.616
-Mercedes;Lewis Hamilton;British;21;2021;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;1;1;Finished;26.0;50;2:06:15.118;7575118;2146000;2332000;2131000;1;20.58;20.58
-Mercedes;Valtteri Bottas;Finnish;21;2021;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;2;3;Finished;15.0;50;+27.531;7602649;1737000;1734000;2242000;1;21.668;21.668
-Mercedes;Lewis Hamilton;British;22;2021;Yas Marina Circuit;Abu Dhabi;UAE;2;2;Finished;18.0;58;+2.256;5419601;2165000;1525000;1800000;1;21.595;21.595
-Mercedes;Valtteri Bottas;Finnish;22;2021;Yas Marina Circuit;Abu Dhabi;UAE;6;6;Finished;8.0;58;+7.463;5424808;1497000;1626000;1416000;1;21.669;21.669
-Mercedes;Lewis Hamilton;British;1;2022;Bahrain International Circuit;Sakhir;Bahrain;5;3;Finished;15.0;57;+9.675;5863259;2205000;1908000;2098000;3;25.5253;76.576
-Mercedes;George Russell;British;1;2022;Bahrain International Circuit;Sakhir;Bahrain;9;4;Finished;12.0;57;+11.211;5864795;2189000;2112000;2136000;3;25.5987;76.796
-Mercedes;George Russell;British;2;2022;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;6;5;Finished;10.0;50;+32.732;5092025;2420000;2358000;1844000;1;21.415;21.415
-Mercedes;Lewis Hamilton;British;2;2022;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;15;10;Finished;1.0;50;+1:13.948;5133241;2143000;;;1;21.788;21.788
-Mercedes;George Russell;British;3;2022;Albert Park Grand Prix Circuit;Melbourne;Australia;6;3;Finished;15.0;58;+25.593;5292141;1545000;1216000;2013000;1;18.479;18.479
-Mercedes;Lewis Hamilton;British;3;2022;Albert Park Grand Prix Circuit;Melbourne;Australia;5;4;Finished;12.0;58;+28.543;5295091;1541000;1246000;1905000;1;17.877;17.877
-Mercedes;George Russell;British;4;2022;Autodromo Enzo e Dino Ferrari;Imola;Italy;11;4;Finished;12.0;63;+42.506;5570492;1583000;1957000;;1;31.079;31.079
-Mercedes;George Russell;British;5;2022;Miami International Autodrome;Miami;USA;12;5;Finished;10.0;57;+18.582;5682840;2290000;1973000;;1;19.035;19.035
-Mercedes;Lewis Hamilton;British;5;2022;Miami International Autodrome;Miami;USA;6;6;Finished;8.0;57;+21.368;5685626;2188000;2537000;2365000;1;18.82;18.82
-Mercedes;George Russell;British;6;2022;Circuit de Barcelona-Catalunya;Montmeló;Spain;4;3;Finished;15.0;66;+32.927;5873402;1418000;1610000;1533000;3;22.336;67.008
-Mercedes;Lewis Hamilton;British;6;2022;Circuit de Barcelona-Catalunya;Montmeló;Spain;6;5;Finished;10.0;66;+54.534;5895009;1452000;1934000;1652000;3;25.1333;75.4
-Mercedes;George Russell;British;7;2022;Circuit de Monaco;Monte-Carlo;Monaco;6;5;Finished;10.0;64;+11.968;7002233;1507000;1337000;832000;1;25.352;25.352
-Mercedes;Lewis Hamilton;British;7;2022;Circuit de Monaco;Monte-Carlo;Monaco;8;8;Finished;4.0;64;+50.388;7040653;1224000;1315000;1280000;2;24.6515;49.303
-Mercedes;George Russell;British;8;2022;Baku City Circuit;Baku;Azerbaijan;5;3;Finished;15.0;51;+45.995;5691936;3334000;2861000;3232000;2;20.5325;41.065
-Mercedes;Lewis Hamilton;British;8;2022;Baku City Circuit;Baku;Azerbaijan;7;4;Finished;12.0;51;+1:11.679;5717620;3519000;2762000;3444000;2;21.1505;42.301
-Mercedes;Lewis Hamilton;British;9;2022;Circuit Gilles Villeneuve;Montreal;Canada;4;3;Finished;15.0;70;+7.006;5788763;2821000;2043000;2211000;2;23.843;47.686
-Mercedes;George Russell;British;9;2022;Circuit Gilles Villeneuve;Montreal;Canada;8;4;Finished;12.0;70;+12.313;5794070;2140000;2390000;1937000;2;24.01;48.02
-Mercedes;Lewis Hamilton;British;10;2022;Silverstone Circuit;Silverstone;UK;5;3;Finished;16.0;52;+6.225;8276536;2828000;2522000;3455000;2;29.4165;58.833
-Mercedes;Lewis Hamilton;British;11;2022;Red Bull Ring;Spielberg;Austria;8;3;Finished;15.0;71;+41.217;5105529;439000;775000;931000;2;22.8615;45.723
-Mercedes;George Russell;British;11;2022;Red Bull Ring;Spielberg;Austria;4;4;Finished;12.0;71;+58.972;5123284;595000;997000;731000;2;29.966;59.932
-Mercedes;Lewis Hamilton;British;12;2022;Circuit Paul Ricard;Le Castellet;France;4;2;Finished;18.0;53;+10.587;5412699;2021000;2194000;2625000;1;37.189;37.189
-Mercedes;George Russell;British;12;2022;Circuit Paul Ricard;Le Castellet;France;6;3;Finished;15.0;53;+16.495;5418607;2089000;2553000;2051000;1;38.277;38.277
-Mercedes;Lewis Hamilton;British;13;2022;Hungaroring;Budapest;Hungary;7;2;Finished;19.0;70;+7.834;5983746;1454000;1115000;1222000;2;21.897;43.794
-Mercedes;George Russell;British;13;2022;Hungaroring;Budapest;Hungary;1;3;Finished;15.0;70;+12.337;5988249;1487000;1234000;1397000;2;22.253;44.506
-Mercedes;George Russell;British;14;2022;Circuit de Spa-Francorchamps;Spa;Belgium;5;4;Finished;12.0;44;+29.140;5182034;3350000;3161000;3476000;2;22.901;45.802
-Mercedes;George Russell;British;15;2022;Circuit Park Zandvoort;Zandvoort;Netherlands;6;2;Finished;18.0;72;+4.071;5806844;1221000;1424000;807000;3;20.488;61.464
-Mercedes;Lewis Hamilton;British;15;2022;Circuit Park Zandvoort;Zandvoort;Netherlands;4;4;Finished;12.0;72;+13.016;5815789;991000;735000;1248000;3;17.455;52.365
-Mercedes;George Russell;British;16;2022;Autodromo Nazionale di Monza;Monza;Italy;2;3;Finished;15.0;53;+3.405;4830916;2045000;2007000;1802000;2;24.5945;49.189
-Mercedes;Lewis Hamilton;British;16;2022;Autodromo Nazionale di Monza;Monza;Italy;19;5;Finished;10.0;53;+5.380;4832891;1368000;1968000;1784000;1;24.282;24.282
-Mercedes;Lewis Hamilton;British;17;2022;Marina Bay Street Circuit;Marina Bay;Singapore;3;9;Finished;2.0;59;+1:01.515;7401753;3341000;3811000;3406000;1;41.019;41.019
-Mercedes;Lewis Hamilton;British;18;2022;Suzuka Circuit;Suzuka;Japan;6;5;Finished;10.0;28;+40.326;10944330;2706000;2243000;2061000;1;25.059;25.059
-Mercedes;George Russell;British;18;2022;Suzuka Circuit;Suzuka;Japan;8;8;Finished;4.0;28;+47.661;10951665;2665000;2265000;2189000;1;28.728;28.728
-Mercedes;Lewis Hamilton;British;19;2022;Circuit of the Americas;Austin;USA;3;2;Finished;18.0;56;+5.023;6136710;2308000;2832000;2987000;2;24.2485;48.497
-Mercedes;George Russell;British;19;2022;Circuit of the Americas;Austin;USA;4;5;Finished;11.0;56;+44.815;6176502;2355000;2792000;3028000;3;26.1647;78.494
-Mercedes;Lewis Hamilton;British;20;2022;Autódromo Hermanos Rodríguez;Mexico City;Mexico;3;2;Finished;18.0;71;+15.186;5931915;1309000;1632000;1164000;1;23.194;23.194
-Mercedes;George Russell;British;20;2022;Autódromo Hermanos Rodríguez;Mexico City;Mexico;2;4;Finished;13.0;71;+49.431;5966160;1723000;1645000;1159000;2;22.9565;45.913
-Mercedes;George Russell;British;21;2022;Autódromo José Carlos Pace;São Paulo;Brazil;1;1;Finished;26.0;71;1:38:34.044;5914044;1267000;978000;779000;2;23.5005;47.001
-Mercedes;Lewis Hamilton;British;21;2022;Autódromo José Carlos Pace;São Paulo;Brazil;2;2;Finished;18.0;71;+1.529;5915573;1183000;1199000;1331000;2;23.748;47.496
-Mercedes;George Russell;British;22;2022;Yas Marina Circuit;Abu Dhabi;UAE;6;5;Finished;10.0;58;+35.888;5301802;2045000;2380000;1951000;2;26.087;52.174
-Mercedes;Lewis Hamilton;British;1;2023;Bahrain International Circuit;Sakhir;Bahrain;7;5;Finished;10.0;57;+50.977;5687713;2403000;2313000;2184000;2;24.686;49.372
-Mercedes;George Russell;British;1;2023;Bahrain International Circuit;Sakhir;Bahrain;6;7;Finished;6.0;57;+55.873;5692609;1917000;2307000;2140000;2;25.734;51.468
-Mercedes;George Russell;British;2;2023;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;3;4;Finished;12.0;50;+25.866;4900760;2332000;1872000;2537000;1;20.828;20.828
-Mercedes;Lewis Hamilton;British;2;2023;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;7;5;Finished;10.0;50;+31.065;4905959;2429000;2114000;1963000;1;21.102;21.102
-Mercedes;Lewis Hamilton;British;4;2023;Baku City Circuit;Baku;Azerbaijan;5;6;Finished;8.0;51;+46.145;5608581;2633000;3110000;2637000;1;20.324;20.324
-Mercedes;George Russell;British;4;2023;Baku City Circuit;Baku;Azerbaijan;11;8;Finished;5.0;51;+1:14.240;5636676;2593000;3114000;;2;20.924;41.848
-Mercedes;George Russell;British;5;2023;Miami International Autodrome;Miami;USA;6;4;Finished;12.0;57;+33.229;5291470;1766000;2363000;2424000;1;22.335;22.335
-Mercedes;Lewis Hamilton;British;5;2023;Miami International Autodrome;Miami;USA;13;6;Finished;8.0;57;+51.249;5309490;2466000;2595000;;1;22.15;22.15
-Mercedes;Lewis Hamilton;British;6;2023;Circuit de Monaco;Monte-Carlo;Monaco;5;4;Finished;13.0;78;+39.062;6571042;1592000;876000;1385000;2;25.6395;51.279
-Mercedes;George Russell;British;6;2023;Circuit de Monaco;Monte-Carlo;Monaco;8;5;Finished;10.0;78;+56.284;6588264;1489000;871000;1624000;1;30.98;30.98
-Mercedes;Lewis Hamilton;British;7;2023;Circuit de Barcelona-Catalunya;Montmeló;Spain;4;2;Finished;18.0;66;+24.090;5302030;1657000;1719000;1538000;2;22.653;45.306
-Mercedes;George Russell;British;7;2023;Circuit de Barcelona-Catalunya;Montmeló;Spain;12;3;Finished;15.0;66;+32.389;5310329;1106000;1227000;;2;22.1645;44.329
-Mercedes;Lewis Hamilton;British;8;2023;Circuit Gilles Villeneuve;Montreal;Canada;3;3;Finished;15.0;70;+4.598;5642946;1814000;1626000;2247000;2;24.044;48.088
-Mercedes;George Russell;British;9;2023;Red Bull Ring;Spielberg;Austria;11;7;Finished;6.0;71;+48.403;5182010;986000;728000;;3;20.6367;61.91
-Mercedes;Lewis Hamilton;British;9;2023;Red Bull Ring;Spielberg;Austria;5;8;Finished;4.0;71;+49.196;5182803;973000;488000;1059000;3;22.044;66.132
-Mercedes;Lewis Hamilton;British;10;2023;Silverstone Circuit;Silverstone;UK;7;3;Finished;15.0;52;+6.783;5123721;2155000;2225000;1831000;1;29.169;29.169
-Mercedes;George Russell;British;10;2023;Silverstone Circuit;Silverstone;UK;6;5;Finished;10.0;52;+11.206;5128144;2152000;2462000;1775000;1;29.455;29.455
-Mercedes;Lewis Hamilton;British;11;2023;Hungaroring;Budapest;Hungary;1;4;Finished;12.0;70;+39.134;5927768;1657000;1447000;1569000;2;21.851;43.702
-Mercedes;George Russell;British;11;2023;Hungaroring;Budapest;Hungary;18;6;Finished;8.0;70;+1:05.825;5954459;1167000;;;2;21.7805;43.561
-Mercedes;Lewis Hamilton;British;12;2023;Circuit de Spa-Francorchamps;Spa;Belgium;3;4;Finished;13.0;44;+49.671;5000121;4043000;3465000;2907000;3;23.0897;69.269
-Mercedes;George Russell;British;12;2023;Circuit de Spa-Francorchamps;Spa;Belgium;8;6;Finished;8.0;44;+1:03.101;5013551;3575000;3725000;3625000;1;23.837;23.837
-Mercedes;Lewis Hamilton;British;13;2023;Circuit Park Zandvoort;Zandvoort;Netherlands;13;6;Finished;8.0;72;+13.209;8657620;2179000;1351000;;4;20.0855;80.342
-Mercedes;George Russell;British;13;2023;Circuit Park Zandvoort;Zandvoort;Netherlands;3;17;Finished;0.0;72;+55.754;8700165;1605000;1760000;954000;6;24.5332;147.199
-Mercedes;George Russell;British;14;2023;Autodromo Nazionale di Monza;Monza;Italy;4;5;Finished;10.0;51;+23.028;4444171;1468000;1642000;1871000;1;24.215;24.215
-Mercedes;Lewis Hamilton;British;14;2023;Autodromo Nazionale di Monza;Monza;Italy;8;6;Finished;8.0;51;+42.679;4463822;2237000;1629000;2020000;1;24.255;24.255
-Mercedes;Lewis Hamilton;British;15;2023;Marina Bay Street Circuit;Marina Bay;Singapore;5;3;Finished;16.0;62;+1.269;6398687;2571000;1939000;2345000;2;33.106;66.212
-Mercedes;Lewis Hamilton;British;16;2023;Suzuka Circuit;Suzuka;Japan;7;5;Finished;10.0;53;+49.376;5507797;2611000;1840000;2648000;2;24.236;48.472
-Mercedes;George Russell;British;16;2023;Suzuka Circuit;Suzuka;Japan;8;7;Finished;6.0;53;+57.659;5516080;2611000;2068000;2019000;1;24.034;24.034
-Mercedes;George Russell;British;17;2023;Losail International Circuit;Al Daayen;Qatar;2;4;Finished;12.0;57;+34.119;5293287;1834000;2267000;1659000;4;31.1833;124.733
-Mercedes;George Russell;British;18;2023;Circuit of the Americas;Austin;USA;5;5;Finished;10.0;56;+24.999;5746361;2325000;2706000;2179000;2;24.163;48.326
-Mercedes;Lewis Hamilton;British;19;2023;Autódromo Hermanos Rodríguez;Mexico City;Mexico;6;2;Finished;19.0;71;+13.875;7364689;1757000;1591000;1474000;1;22.21;22.21
-Mercedes;George Russell;British;19;2023;Autódromo Hermanos Rodríguez;Mexico City;Mexico;8;6;Finished;8.0;71;+41.020;7391834;1973000;1693000;1694000;1;22.311;22.311
-Mercedes;Lewis Hamilton;British;20;2023;Autódromo José Carlos Pace;São Paulo;Brazil;5;8;Finished;4.0;71;+1:02.859;7071753;1204000;866000;1129000;3;22.0553;66.166
-Mercedes;Lewis Hamilton;British;21;2023;Las Vegas Strip Street Circuit;Las Vegas;United States;10;7;Finished;6.0;50;+21.755;5370044;2347000;2817000;;2;23.7775;47.555
-Mercedes;George Russell;British;21;2023;Las Vegas Strip Street Circuit;Las Vegas;United States;3;8;Finished;4.0;50;+23.091;5371380;2177000;2331000;2092000;2;21.6045;43.209
-Mercedes;George Russell;British;22;2023;Yas Marina Circuit;Abu Dhabi;UAE;4;3;Finished;15.0;58;+20.328;5242952;1777000;1453000;2168000;2;21.867;43.734
-Mercedes;Lewis Hamilton;British;22;2023;Yas Marina Circuit;Abu Dhabi;UAE;11;9;Finished;2.0;58;+44.424;5267048;1877000;1799000;;2;22.12;44.24
-Mercedes;George Russell;British;1;2024;Bahrain International Circuit;Sakhir;Bahrain;3;5;Finished;10.0;57;+46.788;5551530;2150000;2662000;2225000;2;24.822;49.644
-Mercedes;Lewis Hamilton;British;1;2024;Bahrain International Circuit;Sakhir;Bahrain;9;7;Finished;6.0;57;+50.324;5555066;2251000;2458000;2450000;2;24.5905;49.181
-Mercedes;George Russell;British;2;2024;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;7;6;Finished;8.0;50;+39.936;4883209;2429000;2128000;1996000;1;21.013;21.013
-Mercedes;Lewis Hamilton;British;2;2024;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;8;9;Finished;2.0;50;+47.391;4890664;2674000;2286000;2140000;1;20.17;20.17
-Mercedes;George Russell;British;4;2024;Suzuka Circuit;Suzuka;Japan;9;7;Finished;6.0;53;+45.951;6909517;2539000;1880000;1748000;2;23.284;46.568
-Mercedes;Lewis Hamilton;British;4;2024;Suzuka Circuit;Suzuka;Japan;7;9;Finished;2.0;53;+48.626;6912192;2401000;2567000;2446000;2;23.6445;47.289
-Mercedes;George Russell;British;5;2024;Shanghai International Circuit;Shanghai;China;8;6;Finished;8.0;56;+38.724;6091278;2184000;2649000;2473000;2;22.561;45.122
-Mercedes;Lewis Hamilton;British;5;2024;Shanghai International Circuit;Shanghai;China;18;9;Finished;2.0;56;+57.986;6110540;2673000;;;2;22.59;45.18
-Mercedes;Lewis Hamilton;British;6;2024;Miami International Autodrome;Miami;USA;8;6;Finished;8.0;57;+16.585;5466461;1847000;2317000;1787000;1;22.107;22.107
-Mercedes;George Russell;British;6;2024;Miami International Autodrome;Miami;USA;7;8;Finished;4.0;57;+34.789;5484665;1839000;1775000;1747000;1;22.8;22.8
-Mercedes;Lewis Hamilton;British;7;2024;Autodromo Enzo e Dino Ferrari;Imola;Italy;8;6;Finished;8.0;63;+35.104;5160356;1564000;1577000;1404000;1;29.547;29.547
-Mercedes;George Russell;British;7;2024;Autodromo Enzo e Dino Ferrari;Imola;Italy;6;7;Finished;7.0;63;+47.154;5172406;1067000;1571000;1134000;2;29.6345;59.269
-Mercedes;Lewis Hamilton;British;8;2024;Circuit de Monaco;Monte-Carlo;Monaco;7;7;Finished;7.0;78;+14.908;8610462;1188000;716000;1221000;1;24.232;24.232
-Mercedes;George Russell;British;9;2024;Circuit Gilles Villeneuve;Montreal;Canada;1;3;Finished;15.0;70;+4.317;6352244;793000;1402000;720000;3;25.8773;77.632
-Mercedes;Lewis Hamilton;British;9;2024;Circuit Gilles Villeneuve;Montreal;Canada;7;4;Finished;13.0;70;+4.915;6352842;1571000;1639000;1000000;3;25.6017;76.805
-Mercedes;Lewis Hamilton;British;10;2024;Circuit de Barcelona-Catalunya;Montmeló;Spain;3;3;Finished;15.0;66;+17.790;5318017;863000;1452000;1361000;2;21.7215;43.443
-Mercedes;George Russell;British;10;2024;Circuit de Barcelona-Catalunya;Montmeló;Spain;4;4;Finished;12.0;66;+22.320;5322547;1176000;1472000;1363000;2;23.8615;47.723
-Mercedes;George Russell;British;11;2024;Red Bull Ring;Spielberg;Austria;3;1;Finished;25.0;71;1:24:22.798;5062798;885000;316000;1080000;2;21.451;42.902
-Mercedes;Lewis Hamilton;British;11;2024;Red Bull Ring;Spielberg;Austria;5;4;Finished;12.0;71;+23.142;5085940;841000;353000;1143000;2;24.422;48.844
-Mercedes;Lewis Hamilton;British;12;2024;Silverstone Circuit;Silverstone;UK;2;1;Finished;25.0;52;1:22:27.059;4947059;2287000;2330000;2490000;2;29.4835;58.967
-Mercedes;Lewis Hamilton;British;13;2024;Hungaroring;Budapest;Hungary;5;3;Finished;15.0;70;+14.880;5896869;1107000;1267000;1754000;2;21.608;43.216
-Mercedes;George Russell;British;13;2024;Hungaroring;Budapest;Hungary;17;8;Finished;5.0;70;+42.368;5924357;1988000;;;2;21.3485;42.697
-Mercedes;Lewis Hamilton;British;14;2024;Circuit de Spa-Francorchamps;Spa;Belgium;3;1;Finished;25.0;44;+0.526;526;3992000;3277000;4015000;2;22.946;45.892
-Mercedes;George Russell;British;15;2024;Circuit Park Zandvoort;Zandvoort;Netherlands;4;7;Finished;6.0;72;+44.617;5490136;709000;1152000;844000;2;21.5025;43.005
-Mercedes;Lewis Hamilton;British;15;2024;Circuit Park Zandvoort;Zandvoort;Netherlands;14;8;Finished;4.0;72;+49.599;5495118;1035000;1548000;;2;21.097;42.194
-Mercedes;Lewis Hamilton;British;16;2024;Autodromo Nazionale di Monza;Monza;Italy;6;5;Finished;10.0;53;+22.820;4503547;1677000;1781000;1653000;2;24.312;48.624
-Mercedes;George Russell;British;16;2024;Autodromo Nazionale di Monza;Monza;Italy;3;7;Finished;6.0;53;+39.715;4520442;1369000;2017000;1580000;2;29.4965;58.993
-Mercedes;George Russell;British;17;2024;Baku City Circuit;Baku;Azerbaijan;5;3;Finished;15.0;51;+31.328;5609335;2719000;2849000;3334000;1;19.954;19.954
-Mercedes;Lewis Hamilton;British;17;2024;Baku City Circuit;Baku;Azerbaijan;0;9;Finished;2.0;51;+1:32.401;5670408;2669000;3285000;2809000;1;21.289;21.289
-Mercedes;George Russell;British;18;2024;Marina Bay Street Circuit;Marina Bay;Singapore;4;4;Finished;12.0;62;+1:01.040;6113611;2611000;1953000;2607000;1;28.739;28.739
-Mercedes;Lewis Hamilton;British;18;2024;Marina Bay Street Circuit;Marina Bay;Singapore;3;6;Finished;8.0;62;+1:25.248;6137819;2193000;2669000;2581000;1;29.272;29.272
-Mercedes;George Russell;British;19;2024;Circuit of the Americas;Austin;USA;20;6;Finished;8.0;56;+56.295;5765934;2516000;2122000;2894000;1;29.327;29.327
-Mercedes;Lewis Hamilton;British;20;2024;Autódromo Hermanos Rodríguez;Mexico City;Mexico;6;4;Finished;12.0;71;+44.780;6100580;1326000;1933000;1611000;1;22.538;22.538
-Mercedes;George Russell;British;20;2024;Autódromo Hermanos Rodríguez;Mexico City;Mexico;5;5;Finished;10.0;71;+48.536;6104336;1214000;1897000;1316000;1;22.462;22.462
-Mercedes;George Russell;British;21;2024;Autódromo José Carlos Pace;São Paulo;Brazil;2;4;Finished;12.0;69;+23.265;7637695;1861000;1867000;1958000;1;25.698;25.698
-Mercedes;Lewis Hamilton;British;21;2024;Autódromo José Carlos Pace;São Paulo;Brazil;14;10;Finished;1.0;69;+50.753;7665183;2010000;;;1;25.205;25.205
-Mercedes;George Russell;British;22;2024;Las Vegas Strip Street Circuit;Las Vegas;United States;1;1;Finished;25.0;50;1:22:05.969;4925969;2166000;2699000;2232000;2;21.0235;42.047
-Mercedes;Lewis Hamilton;British;22;2024;Las Vegas Strip Street Circuit;Las Vegas;United States;10;2;Finished;18.0;50;+7.313;4933282;2205000;2487000;2986000;2;21.211;42.422
-Mercedes;George Russell;British;23;2024;Losail International Circuit;Al Daayen;Qatar;1;4;Finished;12.0;57;+14.104;5479427;1501000;1329000;1775000;4;29.2448;116.979
-Mercedes;Lewis Hamilton;British;23;2024;Losail International Circuit;Al Daayen;Qatar;6;12;Finished;0.0;57;+56.122;5521445;1897000;1355000;1271000;4;27.7118;110.847
-Mercedes;Lewis Hamilton;British;24;2024;Yas Marina Circuit;Abu Dhabi;UAE;16;4;Finished;12.0;58;+36.483;5229774;2267000;;;1;21.694;21.694
-Mercedes;George Russell;British;24;2024;Yas Marina Circuit;Abu Dhabi;UAE;6;5;Finished;10.0;58;+37.538;5230829;2058000;1663000;1512000;1;21.656;21.656
+CONSTRUCTOR_NAME;DRIVERID;DRIVER_NAME;DRIVER_NATIONALITY;ROUND;SEASON;CIRCUIT;CIRCUIT_NAME;LOCATION;COUNTRY;GRID;POSITION;STATUS;POINTS;LAPS;TIME;TIME_IN_MILLISECONDS;Q1_IN_MILLISECONDS;Q2_IN_MILLISECONDS;Q3_IN_MILLISECONDS;PIT_COUNT;AVG_PIT_DURATION;TOTAL_PIT_TIME
+Mercedes;30;Michael Schumacher;German;2;2011;2;Sepang International Circuit;Kuala Lumpur;Malaysia;11;9;Finished;2.0;56;+1:24.896;5944728;3064000;2255000;;3;22.3547;67.064
+Mercedes;3;Nico Rosberg;German;3;2011;17;Shanghai International Circuit;Shanghai;China;4;5;Finished;10.0;56;+13.448;5831674;2372000;2950000;2710000;3;21.1653;63.496
+Mercedes;30;Michael Schumacher;German;3;2011;17;Shanghai International Circuit;Shanghai;China;14;8;Finished;4.0;56;+31.026;5849252;2608000;2617000;;3;21.2953;63.886
+Mercedes;3;Nico Rosberg;German;4;2011;5;Istanbul Park;Istanbul;Turkey;3;5;Finished;10.0;58;+47.539;5465097;2134000;2301000;2074000;4;21.1893;84.757
+Mercedes;30;Michael Schumacher;German;4;2011;5;Istanbul Park;Istanbul;Turkey;8;12;Finished;0.0;58;+1:25.444;5503002;2317000;1681000;2206000;4;23.0162;92.065
+Mercedes;30;Michael Schumacher;German;7;2011;7;Circuit Gilles Villeneuve;Montreal;Canada;8;4;Finished;12.0;70;+14.219;14693756;1810000;1082000;1644000;4;23.5923;94.369
+Mercedes;3;Nico Rosberg;German;7;2011;7;Circuit Gilles Villeneuve;Montreal;Canada;6;11;Finished;0.0;70;+50.454;14729991;1760000;1730000;1594000;4;22.882;91.528
+Mercedes;3;Nico Rosberg;German;8;2011;12;Valencia Street Circuit;Valencia;Spain;7;7;Finished;6.0;57;+1:38.090;6074259;2606000;2653000;2511000;3;21.8323;65.497
+Mercedes;3;Nico Rosberg;German;9;2011;9;Silverstone Circuit;Silverstone;UK;9;6;Finished;8.0;52;+1:00.665;5381861;2226000;2215000;2129000;2;24.5605;49.121
+Mercedes;30;Michael Schumacher;German;9;2011;9;Silverstone Circuit;Silverstone;UK;13;9;Finished;2.0;52;+1:17.912;5399108;2200000;2576000;;3;28.8813;86.644
+Mercedes;30;Michael Schumacher;German;12;2011;13;Circuit de Spa-Francorchamps;Spa;Belgium;24;5;Finished;10.0;44;+47.464;5252357;;;;3;20.566;61.698
+Mercedes;3;Nico Rosberg;German;12;2011;13;Circuit de Spa-Francorchamps;Spa;Belgium;5;6;Finished;8.0;44;+48.674;5253567;391000;903000;3552000;2;22.1305;44.261
+Mercedes;30;Michael Schumacher;German;13;2011;14;Autodromo Nazionale di Monza;Monza;Italy;8;5;Finished;10.0;53;+32.677;4878849;1608000;2051000;2157000;2;22.3615;44.723
+Mercedes;30;Michael Schumacher;German;15;2011;22;Suzuka Circuit;Suzuka;Japan;8;6;Finished;8.0;53;+27.120;5480547;2728000;2036000;;3;21.372;64.116
+Mercedes;3;Nico Rosberg;German;15;2011;22;Suzuka Circuit;Suzuka;Japan;23;10;Finished;1.0;53;+44.322;5497749;;;;3;20.683;62.049
+Mercedes;3;Nico Rosberg;German;16;2011;35;Korean International Circuit;Yeongam County;Korea;7;8;Finished;4.0;55;+54.053;5936047;2706000;3112000;2974000;2;20.4315;40.863
+Mercedes;30;Michael Schumacher;German;17;2011;68;Buddh International Circuit;Uttar Pradesh;India;11;5;Finished;10.0;60;+1:05.421;5500423;2350000;1897000;;2;21.1875;42.375
+Mercedes;3;Nico Rosberg;German;17;2011;68;Buddh International Circuit;Uttar Pradesh;India;7;6;Finished;8.0;60;+1:06.851;5501853;1924000;2055000;1951000;2;22.0635;44.127
+Mercedes;3;Nico Rosberg;German;18;2011;24;Yas Marina Circuit;Abu Dhabi;UAE;7;6;Finished;8.0;55;+52.317;5884203;2580000;2760000;3113000;2;19.846;39.692
+Mercedes;30;Michael Schumacher;German;18;2011;24;Yas Marina Circuit;Abu Dhabi;UAE;8;7;Finished;6.0;55;+1:15.964;5907850;3125000;2954000;3062000;2;20.149;40.298
+Mercedes;3;Nico Rosberg;German;1;2012;1;Albert Park Grand Prix Circuit;Melbourne;Australia;7;12;Finished;0.0;58;+57.642;5707207;2323000;1969000;2186000;2;23.11;46.22
+Mercedes;30;Michael Schumacher;German;2;2012;2;Sepang International Circuit;Kuala Lumpur;Malaysia;3;10;Finished;1.0;56;+49.996;9941808;2737000;2237000;2551000;3;23.696;71.088
+Mercedes;3;Nico Rosberg;German;2;2012;2;Sepang International Circuit;Kuala Lumpur;Malaysia;7;13;Finished;0.0;56;+1:18.593;9970405;2916000;3156000;2824000;4;24.27;97.08
+Mercedes;3;Nico Rosberg;German;3;2012;17;Shanghai International Circuit;Shanghai;China;1;1;Finished;25.0;56;1:36:26.929;5786929;3035000;2825000;2221000;2;20.879;41.758
+Mercedes;3;Nico Rosberg;German;4;2012;3;Bahrain International Circuit;Sakhir;Bahrain;5;5;Finished;10.0;57;+55.460;5766450;2628000;2199000;2741000;3;22.3397;67.019
+Mercedes;30;Michael Schumacher;German;4;2012;3;Bahrain International Circuit;Sakhir;Bahrain;22;10;Finished;1.0;57;+1:11.490;5782480;2905000;;;3;22.092;66.276
+Mercedes;3;Nico Rosberg;German;5;2012;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;6;7;Finished;6.0;66;+1:17.919;6027064;1750000;2202000;1385000;3;20.2527;60.758
+Mercedes;3;Nico Rosberg;German;6;2012;6;Circuit de Monaco;Monte-Carlo;Monaco;2;2;Finished;18.0;78;+0.643;6367200;1800000;922000;1288000;1;24.874;24.874
+Mercedes;3;Nico Rosberg;German;7;2012;7;Circuit Gilles Villeneuve;Montreal;Canada;5;6;Finished;8.0;70;+13.842;5563428;998000;1408000;1251000;2;21.2005;42.401
+Mercedes;30;Michael Schumacher;German;8;2012;12;Valencia Street Circuit;Valencia;Spain;12;3;Finished;15.0;57;+12.639;6269288;2787000;3050000;;2;20.259;40.518
+Mercedes;3;Nico Rosberg;German;8;2012;12;Valencia Street Circuit;Valencia;Spain;6;6;Finished;8.0;57;+21.176;6277825;2401000;2784000;2903000;2;20.37;40.74
+Mercedes;30;Michael Schumacher;German;9;2012;9;Silverstone Circuit;Silverstone;UK;3;7;Finished;6.0;52;+29.153;5140441;3331000;4099000;3140000;2;25.745;51.49
+Mercedes;3;Nico Rosberg;German;9;2012;9;Silverstone Circuit;Silverstone;UK;11;15;Finished;0.0;52;+57.394;5168682;3544000;3528000;;2;29.359;58.718
+Mercedes;30;Michael Schumacher;German;10;2012;10;Hockenheimring;Hockenheim;Germany;3;7;Finished;6.0;67;+28.970;5494832;1646000;2290000;2979000;3;18.196;54.588
+Mercedes;3;Nico Rosberg;German;10;2012;10;Hockenheimring;Hockenheim;Germany;21;10;Finished;1.0;67;+48.889;5514751;1888000;3011000;;3;18.3433;55.03
+Mercedes;3;Nico Rosberg;German;11;2012;11;Hungaroring;Budapest;Hungary;13;10;Finished;1.0;69;+51.234;6116737;1399000;2155000;;2;20.492;40.984
+Mercedes;30;Michael Schumacher;German;12;2012;13;Circuit de Spa-Francorchamps;Spa;Belgium;13;7;Finished;6.0;44;+53.374;5401904;3682000;3021000;;2;21.2495;42.499
+Mercedes;3;Nico Rosberg;German;12;2012;13;Circuit de Spa-Francorchamps;Spa;Belgium;23;11;Finished;0.0;44;+65.111;5413641;3181000;;;2;20.798;41.596
+Mercedes;30;Michael Schumacher;German;13;2012;14;Autodromo Nazionale di Monza;Monza;Italy;4;6;Finished;8.0;53;+31.259;4812480;1802000;2115000;1980000;2;22.2785;44.557
+Mercedes;3;Nico Rosberg;German;13;2012;14;Autodromo Nazionale di Monza;Monza;Italy;6;7;Finished;6.0;53;+33.550;4814771;2129000;1955000;2273000;2;22.1;44.2
+Mercedes;3;Nico Rosberg;German;14;2012;15;Marina Bay Street Circuit;Marina Bay;Singapore;10;5;Finished;10.0;59;+34.784;7260928;3403000;3763000;;2;29.6165;59.233
+Mercedes;30;Michael Schumacher;German;15;2012;22;Suzuka Circuit;Suzuka;Japan;23;11;Finished;0.0;53;+67.769;5404011;2329000;2389000;;2;20.511;41.022
+Mercedes;30;Michael Schumacher;German;16;2012;35;Korean International Circuit;Yeongam County;Korea;10;13;Finished;0.0;55;+89.241;5877892;3088000;2716000;2793000;2;20.1815;40.363
+Mercedes;3;Nico Rosberg;German;17;2012;68;Buddh International Circuit;Uttar Pradesh;India;10;11;Finished;0.0;60;+1:21.694;5552438;2018000;2476000;;1;21.49;21.49
+Mercedes;30;Michael Schumacher;German;18;2012;24;Yas Marina Circuit;Abu Dhabi;UAE;13;11;Finished;0.0;55;+28.075;6386742;3255000;2809000;;2;20.4855;40.971
+Mercedes;3;Nico Rosberg;German;19;2012;69;Circuit of the Americas;Austin;USA;17;13;Finished;0.0;56;+85.510;5840779;3142000;2781000;;1;21.346;21.346
+Mercedes;30;Michael Schumacher;German;20;2012;18;Autódromo José Carlos Pace;São Paulo;Brazil;13;7;Finished;6.0;71;+11.907;6334563;965000;1174000;;4;23.134;92.536
+Mercedes;1;Lewis Hamilton;British;1;2013;1;Albert Park Grand Prix Circuit;Melbourne;Australia;3;5;Finished;10.0;58;+45.561;5448786;3156000;2785000;1767000;3;21.9827;65.948
+Mercedes;1;Lewis Hamilton;British;2;2013;2;Sepang International Circuit;Kuala Lumpur;Malaysia;4;3;Finished;15.0;56;+12.181;5948862;2733000;2677000;3759000;4;22.3045;89.218
+Mercedes;3;Nico Rosberg;German;2;2013;2;Sepang International Circuit;Kuala Lumpur;Malaysia;6;4;Finished;12.0;56;+12.640;5949321;2459000;2350000;3639000;4;21.6058;86.423
+Mercedes;1;Lewis Hamilton;British;3;2013;17;Shanghai International Circuit;Shanghai;China;1;3;Finished;15.0;56;+12.322;5799267;2893000;2178000;2524000;3;20.1877;60.563
+Mercedes;1;Lewis Hamilton;British;4;2013;3;Bahrain International Circuit;Sakhir;Bahrain;9;5;Finished;10.0;57;+35.230;5795728;2478000;2326000;2682000;3;21.7053;65.116
+Mercedes;3;Nico Rosberg;German;4;2013;3;Bahrain International Circuit;Sakhir;Bahrain;1;9;Finished;2.0;57;+41.126;5801624;2344000;2787000;2250000;4;21.5045;86.018
+Mercedes;3;Nico Rosberg;German;5;2013;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;6;Finished;8.0;66;+1:08.020;6024616;2173000;2036000;1918000;3;19.5993;58.798
+Mercedes;3;Nico Rosberg;German;6;2013;6;Circuit de Monaco;Monte-Carlo;Monaco;1;1;Finished;25.0;78;2:17:52.056;8272056;2060000;1095000;1656000;1;25.2;25.2
+Mercedes;1;Lewis Hamilton;British;6;2013;6;Circuit de Monaco;Monte-Carlo;Monaco;2;4;Finished;12.0;78;+13.894;8285950;2159000;1225000;1747000;1;24.801;24.801
+Mercedes;1;Lewis Hamilton;British;7;2013;7;Circuit Gilles Villeneuve;Montreal;Canada;2;3;Finished;15.0;70;+15.942;5545085;2181000;2269000;2012000;2;20.7675;41.535
+Mercedes;3;Nico Rosberg;German;7;2013;7;Circuit Gilles Villeneuve;Montreal;Canada;4;5;Finished;10.0;70;+1:09.725;5598868;2220000;2100000;1568000;3;21.1387;63.416
+Mercedes;3;Nico Rosberg;German;8;2013;9;Silverstone Circuit;Silverstone;UK;2;1;Finished;25.0;52;1:32:59.456;5579456;2215000;1888000;1859000;3;25.1063;75.319
+Mercedes;1;Lewis Hamilton;British;8;2013;9;Silverstone Circuit;Silverstone;UK;1;4;Finished;12.0;52;+7.756;5587212;2795000;2084000;2347000;2;26.8305;53.661
+Mercedes;1;Lewis Hamilton;British;9;2013;20;Nürburgring;Nürburg;Germany;1;5;Finished;10.0;60;+26.927;6101638;1991000;1952000;2138000;3;19.3747;58.124
+Mercedes;3;Nico Rosberg;German;9;2013;20;Nürburgring;Nürburg;Germany;11;9;Finished;2.0;60;+46.821;6121532;2182000;2126000;;3;20.527;61.581
+Mercedes;1;Lewis Hamilton;British;10;2013;11;Hungaroring;Budapest;Hungary;1;1;Finished;25.0;70;1:42:29.445;6149445;1563000;2002000;1528000;3;21.81;65.43
+Mercedes;1;Lewis Hamilton;British;11;2013;13;Circuit de Spa-Francorchamps;Spa;Belgium;1;3;Finished;15.0;44;+27.734;5049930;368000;3007000;72000;2;23.0395;46.079
+Mercedes;3;Nico Rosberg;German;11;2013;13;Circuit de Spa-Francorchamps;Spa;Belgium;4;4;Finished;12.0;44;+29.872;5052068;159000;3432000;371000;2;23.308;46.616
+Mercedes;3;Nico Rosberg;German;12;2013;14;Autodromo Nazionale di Monza;Monza;Italy;6;6;Finished;8.0;53;+10.999;4724351;1967000;1833000;1632000;1;24.079;24.079
+Mercedes;1;Lewis Hamilton;British;12;2013;14;Autodromo Nazionale di Monza;Monza;Italy;12;9;Finished;2.0;53;+33.527;4746879;2029000;2243000;;2;24.3875;48.775
+Mercedes;3;Nico Rosberg;German;13;2013;15;Marina Bay Street Circuit;Marina Bay;Singapore;2;4;Finished;12.0;61;+51.155;7204287;2908000;3472000;3452000;2;29.414;58.828
+Mercedes;1;Lewis Hamilton;British;13;2013;15;Marina Bay Street Circuit;Marina Bay;Singapore;5;5;Finished;10.0;61;+53.159;7206291;2836000;3500000;2834000;2;29.5585;59.117
+Mercedes;1;Lewis Hamilton;British;14;2013;35;Korean International Circuit;Yeongam County;Korea;2;5;Finished;10.0;55;+25.255;6218956;2854000;3044000;2640000;2;22.2605;44.521
+Mercedes;3;Nico Rosberg;German;14;2013;35;Korean International Circuit;Yeongam County;Korea;4;7;Finished;6.0;55;+26.698;6220399;2698000;2311000;2899000;2;32.922;65.844
+Mercedes;3;Nico Rosberg;German;15;2013;22;Suzuka Circuit;Suzuka;Japan;6;8;Finished;4.0;53;+1:12.023;5281324;2164000;2624000;2257000;4;21.485;85.94
+Mercedes;3;Nico Rosberg;German;16;2013;68;Buddh International Circuit;Uttar Pradesh;India;2;2;Finished;18.0;60;+29.823;5502010;2333000;1804000;2311000;2;23.79;47.58
+Mercedes;1;Lewis Hamilton;British;16;2013;68;Buddh International Circuit;Uttar Pradesh;India;3;6;Finished;8.0;60;+52.475;5524662;2302000;1759000;2381000;2;23.56;47.12
+Mercedes;3;Nico Rosberg;German;17;2013;24;Yas Marina Circuit;Abu Dhabi;UAE;3;3;Finished;15.0;55;+33.650;5919756;2880000;2873000;2819000;2;21.643;43.286
+Mercedes;1;Lewis Hamilton;British;17;2013;24;Yas Marina Circuit;Abu Dhabi;UAE;4;7;Finished;6.0;55;+1:19.267;5965373;3093000;2877000;2901000;2;21.4905;42.981
+Mercedes;1;Lewis Hamilton;British;18;2013;69;Circuit of the Americas;Austin;USA;5;4;Finished;12.0;56;+27.358;5984506;3179000;3074000;2565000;1;23.904;23.904
+Mercedes;3;Nico Rosberg;German;18;2013;69;Circuit of the Americas;Austin;USA;12;9;Finished;2.0;56;+59.141;6016289;3023000;2644000;;1;23.806;23.806
+Mercedes;3;Nico Rosberg;German;19;2013;18;Autódromo José Carlos Pace;São Paulo;Brazil;2;5;Finished;10.0;71;+39.048;5595348;2056000;2186000;1722000;2;23.0405;46.081
+Mercedes;1;Lewis Hamilton;British;19;2013;18;Autódromo José Carlos Pace;São Paulo;Brazil;5;9;Finished;2.0;71;+1:12.903;5629203;1842000;2258000;2297000;3;21.4877;64.463
+Mercedes;3;Nico Rosberg;German;1;2014;1;Albert Park Grand Prix Circuit;Melbourne;Australia;3;1;Finished;25.0;57;1:32:58.710;5578710;2484000;2784000;3235000;2;24.002;48.004
+Mercedes;1;Lewis Hamilton;British;2;2014;2;Sepang International Circuit;Kuala Lumpur;Malaysia;1;1;Finished;25.0;56;1:40:25.974;6025974;3622000;3581000;3971000;3;24.7947;74.384
+Mercedes;3;Nico Rosberg;German;2;2014;2;Sepang International Circuit;Kuala Lumpur;Malaysia;3;2;Finished;18.0;56;+17.313;6043287;3603000;3985000;50000;3;24.888;74.664
+Mercedes;1;Lewis Hamilton;British;3;2014;3;Bahrain International Circuit;Sakhir;Bahrain;2;1;Finished;25.0;57;1:39:42.743;5982743;2423000;2852000;2444000;2;24.9165;49.833
+Mercedes;3;Nico Rosberg;German;3;2014;3;Bahrain International Circuit;Sakhir;Bahrain;1;2;Finished;18.0;57;+1.085;5983828;2539000;2688000;2165000;2;24.879;49.758
+Mercedes;1;Lewis Hamilton;British;4;2014;17;Shanghai International Circuit;Shanghai;China;1;1;Finished;25.0;54;1:33:28.338;5608338;3816000;3269000;4040000;2;23.4835;46.967
+Mercedes;3;Nico Rosberg;German;4;2014;17;Shanghai International Circuit;Shanghai;China;4;2;Finished;18.0;54;+18.062;5626400;3418000;3594000;3443000;2;23.183;46.366
+Mercedes;1;Lewis Hamilton;British;5;2014;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:41:05.155;6065155;1858000;1770000;1732000;2;23.2705;46.541
+Mercedes;3;Nico Rosberg;German;5;2014;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;2;2;Finished;18.0;66;+0.636;6065791;2324000;1648000;1900000;2;22.2815;44.563
+Mercedes;3;Nico Rosberg;German;6;2014;6;Circuit de Monaco;Monte-Carlo;Monaco;1;1;Finished;25.0;78;1:49:27.661;6567661;1698000;1425000;1889000;1;24.672;24.672
+Mercedes;1;Lewis Hamilton;British;6;2014;6;Circuit de Monaco;Monte-Carlo;Monaco;2;2;Finished;18.0;78;+9.210;6576871;1843000;1314000;1008000;1;27.509;27.509
+Mercedes;3;Nico Rosberg;German;7;2014;7;Circuit Gilles Villeneuve;Montreal;Canada;1;2;Finished;18.0;70;+4.236;5957066;1431000;1189000;1714000;2;24.492;48.984
+Mercedes;3;Nico Rosberg;German;8;2014;70;Red Bull Ring;Spielberg;Austria;3;1;Finished;25.0;71;1:27:54.976;5274976;1235000;1454000;1424000;2;21.569;43.138
+Mercedes;1;Lewis Hamilton;British;8;2014;70;Red Bull Ring;Spielberg;Austria;9;2;Finished;18.0;71;+1.932;5276908;1054000;632000;;2;22.3905;44.781
+Mercedes;1;Lewis Hamilton;British;9;2014;9;Silverstone Circuit;Silverstone;UK;6;1;Finished;25.0;52;2:26:52.094;8812094;2518000;2910000;2572000;2;29.485;58.97
+Mercedes;3;Nico Rosberg;German;10;2014;10;Hockenheimring;Hockenheim;Germany;1;1;Finished;25.0;67;1:33:42.914;5622914;1651000;1129000;1500000;2;20.156;40.312
+Mercedes;1;Lewis Hamilton;British;10;2014;10;Hockenheimring;Hockenheim;Germany;20;3;Finished;15.0;67;+22.530;5645444;1763000;;;3;19.832;59.496
+Mercedes;1;Lewis Hamilton;British;11;2014;11;Hungaroring;Budapest;Hungary;22;3;Finished;15.0;70;+5.857;6790915;;;;2;23.582;47.164
+Mercedes;3;Nico Rosberg;German;11;2014;11;Hungaroring;Budapest;Hungary;1;4;Finished;12.0;70;+6.361;6791419;1727000;1690000;2035000;3;22.8973;68.692
+Mercedes;3;Nico Rosberg;German;12;2014;13;Circuit de Spa-Francorchamps;Spa;Belgium;1;2;Finished;18.0;44;+3.383;5079939;550000;1083000;891000;3;25.4417;76.325
+Mercedes;1;Lewis Hamilton;British;13;2014;14;Autodromo Nazionale di Monza;Monza;Italy;1;1;Finished;25.0;53;1:19:10.236;4750236;1863000;2000000;1549000;1;24.453;24.453
+Mercedes;3;Nico Rosberg;German;13;2014;14;Autodromo Nazionale di Monza;Monza;Italy;2;2;Finished;18.0;53;+3.175;4753411;1993000;2040000;1823000;1;24.583;24.583
+Mercedes;1;Lewis Hamilton;British;14;2014;15;Marina Bay Street Circuit;Marina Bay;Singapore;1;1;Finished;25.0;60;2:00:04.795;7204795;3681000;3047000;3381000;3;29.9153;89.746
+Mercedes;1;Lewis Hamilton;British;15;2014;22;Suzuka Circuit;Suzuka;Japan;2;1;Finished;25.0;44;1:51:43.021;6703021;2591000;2902000;2623000;2;23.784;47.568
+Mercedes;3;Nico Rosberg;German;15;2014;22;Suzuka Circuit;Suzuka;Japan;1;2;Finished;18.0;44;+9.180;6712201;2651000;2870000;2426000;2;24.279;48.558
+Mercedes;1;Lewis Hamilton;British;16;2014;71;Sochi Autodrom;Sochi;Russia;1;1;Finished;25.0;53;1:31:50.744;5510744;3039000;2618000;2793000;1;30.503;30.503
+Mercedes;3;Nico Rosberg;German;16;2014;71;Sochi Autodrom;Sochi;Russia;2;2;Finished;18.0;53;+13.657;5524401;2416000;2886000;2993000;1;33.82;33.82
+Mercedes;1;Lewis Hamilton;British;17;2014;69;Circuit of the Americas;Austin;USA;2;1;Finished;25.0;56;1:40:04.785;6004785;2416000;2507000;2603000;2;24.306;48.612
+Mercedes;3;Nico Rosberg;German;17;2014;69;Circuit of the Americas;Austin;USA;1;2;Finished;18.0;56;+4.314;6009099;2583000;2450000;2227000;2;24.473;48.946
+Mercedes;3;Nico Rosberg;German;18;2014;18;Autódromo José Carlos Pace;São Paulo;Brazil;1;1;Finished;25.0;71;1:30:02.555;5402555;947000;903000;623000;3;23.4387;70.316
+Mercedes;1;Lewis Hamilton;British;18;2014;18;Autódromo José Carlos Pace;São Paulo;Brazil;2;2;Finished;18.0;71;+1.457;5404012;1057000;1312000;656000;3;23.483;70.449
+Mercedes;1;Lewis Hamilton;British;19;2014;24;Yas Marina Circuit;Abu Dhabi;UAE;2;1;Finished;50.0;55;1:39:02.619;5942619;2667000;3320000;3266000;2;21.886;43.772
+Mercedes;1;Lewis Hamilton;British;1;2015;1;Albert Park Grand Prix Circuit;Melbourne;Australia;1;1;Finished;25.0;58;1:31:54.067;5514067;2266000;2454000;1887000;1;22.295;22.295
+Mercedes;3;Nico Rosberg;German;1;2015;1;Albert Park Grand Prix Circuit;Melbourne;Australia;2;2;Finished;18.0;58;+1.360;5515427;2586000;1717000;2481000;1;22.105;22.105
+Mercedes;1;Lewis Hamilton;British;2;2015;2;Sepang International Circuit;Kuala Lumpur;Malaysia;1;2;Finished;18.0;56;+8.569;6074362;2609000;2977000;3774000;3;24.956;74.868
+Mercedes;3;Nico Rosberg;German;2;2015;2;Sepang International Circuit;Kuala Lumpur;Malaysia;3;3;Finished;15.0;56;+12.310;6078103;2714000;2717000;3299000;3;27.533;82.599
+Mercedes;1;Lewis Hamilton;British;3;2015;17;Shanghai International Circuit;Shanghai;China;1;1;Finished;25.0;56;1:39:42.008;5982008;2565000;2583000;2882000;2;22.44;44.88
+Mercedes;3;Nico Rosberg;German;3;2015;17;Shanghai International Circuit;Shanghai;China;2;2;Finished;18.0;56;+0.714;5982722;2776000;2907000;2928000;2;22.656;45.312
+Mercedes;1;Lewis Hamilton;British;4;2015;3;Bahrain International Circuit;Sakhir;Bahrain;1;1;Finished;25.0;57;1:35:05.809;5705809;2908000;2589000;2491000;2;25.1595;50.319
+Mercedes;3;Nico Rosberg;German;4;2015;3;Bahrain International Circuit;Sakhir;Bahrain;3;3;Finished;15.0;57;+6.033;5711842;2438000;2858000;2109000;2;25.3645;50.729
+Mercedes;3;Nico Rosberg;German;5;2015;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:41:12.555;6072555;2050000;1666000;2121000;2;22.161;44.322
+Mercedes;1;Lewis Hamilton;British;5;2015;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;2;2;Finished;18.0;66;+17.551;6090106;1942000;2240000;2388000;3;23.0927;69.278
+Mercedes;3;Nico Rosberg;German;6;2015;6;Circuit de Monaco;Monte-Carlo;Monaco;2;1;Finished;25.0;78;1:49:18.420;6558420;1488000;1371000;1340000;1;24.789;24.789
+Mercedes;1;Lewis Hamilton;British;6;2015;6;Circuit de Monaco;Monte-Carlo;Monaco;1;3;Finished;15.0;78;+6.053;6564473;1548000;1764000;998000;2;24.838;49.676
+Mercedes;1;Lewis Hamilton;British;7;2015;7;Circuit Gilles Villeneuve;Montreal;Canada;1;1;Finished;25.0;70;1:31:53.145;5513145;1795000;1501000;1233000;1;23.708;23.708
+Mercedes;3;Nico Rosberg;German;7;2015;7;Circuit Gilles Villeneuve;Montreal;Canada;2;2;Finished;18.0;70;+2.285;5515430;1793000;1513000;1542000;1;23.321;23.321
+Mercedes;3;Nico Rosberg;German;8;2015;70;Red Bull Ring;Spielberg;Austria;2;1;Finished;25.0;71;1:30:16.930;5416930;1576000;1114000;1135000;1;21.768;21.768
+Mercedes;1;Lewis Hamilton;British;8;2015;70;Red Bull Ring;Spielberg;Austria;1;2;Finished;18.0;71;+8.800;5425730;938000;602000;935000;1;21.869;21.869
+Mercedes;1;Lewis Hamilton;British;9;2015;9;Silverstone Circuit;Silverstone;UK;1;1;Finished;25.0;52;1:31:27.729;5487729;2776000;2048000;2168000;2;28.698;57.396
+Mercedes;3;Nico Rosberg;German;9;2015;9;Silverstone Circuit;Silverstone;UK;2;2;Finished;18.0;52;+10.956;5498685;2455000;2657000;2281000;2;29.393;58.786
+Mercedes;1;Lewis Hamilton;British;10;2015;11;Hungaroring;Budapest;Hungary;1;6;Finished;8.0;69;+52.025;6422010;2210000;1605000;1340000;6;21.2812;127.687
+Mercedes;3;Nico Rosberg;German;10;2015;11;Hungaroring;Budapest;Hungary;2;8;Finished;4.0;69;+58.876;6428861;2299000;2095000;1915000;5;20.5542;102.771
+Mercedes;1;Lewis Hamilton;British;11;2015;13;Circuit de Spa-Francorchamps;Spa;Belgium;1;1;Finished;25.0;43;1:23:40.387;5020387;3788000;2904000;3017000;2;22.679;45.358
+Mercedes;3;Nico Rosberg;German;11;2015;13;Circuit de Spa-Francorchamps;Spa;Belgium;2;2;Finished;18.0;43;+2.058;5022445;3803000;3775000;3475000;2;22.881;45.762
+Mercedes;1;Lewis Hamilton;British;12;2015;14;Autodromo Nazionale di Monza;Monza;Italy;1;1;Finished;25.0;53;1:18:00.688;4680688;1691000;1763000;1777000;1;24.368;24.368
+Mercedes;3;Nico Rosberg;German;13;2015;15;Marina Bay Street Circuit;Marina Bay;Singapore;6;4;Finished;12.0;61;+24.720;7306838;2961000;3353000;3115000;2;30.2245;60.449
+Mercedes;1;Lewis Hamilton;British;14;2015;22;Suzuka Circuit;Suzuka;Japan;2;1;Finished;25.0;53;1:28:06.508;5286508;2764000;2709000;2580000;2;22.9575;45.915
+Mercedes;3;Nico Rosberg;German;14;2015;22;Suzuka Circuit;Suzuka;Japan;1;2;Finished;18.0;53;+18.964;5305472;1995000;2552000;2504000;2;23.1595;46.319
+Mercedes;1;Lewis Hamilton;British;15;2015;71;Sochi Autodrom;Sochi;Russia;2;1;Finished;25.0;53;1:37:11.024;5831024;2838000;2892000;2653000;1;30.216;30.216
+Mercedes;1;Lewis Hamilton;British;16;2015;69;Circuit of the Americas;Austin;USA;2;1;Finished;25.0;56;1:50:52.703;6652703;4231000;4289000;;2;24.221;48.442
+Mercedes;3;Nico Rosberg;German;16;2015;69;Circuit of the Americas;Austin;USA;1;2;Finished;18.0;56;+2.850;6655553;4031000;4184000;;2;24.941;49.882
+Mercedes;3;Nico Rosberg;German;17;2015;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;1;1;Finished;25.0;71;1:42:35.038;6155038;1636000;1253000;1620000;2;22.347;44.694
+Mercedes;1;Lewis Hamilton;British;17;2015;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;2;2;Finished;18.0;71;+1.954;6156992;2008000;1969000;1808000;2;22.316;44.632
+Mercedes;3;Nico Rosberg;German;18;2015;18;Autódromo José Carlos Pace;São Paulo;Brazil;1;1;Finished;25.0;71;1:31:09.090;5469090;1406000;933000;942000;3;23.802;71.406
+Mercedes;1;Lewis Hamilton;British;18;2015;18;Autódromo José Carlos Pace;São Paulo;Brazil;2;2;Finished;18.0;71;+7.756;5476846;1342000;1325000;1020000;3;23.4707;70.412
+Mercedes;3;Nico Rosberg;German;19;2015;24;Yas Marina Circuit;Abu Dhabi;UAE;1;1;Finished;25.0;55;1:38:30.175;5910175;2571000;3379000;2637000;2;21.6085;43.217
+Mercedes;1;Lewis Hamilton;British;19;2015;24;Yas Marina Circuit;Abu Dhabi;UAE;2;2;Finished;18.0;55;+8.271;5918446;3374000;3158000;3014000;2;21.369;42.738
+Mercedes;3;Nico Rosberg;German;1;2016;1;Albert Park Grand Prix Circuit;Melbourne;Australia;2;1;Finished;25.0;57;1:48:15.565;6495565;2494000;2236000;1637000;1;21.531;21.531
+Mercedes;1;Lewis Hamilton;British;1;2016;1;Albert Park Grand Prix Circuit;Melbourne;Australia;1;2;Finished;18.0;57;+8.060;6503625;1851000;2045000;2217000;1;21.94;21.94
+Mercedes;3;Nico Rosberg;German;2;2016;3;Bahrain International Circuit;Sakhir;Bahrain;2;1;Finished;25.0;57;1:33:34.696;5614696;2185000;2335000;2310000;3;25.9737;77.921
+Mercedes;1;Lewis Hamilton;British;2;2016;3;Bahrain International Circuit;Sakhir;Bahrain;1;3;Finished;15.0;57;+30.148;5644844;2251000;1839000;2233000;3;24.6887;74.066
+Mercedes;3;Nico Rosberg;German;3;2016;17;Shanghai International Circuit;Shanghai;China;1;1;Finished;25.0;56;1:38:53.891;5933891;2889000;2400000;2502000;2;23.195;46.39
+Mercedes;1;Lewis Hamilton;British;3;2016;17;Shanghai International Circuit;Shanghai;China;22;7;Finished;6.0;56;+1:18.230;6012121;;;;5;24.4252;122.126
+Mercedes;3;Nico Rosberg;German;4;2016;71;Sochi Autodrom;Sochi;Russia;1;1;Finished;25.0;53;1:32:41.997;5561997;2279000;2437000;2517000;1;29.709;29.709
+Mercedes;1;Lewis Hamilton;British;4;2016;71;Sochi Autodrom;Sochi;Russia;10;2;Finished;18.0;53;+25.022;5587019;2166000;2920000;;1;30.001;30.001
+Mercedes;1;Lewis Hamilton;British;6;2016;6;Circuit de Monaco;Monte-Carlo;Monaco;3;1;Finished;25.0;78;1:59:29.133;7169133;1666000;896000;1722000;1;26.315;26.315
+Mercedes;3;Nico Rosberg;German;6;2016;6;Circuit de Monaco;Monte-Carlo;Monaco;2;7;Finished;6.0;78;+1:33.290;7262423;1713000;883000;1571000;2;27.189;54.378
+Mercedes;1;Lewis Hamilton;British;7;2016;7;Circuit Gilles Villeneuve;Montreal;Canada;1;1;Finished;25.0;70;1:31:05.296;5465296;961000;856000;1532000;1;22.243;22.243
+Mercedes;3;Nico Rosberg;German;7;2016;7;Circuit Gilles Villeneuve;Montreal;Canada;2;5;Finished;10.0;70;+1:02.093;5527389;1494000;874000;1594000;2;22.597;45.194
+Mercedes;3;Nico Rosberg;German;8;2016;73;Baku City Circuit;Baku;Azerbaijan;1;1;Finished;25.0;51;1:32:52.366;5572366;3265000;3040000;3278000;1;20.058;20.058
+Mercedes;1;Lewis Hamilton;British;8;2016;73;Baku City Circuit;Baku;Azerbaijan;10;5;Finished;10.0;51;+56.335;5628701;2899000;3106000;1014000;1;20.108;20.108
+Mercedes;1;Lewis Hamilton;British;9;2016;70;Red Bull Ring;Spielberg;Austria;1;1;Finished;25.0;71;1:27:38.107;5258107;1307000;588000;1342000;4;20.1815;80.726
+Mercedes;3;Nico Rosberg;German;9;2016;70;Red Bull Ring;Spielberg;Austria;6;4;Finished;12.0;71;+16.710;5274817;876000;763000;945000;4;19.776;79.104
+Mercedes;1;Lewis Hamilton;British;10;2016;9;Silverstone Circuit;Silverstone;UK;1;1;Finished;25.0;52;1:34:55.831;5695831;2539000;1983000;2027000;2;29.5355;59.071
+Mercedes;3;Nico Rosberg;German;10;2016;9;Silverstone Circuit;Silverstone;UK;2;3;Finished;15.0;52;+16.911;5712742;2524000;2710000;2346000;2;29.555;59.11
+Mercedes;1;Lewis Hamilton;British;11;2016;11;Hungaroring;Budapest;Hungary;2;1;Finished;25.0;70;1:40:30.115;6030115;2250000;2276000;1308000;2;21.607;43.214
+Mercedes;3;Nico Rosberg;German;11;2016;11;Hungaroring;Budapest;Hungary;1;2;Finished;18.0;70;+1.977;6032092;2282000;2126000;2105000;2;21.792;43.584
+Mercedes;1;Lewis Hamilton;British;12;2016;10;Hockenheimring;Hockenheim;Germany;2;1;Finished;25.0;67;1:30:44.200;5444200;1143000;1588000;1310000;3;18.543;55.629
+Mercedes;3;Nico Rosberg;German;12;2016;10;Hockenheimring;Hockenheim;Germany;1;4;Finished;12.0;67;+15.845;5460045;1385000;1679000;1203000;3;22.331;66.993
+Mercedes;3;Nico Rosberg;German;13;2016;13;Circuit de Spa-Francorchamps;Spa;Belgium;1;1;Finished;25.0;44;1:44:51.058;6291058;2899000;3759000;3504000;1;22.596;22.596
+Mercedes;1;Lewis Hamilton;British;13;2016;13;Circuit de Spa-Francorchamps;Spa;Belgium;21;3;Finished;15.0;44;+27.634;6318692;3033000;;;2;23.3875;46.775
+Mercedes;3;Nico Rosberg;German;14;2016;14;Autodromo Nazionale di Monza;Monza;Italy;2;1;Finished;25.0;53;1:17:28.089;4648089;1817000;2069000;1873000;1;25.55;25.55
+Mercedes;1;Lewis Hamilton;British;14;2016;14;Autodromo Nazionale di Monza;Monza;Italy;1;2;Finished;18.0;53;+15.070;4663159;2114000;1758000;1395000;1;23.633;23.633
+Mercedes;3;Nico Rosberg;German;15;2016;15;Marina Bay Street Circuit;Marina Bay;Singapore;1;1;Finished;25.0;61;1:55:48.950;6948950;3016000;2600000;3104000;3;28.622;85.866
+Mercedes;1;Lewis Hamilton;British;15;2016;15;Marina Bay Street Circuit;Marina Bay;Singapore;3;3;Finished;15.0;61;+8.038;6956988;2867000;3051000;2868000;4;27.5848;110.339
+Mercedes;3;Nico Rosberg;German;16;2016;2;Sepang International Circuit;Kuala Lumpur;Malaysia;2;3;Finished;15.0;56;+25.516;5858292;2500000;2589000;2244000;3;23.9623;71.887
+Mercedes;3;Nico Rosberg;German;17;2016;22;Suzuka Circuit;Suzuka;Japan;1;1;Finished;25.0;53;1:26:43.333;5203333;2718000;2514000;2447000;2;22.9115;45.823
+Mercedes;1;Lewis Hamilton;British;17;2016;22;Suzuka Circuit;Suzuka;Japan;2;3;Finished;15.0;53;+5.776;5209109;2138000;1989000;2460000;2;22.8605;45.721
+Mercedes;1;Lewis Hamilton;British;18;2016;69;Circuit of the Americas;Austin;USA;1;1;Finished;25.0;56;1:38:12.618;5892618;2456000;2610000;3039000;2;23.588;47.176
+Mercedes;3;Nico Rosberg;German;18;2016;69;Circuit of the Americas;Austin;USA;2;2;Finished;18.0;56;+4.520;5897138;2557000;2511000;2315000;2;23.8375;47.675
+Mercedes;1;Lewis Hamilton;British;19;2016;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;1;1;Finished;25.0;71;1:40:31.402;6031402;1587000;1277000;1784000;1;21.709;21.709
+Mercedes;3;Nico Rosberg;German;19;2016;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;2;2;Finished;18.0;71;+8.354;6039756;2136000;1901000;2038000;1;21.997;21.997
+Mercedes;1;Lewis Hamilton;British;21;2016;24;Yas Marina Circuit;Abu Dhabi;UAE;1;1;Finished;25.0;55;1:38:04.013;5884013;2827000;2722000;3035000;2;21.9775;43.955
+Mercedes;3;Nico Rosberg;German;21;2016;24;Yas Marina Circuit;Abu Dhabi;UAE;2;2;Finished;18.0;55;+0.439;5884452;2911000;2830000;2398000;2;22.4855;44.971
+Mercedes;1;Lewis Hamilton;British;1;2017;1;Albert Park Grand Prix Circuit;Melbourne;Australia;1;2;Finished;18.0;57;+9.975;5061647;1631000;1631000;1508000;1;21.709;21.709
+Mercedes;822;Valtteri Bottas;Finnish;1;2017;1;Albert Park Grand Prix Circuit;Melbourne;Australia;3;3;Finished;15.0;57;+11.250;5062922;1954000;1595000;1801000;1;21.44;21.44
+Mercedes;1;Lewis Hamilton;British;2;2017;17;Shanghai International Circuit;Shanghai;China;1;1;Finished;25.0;56;1:37:36.158;5856158;2313000;2326000;2538000;4;20.255;81.02
+Mercedes;822;Valtteri Bottas;Finnish;2;2017;17;Shanghai International Circuit;Shanghai;China;3;6;Finished;8.0;56;+48.808;5904966;2664000;2472000;2725000;4;22.8175;91.27
+Mercedes;1;Lewis Hamilton;British;3;2017;3;Bahrain International Circuit;Sakhir;Bahrain;2;2;Finished;18.0;57;+6.660;5640034;2614000;2275000;2472000;2;30.6845;61.369
+Mercedes;822;Valtteri Bottas;Finnish;3;2017;3;Bahrain International Circuit;Sakhir;Bahrain;1;3;Finished;15.0;57;+20.397;5653771;1901000;2295000;2449000;2;26.454;52.908
+Mercedes;822;Valtteri Bottas;Finnish;4;2017;71;Sochi Autodrom;Sochi;Russia;3;1;Finished;25.0;52;1:28:08.743;5288743;2081000;2244000;2269000;1;29.356;29.356
+Mercedes;1;Lewis Hamilton;British;4;2017;71;Sochi Autodrom;Sochi;Russia;4;4;Finished;12.0;52;+36.320;5325063;2449000;2740000;2747000;1;29.739;29.739
+Mercedes;1;Lewis Hamilton;British;5;2017;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:35:56.497;5756497;1711000;1410000;1289000;2;21.633;43.266
+Mercedes;822;Valtteri Bottas;Finnish;6;2017;6;Circuit de Monaco;Monte-Carlo;Monaco;3;4;Finished;12.0;78;+5.517;6289857;1105000;1621000;943000;1;24.308;24.308
+Mercedes;1;Lewis Hamilton;British;6;2017;6;Circuit de Monaco;Monte-Carlo;Monaco;13;7;Finished;6.0;78;+15.801;6300141;1420000;946000;;1;24.155;24.155
+Mercedes;1;Lewis Hamilton;British;7;2017;7;Circuit Gilles Villeneuve;Montreal;Canada;1;1;Finished;25.0;70;1:33:05.154;5585154;1412000;1216000;1119000;1;23.061;23.061
+Mercedes;822;Valtteri Bottas;Finnish;7;2017;7;Circuit Gilles Villeneuve;Montreal;Canada;3;2;Finished;18.0;70;+19.783;5604937;1405000;1283000;897000;1;22.946;22.946
+Mercedes;822;Valtteri Bottas;Finnish;8;2017;73;Baku City Circuit;Baku;Azerbaijan;2;2;Finished;18.0;51;+3.904;7439477;2606000;2962000;2487000;3;23.8823;71.647
+Mercedes;1;Lewis Hamilton;British;8;2017;73;Baku City Circuit;Baku;Azerbaijan;1;5;Finished;10.0;51;+6.188;7441761;3443000;2735000;2993000;3;20.8923;62.677
+Mercedes;822;Valtteri Bottas;Finnish;9;2017;70;Red Bull Ring;Spielberg;Austria;1;1;Finished;25.0;71;1:21:48.523;4908523;1060000;556000;491000;1;22.387;22.387
+Mercedes;1;Lewis Hamilton;British;9;2017;70;Red Bull Ring;Spielberg;Austria;8;4;Finished;12.0;71;+7.430;4915953;364000;1040000;664000;1;20.761;20.761
+Mercedes;1;Lewis Hamilton;British;10;2017;9;Silverstone Circuit;Silverstone;UK;1;1;Finished;25.0;51;1:21:27.430;4887430;2409000;2513000;2160000;1;27.733;27.733
+Mercedes;822;Valtteri Bottas;Finnish;10;2017;9;Silverstone Circuit;Silverstone;UK;9;2;Finished;18.0;51;+14.063;4901493;3038000;2412000;1996000;1;27.858;27.858
+Mercedes;822;Valtteri Bottas;Finnish;11;2017;11;Hungaroring;Budapest;Hungary;3;3;Finished;15.0;70;+12.462;5999175;1138000;1382000;1490000;1;22.681;22.681
+Mercedes;1;Lewis Hamilton;British;11;2017;11;Hungaroring;Budapest;Hungary;4;4;Finished;12.0;70;+12.885;5999598;1512000;1653000;1667000;1;21.338;21.338
+Mercedes;1;Lewis Hamilton;British;12;2017;13;Circuit de Spa-Francorchamps;Spa;Belgium;1;1;Finished;25.0;44;1:24:42.820;5082820;2824000;3447000;3073000;2;22.197;44.394
+Mercedes;822;Valtteri Bottas;Finnish;12;2017;13;Circuit de Spa-Francorchamps;Spa;Belgium;3;5;Finished;10.0;44;+16.456;5099276;3413000;2829000;2674000;2;22.941;45.882
+Mercedes;1;Lewis Hamilton;British;13;2017;14;Autodromo Nazionale di Monza;Monza;Italy;1;1;Finished;25.0;53;1:15:32.312;4532312;2169000;2700000;2654000;1;23.725;23.725
+Mercedes;822;Valtteri Bottas;Finnish;13;2017;14;Autodromo Nazionale di Monza;Monza;Italy;4;2;Finished;18.0;53;+4.471;4536783;2816000;2496000;3053000;1;23.728;23.728
+Mercedes;1;Lewis Hamilton;British;14;2017;15;Marina Bay Street Circuit;Marina Bay;Singapore;5;1;Finished;25.0;58;2:03:23.544;7403544;2975000;2977000;2526000;4;26.9033;107.613
+Mercedes;822;Valtteri Bottas;Finnish;14;2017;15;Marina Bay Street Circuit;Marina Bay;Singapore;6;3;Finished;15.0;58;+8.800;7412344;2717000;2869000;3210000;4;27.583;110.332
+Mercedes;1;Lewis Hamilton;British;15;2017;2;Sepang International Circuit;Kuala Lumpur;Malaysia;1;2;Finished;18.0;56;+12.770;5414060;2465000;2777000;1876000;1;23.489;23.489
+Mercedes;822;Valtteri Bottas;Finnish;15;2017;2;Sepang International Circuit;Kuala Lumpur;Malaysia;5;5;Finished;10.0;56;+56.021;5457311;2174000;2603000;2558000;1;23.676;23.676
+Mercedes;1;Lewis Hamilton;British;16;2017;22;Suzuka Circuit;Suzuka;Japan;1;1;Finished;25.0;53;1:27:31.194;5251194;1787000;2439000;1939000;1;22.724;22.724
+Mercedes;822;Valtteri Bottas;Finnish;16;2017;22;Suzuka Circuit;Suzuka;Japan;6;4;Finished;12.0;53;+10.580;5261774;2072000;2223000;2271000;1;22.876;22.876
+Mercedes;1;Lewis Hamilton;British;17;2017;69;Circuit of the Americas;Austin;USA;1;1;Finished;25.0;56;1:33:50.991;5630991;2862000;2417000;2088000;1;23.402;23.402
+Mercedes;822;Valtteri Bottas;Finnish;17;2017;69;Circuit of the Americas;Austin;USA;3;5;Finished;10.0;56;+34.967;5665958;2409000;2749000;2548000;2;23.3565;46.713
+Mercedes;822;Valtteri Bottas;Finnish;18;2017;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;4;2;Finished;18.0;71;+19.678;5806230;1598000;1181000;1918000;1;21.758;21.758
+Mercedes;822;Valtteri Bottas;Finnish;19;2017;18;Autódromo José Carlos Pace;São Paulo;Brazil;1;2;Finished;18.0;71;+2.762;5489024;992000;1118000;802000;4;19.348;77.392
+Mercedes;1;Lewis Hamilton;British;19;2017;18;Autódromo José Carlos Pace;São Paulo;Brazil;20;4;Finished;12.0;71;+5.468;5491730;;;;4;20.115;80.46
+Mercedes;822;Valtteri Bottas;Finnish;20;2017;24;Yas Marina Circuit;Abu Dhabi;UAE;1;1;Finished;25.0;55;1:34:14.062;5654062;2576000;2982000;2391000;1;21.478;21.478
+Mercedes;1;Lewis Hamilton;British;20;2017;24;Yas Marina Circuit;Abu Dhabi;UAE;2;2;Finished;18.0;55;+3.899;5657961;2611000;2902000;2563000;1;21.274;21.274
+Mercedes;1;Lewis Hamilton;British;1;2018;1;Albert Park Grand Prix Circuit;Melbourne;Australia;1;2;Finished;18.0;58;+5.036;5378319;2144000;1371000;1424000;1;21.821;21.821
+Mercedes;822;Valtteri Bottas;Finnish;1;2018;1;Albert Park Grand Prix Circuit;Melbourne;Australia;15;8;Finished;4.0;58;+34.339;5407622;2066000;1409000;;1;21.664;21.664
+Mercedes;822;Valtteri Bottas;Finnish;2;2018;3;Bahrain International Circuit;Sakhir;Bahrain;3;2;Finished;18.0;57;+0.699;5522639;2015000;2474000;1804000;1;26.105;26.105
+Mercedes;1;Lewis Hamilton;British;2;2018;3;Bahrain International Circuit;Sakhir;Bahrain;9;3;Finished;15.0;57;+6.512;5528452;2136000;2138000;1900000;1;24.302;24.302
+Mercedes;822;Valtteri Bottas;Finnish;3;2018;17;Shanghai International Circuit;Shanghai;China;3;2;Finished;18.0;56;+8.894;5745274;2841000;1983000;2485000;1;22.097;22.097
+Mercedes;1;Lewis Hamilton;British;3;2018;17;Shanghai International Circuit;Shanghai;China;4;4;Finished;12.0;56;+16.985;5753365;2263000;2774000;2535000;1;22.464;22.464
+Mercedes;1;Lewis Hamilton;British;4;2018;73;Baku City Circuit;Baku;Azerbaijan;2;1;Finished;25.0;51;1:43:44.291;6224291;3213000;3196000;3137000;2;20.853;41.706
+Mercedes;1;Lewis Hamilton;British;5;2018;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:35:29.972;5729972;1653000;1186000;1133000;1;22.085;22.085
+Mercedes;822;Valtteri Bottas;Finnish;5;2018;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;2;2;Finished;18.0;66;+20.593;5750565;1694000;1131000;1173000;1;23.213;23.213
+Mercedes;1;Lewis Hamilton;British;6;2018;6;Circuit de Monaco;Monte-Carlo;Monaco;3;3;Finished;15.0;78;+17.013;6191820;1180000;1244000;892000;1;23.739;23.739
+Mercedes;822;Valtteri Bottas;Finnish;6;2018;6;Circuit de Monaco;Monte-Carlo;Monaco;5;5;Finished;10.0;78;+18.822;6193629;1154000;722000;1101000;1;24.02;24.02
+Mercedes;822;Valtteri Bottas;Finnish;7;2018;7;Circuit Gilles Villeneuve;Montreal;Canada;2;2;Finished;18.0;68;+7.376;5318753;1610000;1174000;1457000;1;23.775;23.775
+Mercedes;1;Lewis Hamilton;British;7;2018;7;Circuit Gilles Villeneuve;Montreal;Canada;4;5;Finished;10.0;68;+21.559;5332936;1495000;1400000;1596000;1;23.335;23.335
+Mercedes;1;Lewis Hamilton;British;8;2018;34;Circuit Paul Ricard;Le Castellet;France;1;1;Finished;25.0;53;1:30:11.385;5411385;2131000;2445000;1829000;1;24.31;24.31
+Mercedes;822;Valtteri Bottas;Finnish;8;2018;34;Circuit Paul Ricard;Le Castellet;France;2;7;Finished;6.0;53;+1:20.632;5492017;2636000;2087000;1947000;2;29.3105;58.621
+Mercedes;1;Lewis Hamilton;British;10;2018;9;Silverstone Circuit;Silverstone;UK;1;2;Finished;18.0;52;+2.264;5252048;2378000;1816000;2392000;1;28.982;28.982
+Mercedes;822;Valtteri Bottas;Finnish;10;2018;9;Silverstone Circuit;Silverstone;UK;4;4;Finished;12.0;52;+8.883;5258667;1645000;1973000;1777000;1;27.894;27.894
+Mercedes;1;Lewis Hamilton;British;11;2018;10;Hockenheimring;Hockenheim;Germany;14;1;Finished;25.0;67;1:32:29.845;5549845;792000;;;1;18.978;18.978
+Mercedes;822;Valtteri Bottas;Finnish;11;2018;10;Hockenheimring;Hockenheim;Germany;2;2;Finished;18.0;67;+4.535;5554380;1682000;872000;1076000;2;26.2335;52.467
+Mercedes;1;Lewis Hamilton;British;12;2018;11;Hungaroring;Budapest;Hungary;1;1;Finished;25.0;70;1:37:16.427;5836427;1439000;2102000;2758000;1;21.48;21.48
+Mercedes;822;Valtteri Bottas;Finnish;12;2018;11;Hungaroring;Budapest;Hungary;2;5;Finished;10.0;70;+50.000;5886427;1143000;2001000;3018000;1;21.337;21.337
+Mercedes;1;Lewis Hamilton;British;13;2018;13;Circuit de Spa-Francorchamps;Spa;Belgium;1;2;Finished;18.0;44;+11.061;5025537;3497000;3013000;3659000;2;20.8735;41.747
+Mercedes;822;Valtteri Bottas;Finnish;13;2018;13;Circuit de Spa-Francorchamps;Spa;Belgium;19;4;Finished;12.0;44;+1:03.605;5078081;3325000;2711000;;3;24.4223;73.267
+Mercedes;1;Lewis Hamilton;British;14;2018;14;Autodromo Nazionale di Monza;Monza;Italy;3;1;Finished;25.0;53;1:16:54.484;4614484;2010000;1938000;1434000;1;23.728;23.728
+Mercedes;822;Valtteri Bottas;Finnish;14;2018;14;Autodromo Nazionale di Monza;Monza;Italy;4;3;Finished;15.0;53;+14.066;4628550;1641000;1627000;1796000;1;23.763;23.763
+Mercedes;1;Lewis Hamilton;British;15;2018;15;Marina Bay Street Circuit;Marina Bay;Singapore;1;1;Finished;25.0;61;1:51:11.611;6671611;2743000;2564000;2175000;1;28.946;28.946
+Mercedes;822;Valtteri Bottas;Finnish;15;2018;15;Marina Bay Street Circuit;Marina Bay;Singapore;4;4;Finished;12.0;61;+51.930;6723541;2631000;2474000;2862000;1;28.542;28.542
+Mercedes;1;Lewis Hamilton;British;16;2018;71;Sochi Autodrom;Sochi;Russia;2;1;Finished;25.0;53;1:27:25.181;5245181;2330000;2515000;2392000;1;29.551;29.551
+Mercedes;822;Valtteri Bottas;Finnish;16;2018;71;Sochi Autodrom;Sochi;Russia;1;2;Finished;18.0;53;+2.545;5247726;2884000;2664000;2247000;1;29.794;29.794
+Mercedes;1;Lewis Hamilton;British;17;2018;22;Suzuka Circuit;Suzuka;Japan;1;1;Finished;25.0;53;1:27:17.062;5237062;2382000;1697000;2380000;1;22.614;22.614
+Mercedes;822;Valtteri Bottas;Finnish;17;2018;22;Suzuka Circuit;Suzuka;Japan;2;2;Finished;18.0;53;+12.919;5249981;2037000;2607000;1739000;1;22.777;22.777
+Mercedes;1;Lewis Hamilton;British;18;2018;69;Circuit of the Americas;Austin;USA;1;3;Finished;15.0;56;+2.342;5660985;2170000;2460000;2157000;2;23.804;47.608
+Mercedes;822;Valtteri Bottas;Finnish;18;2018;69;Circuit of the Americas;Austin;USA;3;5;Finished;10.0;56;+24.744;5683387;2558000;2682000;2536000;1;23.478;23.478
+Mercedes;1;Lewis Hamilton;British;19;2018;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;3;4;Finished;12.0;71;+1:18.738;5987589;1573000;1544000;1734000;2;22.334;44.668
+Mercedes;1;Lewis Hamilton;British;20;2018;18;Autódromo José Carlos Pace;São Paulo;Brazil;1;1;Finished;25.0;71;1:27:09.066;5229066;944000;1215000;701000;1;22.641;22.641
+Mercedes;822;Valtteri Bottas;Finnish;20;2018;18;Autódromo José Carlos Pace;São Paulo;Brazil;3;5;Finished;10.0;71;+22.943;5252009;972000;1147000;861000;2;22.841;45.682
+Mercedes;1;Lewis Hamilton;British;21;2018;24;Yas Marina Circuit;Abu Dhabi;UAE;1;1;Finished;25.0;55;1:39:40.382;5980382;2988000;2793000;2834000;1;21.283;21.283
+Mercedes;822;Valtteri Bottas;Finnish;21;2018;24;Yas Marina Circuit;Abu Dhabi;UAE;2;5;Finished;10.0;55;+47.957;6028339;2949000;2552000;2996000;2;21.4445;42.889
+Mercedes;822;Valtteri Bottas;Finnish;1;2019;1;Albert Park Grand Prix Circuit;Melbourne;Australia;2;1;Finished;26.0;58;1:25:27.325;5127325;1687000;1453000;1798000;1;22.014;22.014
+Mercedes;1;Lewis Hamilton;British;1;2019;1;Albert Park Grand Prix Circuit;Melbourne;Australia;1;2;Finished;18.0;58;+20.886;5148211;1363000;1274000;1686000;1;21.515;21.515
+Mercedes;1;Lewis Hamilton;British;2;2019;3;Bahrain International Circuit;Sakhir;Bahrain;3;1;Finished;25.0;57;1:34:21.295;5661295;2002000;2258000;1870000;2;24.2895;48.579
+Mercedes;822;Valtteri Bottas;Finnish;2;2019;3;Bahrain International Circuit;Sakhir;Bahrain;4;2;Finished;18.0;57;+2.980;5664275;2238000;2510000;1936000;2;24.649;49.298
+Mercedes;1;Lewis Hamilton;British;3;2019;17;Shanghai International Circuit;Shanghai;China;2;1;Finished;25.0;56;1:32:06.350;5526350;2095000;2497000;2430000;2;23.1205;46.241
+Mercedes;822;Valtteri Bottas;Finnish;3;2019;17;Shanghai International Circuit;Shanghai;China;1;2;Finished;18.0;56;+6.552;5532902;2578000;2588000;2407000;2;23.1395;46.279
+Mercedes;822;Valtteri Bottas;Finnish;4;2019;73;Baku City Circuit;Baku;Azerbaijan;1;1;Finished;25.0;51;1:31:52.942;5512942;2546000;2960000;2895000;1;20.006;20.006
+Mercedes;1;Lewis Hamilton;British;4;2019;73;Baku City Circuit;Baku;Azerbaijan;2;2;Finished;18.0;51;+1.524;5514466;3074000;3040000;2954000;1;19.993;19.993
+Mercedes;1;Lewis Hamilton;British;5;2019;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;2;1;Finished;26.0;66;1:35:50.443;5750443;1312000;998000;1000000;2;22.388;44.776
+Mercedes;822;Valtteri Bottas;Finnish;5;2019;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;2;Finished;18.0;66;+4.074;5754517;1939000;1824000;1306000;2;22.026;44.052
+Mercedes;1;Lewis Hamilton;British;6;2019;6;Circuit de Monaco;Monte-Carlo;Monaco;1;1;Finished;25.0;78;1:43:28.437;6208437;1202000;1435000;766000;1;24.266;24.266
+Mercedes;822;Valtteri Bottas;Finnish;6;2019;6;Circuit de Monaco;Monte-Carlo;Monaco;2;3;Finished;15.0;78;+3.162;6211599;1222000;1301000;852000;2;24.903;49.806
+Mercedes;1;Lewis Hamilton;British;7;2019;7;Circuit Gilles Villeneuve;Montreal;Canada;2;1;Finished;25.0;70;1:29:07.084;5347084;1178000;670000;1046000;1;23.662;23.662
+Mercedes;822;Valtteri Bottas;Finnish;7;2019;7;Circuit Gilles Villeneuve;Montreal;Canada;6;4;Finished;13.0;70;+51.043;5398127;889000;755000;761000;2;23.725;47.45
+Mercedes;1;Lewis Hamilton;British;8;2019;34;Circuit Paul Ricard;Le Castellet;France;1;1;Finished;25.0;53;1:24:31.198;5071198;2409000;2260000;1999000;1;30.186;30.186
+Mercedes;822;Valtteri Bottas;Finnish;8;2019;34;Circuit Paul Ricard;Le Castellet;France;2;2;Finished;18.0;53;+18.056;5089254;2350000;2177000;2285000;1;30.412;30.412
+Mercedes;822;Valtteri Bottas;Finnish;9;2019;70;Red Bull Ring;Spielberg;Austria;3;3;Finished;15.0;71;+18.960;4940782;324000;1043000;717000;1;22.552;22.552
+Mercedes;1;Lewis Hamilton;British;9;2019;70;Red Bull Ring;Spielberg;Austria;4;5;Finished;10.0;71;+22.805;4944627;998000;983000;442000;1;30.067;30.067
+Mercedes;1;Lewis Hamilton;British;10;2019;9;Silverstone Circuit;Silverstone;UK;2;1;Finished;26.0;52;1:21:08.452;4868452;2013000;2340000;1599000;1;28.905;28.905
+Mercedes;822;Valtteri Bottas;Finnish;10;2019;9;Silverstone Circuit;Silverstone;UK;1;2;Finished;18.0;52;+24.928;4893380;2250000;2172000;1593000;2;28.335;56.67
+Mercedes;1;Lewis Hamilton;British;11;2019;10;Hockenheimring;Hockenheim;Germany;1;9;Finished;2.0;64;+19.667;6290942;1572000;869000;1427000;5;21.9688;109.844
+Mercedes;1;Lewis Hamilton;British;12;2019;11;Hungaroring;Budapest;Hungary;3;1;Finished;25.0;70;1:35:03.796;5703796;1028000;1448000;1609000;2;22.135;44.27
+Mercedes;1;Lewis Hamilton;British;13;2019;13;Circuit de Spa-Francorchamps;Spa;Belgium;3;2;Finished;18.0;44;+0.981;5026691;2960000;3172000;2862000;1;23.497;23.497
+Mercedes;822;Valtteri Bottas;Finnish;13;2019;13;Circuit de Spa-Francorchamps;Spa;Belgium;4;3;Finished;15.0;44;+12.585;5038295;2841000;3560000;2995000;1;22.579;22.579
+Mercedes;822;Valtteri Bottas;Finnish;14;2019;14;Autodromo Nazionale di Monza;Monza;Italy;3;2;Finished;18.0;53;+0.835;4527500;1356000;1218000;1494000;1;23.7;23.7
+Mercedes;1;Lewis Hamilton;British;14;2019;14;Autodromo Nazionale di Monza;Monza;Italy;2;3;Finished;16.0;53;+35.199;4561864;1472000;1604000;1486000;2;23.8215;47.643
+Mercedes;1;Lewis Hamilton;British;15;2019;15;Marina Bay Street Circuit;Marina Bay;Singapore;2;4;Finished;12.0;61;+4.608;7118275;2785000;3093000;2568000;1;28.93;28.93
+Mercedes;822;Valtteri Bottas;Finnish;15;2019;15;Marina Bay Street Circuit;Marina Bay;Singapore;5;5;Finished;10.0;61;+6.119;7119786;2537000;2362000;2366000;1;29.234;29.234
+Mercedes;1;Lewis Hamilton;British;16;2019;71;Sochi Autodrom;Sochi;Russia;2;1;Finished;26.0;53;1:33:38.992;5618992;2210000;2114000;1950000;1;29.751;29.751
+Mercedes;822;Valtteri Bottas;Finnish;16;2019;71;Sochi Autodrom;Sochi;Russia;4;2;Finished;18.0;53;+3.829;5622821;2393000;2261000;2552000;1;29.436;29.436
+Mercedes;822;Valtteri Bottas;Finnish;17;2019;22;Suzuka Circuit;Suzuka;Japan;3;1;Finished;25.0;52;1:21:46.755;4906755;2576000;2308000;1913000;2;23.0785;46.157
+Mercedes;1;Lewis Hamilton;British;17;2019;22;Suzuka Circuit;Suzuka;Japan;4;3;Finished;16.0;52;+13.858;4920613;2415000;2446000;1922000;2;23.5865;47.173
+Mercedes;1;Lewis Hamilton;British;18;2019;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;3;1;Finished;25.0;71;1:36:48.904;5808904;1384000;1621000;1162000;1;22.269;22.269
+Mercedes;822;Valtteri Bottas;Finnish;18;2019;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;6;3;Finished;15.0;71;+3.553;5812457;1082000;1752000;1238000;1;22.179;22.179
+Mercedes;822;Valtteri Bottas;Finnish;19;2019;69;Circuit of the Americas;Austin;USA;1;1;Finished;25.0;56;1:33:55.653;5635653;2730000;2140000;1949000;2;23.985;47.97
+Mercedes;1;Lewis Hamilton;British;19;2019;69;Circuit of the Americas;Austin;USA;5;2;Finished;18.0;56;+4.148;5639801;2434000;2025000;2241000;1;23.943;23.943
+Mercedes;1;Lewis Hamilton;British;20;2019;18;Autódromo José Carlos Pace;São Paulo;Brazil;3;7;Finished;6.0;71;+11.139;5605817;1094000;568000;1119000;3;23.01;69.03
+Mercedes;1;Lewis Hamilton;British;21;2019;24;Yas Marina Circuit;Abu Dhabi;UAE;1;1;Finished;26.0;55;1:34:05.715;5645715;2951000;2734000;2819000;1;22.178;22.178
+Mercedes;822;Valtteri Bottas;Finnish;21;2019;24;Yas Marina Circuit;Abu Dhabi;UAE;20;4;Finished;12.0;55;+44.379;5690094;2360000;2774000;3013000;1;21.145;21.145
+Mercedes;822;Valtteri Bottas;Finnish;1;2020;70;Red Bull Ring;Spielberg;Austria;1;1;Finished;25.0;71;1:30:55.739;5455739;351000;195000;1059000;2;19.172;38.344
+Mercedes;1;Lewis Hamilton;British;1;2020;70;Red Bull Ring;Spielberg;Austria;5;4;Finished;12.0;71;+5.689;5461428;438000;276000;1071000;2;19.1075;38.215
+Mercedes;1;Lewis Hamilton;British;2;2020;70;Red Bull Ring;Spielberg;Austria;1;1;Finished;25.0;71;1:22:50.683;4970683;1268000;1845000;1413000;1;21.729;21.729
+Mercedes;822;Valtteri Bottas;Finnish;2;2020;70;Red Bull Ring;Spielberg;Austria;4;2;Finished;18.0;71;+13.719;4984402;1871000;1737000;1901000;1;21.376;21.376
+Mercedes;1;Lewis Hamilton;British;3;2020;11;Hungaroring;Budapest;Hungary;1;1;Finished;26.0;70;1:36:12.473;5772473;1747000;1101000;1227000;3;22.3367;67.01
+Mercedes;822;Valtteri Bottas;Finnish;3;2020;11;Hungaroring;Budapest;Hungary;2;3;Finished;15.0;70;+9.452;5781925;1374000;1370000;1334000;3;21.7073;65.122
+Mercedes;1;Lewis Hamilton;British;4;2020;9;Silverstone Circuit;Silverstone;UK;1;1;Finished;25.0;52;1:28:01.283;5281283;2400000;1847000;1743000;1;28.805;28.805
+Mercedes;822;Valtteri Bottas;Finnish;4;2020;9;Silverstone Circuit;Silverstone;UK;2;11;Finished;0.0;52;+42.167;5323450;2301000;1515000;2056000;2;32.0865;64.173
+Mercedes;1;Lewis Hamilton;British;5;2020;9;Silverstone Circuit;Silverstone;UK;2;2;Finished;19.0;52;+11.326;4793319;2378000;1826000;1717000;2;28.904;57.808
+Mercedes;822;Valtteri Bottas;Finnish;5;2020;9;Silverstone Circuit;Silverstone;UK;1;3;Finished;15.0;52;+19.231;4801224;2298000;2285000;1654000;2;28.298;56.596
+Mercedes;1;Lewis Hamilton;British;6;2020;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:31:45.279;5505279;1832000;973000;1484000;2;22.615;45.23
+Mercedes;822;Valtteri Bottas;Finnish;6;2020;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;2;3;Finished;16.0;66;+44.752;5550031;1263000;1112000;1543000;3;22.3533;67.06
+Mercedes;1;Lewis Hamilton;British;7;2020;13;Circuit de Spa-Francorchamps;Spa;Belgium;1;1;Finished;25.0;44;1:24:08.761;5048761;2843000;2534000;2712000;1;23.298;23.298
+Mercedes;822;Valtteri Bottas;Finnish;7;2020;13;Circuit de Spa-Francorchamps;Spa;Belgium;2;2;Finished;18.0;44;+8.448;5057209;3054000;2646000;3223000;1;25.548;25.548
+Mercedes;822;Valtteri Bottas;Finnish;8;2020;14;Autodromo Nazionale di Monza;Monza;Italy;2;5;Finished;10.0;53;+7.108;6433164;1926000;2032000;2036000;1;24.41;24.41
+Mercedes;1;Lewis Hamilton;British;8;2020;14;Autodromo Nazionale di Monza;Monza;Italy;1;7;Finished;7.0;53;+17.245;6443301;1654000;1232000;1967000;2;28.157;56.314
+Mercedes;1;Lewis Hamilton;British;9;2020;76;Autodromo Internazionale del Mugello;Mugello;Italy;1;1;Finished;26.0;59;2:19:35.060;8375060;1678000;1209000;1044000;3;20.927;62.781
+Mercedes;822;Valtteri Bottas;Finnish;9;2020;76;Autodromo Internazionale del Mugello;Mugello;Italy;2;2;Finished;18.0;59;+4.880;8379940;1649000;1222000;1103000;3;21.29;63.87
+Mercedes;822;Valtteri Bottas;Finnish;10;2020;71;Sochi Autodrom;Sochi;Russia;3;1;Finished;26.0;53;1:34:00.364;5640364;2576000;2325000;2816000;1;29.75;29.75
+Mercedes;1;Lewis Hamilton;British;10;2020;71;Sochi Autodrom;Sochi;Russia;1;3;Finished;15.0;53;+22.729;5663093;2903000;2755000;2164000;1;41.352;41.352
+Mercedes;1;Lewis Hamilton;British;11;2020;20;Nürburgring;Nürburg;Germany;2;1;Finished;25.0;60;1:35:49.641;5749641;2180000;1890000;2025000;2;23.5815;47.163
+Mercedes;1;Lewis Hamilton;British;12;2020;75;Autódromo Internacional do Algarve;Portimão;Portugal;1;1;Finished;26.0;66;1:29:56.828;5396828;1788000;1784000;1612000;1;27.162;27.162
+Mercedes;822;Valtteri Bottas;Finnish;12;2020;75;Autódromo Internacional do Algarve;Portimão;Portugal;2;2;Finished;18.0;66;+25.592;5422420;1905000;1426000;1714000;1;26.512;26.512
+Mercedes;1;Lewis Hamilton;British;13;2020;21;Autodromo Enzo e Dino Ferrari;Imola;Italy;2;1;Finished;26.0;63;1:28:32.430;5312430;1069000;1483000;1486000;2;30.6535;61.307
+Mercedes;822;Valtteri Bottas;Finnish;13;2020;21;Autodromo Enzo e Dino Ferrari;Imola;Italy;1;2;Finished;18.0;63;+5.783;5318213;1061000;1425000;1389000;2;29.8645;59.729
+Mercedes;1;Lewis Hamilton;British;14;2020;5;Istanbul Park;Istanbul;Turkey;6;1;Finished;25.0;58;1:42:19.313;6139313;1019000;3829000;3680000;1;23.86;23.86
+Mercedes;1;Lewis Hamilton;British;15;2020;3;Bahrain International Circuit;Sakhir;Bahrain;1;1;Finished;25.0;57;2:59:47.515;10787515;2023000;2206000;1884000;2;24.203;48.406
+Mercedes;822;Valtteri Bottas;Finnish;15;2020;3;Bahrain International Circuit;Sakhir;Bahrain;2;8;Finished;4.0;57;+19.680;10807195;2447000;1743000;2173000;3;24.7817;74.345
+Mercedes;822;Valtteri Bottas;Finnish;16;2020;3;Bahrain International Circuit;Sakhir;Bahrain;1;8;Finished;4.0;87;+15.389;5490503;4084000;3983000;3557000;2;38.713;77.426
+Mercedes;847;George Russell;British;16;2020;3;Bahrain International Circuit;Sakhir;Bahrain;2;9;Finished;3.0;87;+18.556;5493670;3400000;3999000;3583000;4;25.608;102.432
+Mercedes;822;Valtteri Bottas;Finnish;17;2020;24;Yas Marina Circuit;Abu Dhabi;UAE;2;2;Finished;18.0;55;+15.976;5804621;2799000;2627000;2371000;1;21.587;21.587
+Mercedes;1;Lewis Hamilton;British;17;2020;24;Yas Marina Circuit;Abu Dhabi;UAE;3;3;Finished;15.0;55;+18.415;5807060;2628000;2566000;2432000;1;22.406;22.406
+Mercedes;1;Lewis Hamilton;British;1;2021;3;Bahrain International Circuit;Sakhir;Bahrain;2;1;Finished;25.0;56;1:32:03.897;5523897;2417000;1885000;2125000;2;24.4575;48.915
+Mercedes;822;Valtteri Bottas;Finnish;1;2021;3;Bahrain International Circuit;Sakhir;Bahrain;3;3;Finished;16.0;56;+37.383;5561280;2060000;1986000;2326000;3;27.2417;81.725
+Mercedes;1;Lewis Hamilton;British;2;2021;21;Autodromo Enzo e Dino Ferrari;Imola;Italy;1;2;Finished;19.0;63;+22.000;7376598;1663000;1657000;1251000;2;35.155;70.31
+Mercedes;1;Lewis Hamilton;British;3;2021;75;Autódromo Internacional do Algarve;Portimão;Portugal;2;1;Finished;25.0;66;1:34:31.421;5671421;1937000;1988000;1435000;3;23.8323;71.497
+Mercedes;822;Valtteri Bottas;Finnish;3;2021;75;Autódromo Internacional do Algarve;Portimão;Portugal;1;3;Finished;16.0;66;+33.530;5704951;1802000;1538000;1428000;4;24.24;96.96
+Mercedes;1;Lewis Hamilton;British;4;2021;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;1;1;Finished;25.0;66;1:33:07.680;5587680;1325000;1186000;1701000;2;22.149;44.298
+Mercedes;822;Valtteri Bottas;Finnish;4;2021;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;3;3;Finished;15.0;66;+26.610;5614290;1085000;1162000;1833000;2;21.9745;43.949
+Mercedes;1;Lewis Hamilton;British;5;2021;6;Circuit de Monaco;Monte-Carlo;Monaco;7;7;Finished;7.0;78;+1:08.231;6005051;1282000;776000;755000;2;24.0135;48.027
+Mercedes;822;Valtteri Bottas;Finnish;6;2021;73;Baku City Circuit;Baku;Azerbaijan;10;12;Finished;0.0;51;+11.264;8027674;3221000;2626000;3179000;2;20.851;41.702
+Mercedes;1;Lewis Hamilton;British;6;2021;73;Baku City Circuit;Baku;Azerbaijan;2;15;Finished;0.0;51;+17.668;8034078;3005000;3094000;2910000;2;18.951;37.902
+Mercedes;1;Lewis Hamilton;British;7;2021;34;Circuit Paul Ricard;Le Castellet;France;2;2;Finished;18.0;53;+2.904;5248674;2097000;2588000;2048000;1;30.263;30.263
+Mercedes;822;Valtteri Bottas;Finnish;7;2021;34;Circuit Paul Ricard;Le Castellet;France;3;4;Finished;12.0;53;+14.618;5260388;2529000;2535000;2176000;1;30.572;30.572
+Mercedes;1;Lewis Hamilton;British;8;2021;70;Red Bull Ring;Spielberg;Austria;2;2;Finished;19.0;71;+35.743;4974668;912000;752000;307000;2;21.4295;42.859
+Mercedes;822;Valtteri Bottas;Finnish;8;2021;70;Red Bull Ring;Spielberg;Austria;5;3;Finished;15.0;71;+46.907;4985832;777000;683000;275000;1;21.752;21.752
+Mercedes;822;Valtteri Bottas;Finnish;9;2021;70;Red Bull Ring;Spielberg;Austria;5;2;Finished;18.0;71;+17.973;5052516;803000;616000;289000;1;21.071;21.071
+Mercedes;1;Lewis Hamilton;British;9;2021;70;Red Bull Ring;Spielberg;Austria;4;4;Finished;12.0;71;+46.452;5080995;746000;498000;254000;2;21.213;42.426
+Mercedes;1;Lewis Hamilton;British;10;2021;9;Silverstone Circuit;Silverstone;UK;2;1;Finished;25.0;52;1:58:23.284;7103284;2346000;1583000;1694000;1;40.266;40.266
+Mercedes;822;Valtteri Bottas;Finnish;10;2021;9;Silverstone Circuit;Silverstone;UK;3;3;Finished;15.0;52;+11.125;7114409;2107000;2324000;1888000;1;28.209;28.209
+Mercedes;1;Lewis Hamilton;British;11;2021;11;Hungaroring;Budapest;Hungary;1;2;Finished;18.0;70;+2.736;7485935;1384000;1513000;1319000;3;21.485;64.455
+Mercedes;1;Lewis Hamilton;British;13;2021;39;Circuit Park Zandvoort;Zandvoort;Netherlands;2;2;Finished;19.0;72;+20.932;5426327;714000;1266000;1403000;3;19.28;57.84
+Mercedes;822;Valtteri Bottas;Finnish;13;2021;39;Circuit Park Zandvoort;Zandvoort;Netherlands;3;3;Finished;15.0;72;+56.460;5461855;819000;1309000;762000;2;20.3015;40.603
+Mercedes;822;Valtteri Bottas;Finnish;14;2021;14;Autodromo Nazionale di Monza;Monza;Italy;19;3;Finished;15.0;53;+4.921;4919286;1885000;1232000;1695000;1;24.308;24.308
+Mercedes;1;Lewis Hamilton;British;15;2021;71;Sochi Autodrom;Sochi;Russia;4;1;Finished;25.0;53;1:30:41.001;5441001;3692000;2829000;2690000;2;29.9615;59.923
+Mercedes;822;Valtteri Bottas;Finnish;15;2021;71;Sochi Autodrom;Sochi;Russia;16;5;Finished;10.0;53;+1:07.533;5508534;3156000;3006000;3350000;2;29.7525;59.505
+Mercedes;822;Valtteri Bottas;Finnish;16;2021;5;Istanbul Park;Istanbul;Turkey;1;1;Finished;26.0;58;1:31:04.103;5464103;1547000;1959000;2318000;1;22.962;22.962
+Mercedes;1;Lewis Hamilton;British;16;2021;5;Istanbul Park;Istanbul;Turkey;11;5;Finished;10.0;58;+41.812;5505915;2025000;1462000;2188000;1;22.684;22.684
+Mercedes;1;Lewis Hamilton;British;17;2021;69;Circuit of the Americas;Austin;USA;2;2;Finished;19.0;56;+1.333;5677885;2619000;2777000;2099000;2;24.0785;48.157
+Mercedes;822;Valtteri Bottas;Finnish;17;2021;69;Circuit of the Americas;Austin;USA;9;6;Finished;8.0;56;+1:20.128;5756680;2630000;2939000;2455000;2;24.0315;48.063
+Mercedes;1;Lewis Hamilton;British;18;2021;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;2;2;Finished;18.0;71;+16.555;5935641;1227000;1434000;980000;1;22.373;22.373
+Mercedes;1;Lewis Hamilton;British;19;2021;18;Autódromo José Carlos Pace;São Paulo;Brazil;10;1;Finished;25.0;71;1:32:22.851;5542851;1213000;548000;1354000;4;20.481;81.924
+Mercedes;822;Valtteri Bottas;Finnish;19;2021;18;Autódromo José Carlos Pace;São Paulo;Brazil;1;3;Finished;15.0;71;+13.576;5556427;580000;906000;949000;4;20.4638;81.855
+Mercedes;1;Lewis Hamilton;British;20;2021;78;Losail International Circuit;Al Daayen;Qatar;1;1;Finished;25.0;57;1:24:28.471;5068471;2161000;1942000;2027000;2;25.308;50.616
+Mercedes;1;Lewis Hamilton;British;21;2021;77;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;1;1;Finished;26.0;50;2:06:15.118;7575118;2146000;2332000;2131000;1;20.58;20.58
+Mercedes;822;Valtteri Bottas;Finnish;21;2021;77;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;2;3;Finished;15.0;50;+27.531;7602649;1737000;1734000;2242000;1;21.668;21.668
+Mercedes;1;Lewis Hamilton;British;22;2021;24;Yas Marina Circuit;Abu Dhabi;UAE;2;2;Finished;18.0;58;+2.256;5419601;2165000;1525000;1800000;1;21.595;21.595
+Mercedes;822;Valtteri Bottas;Finnish;22;2021;24;Yas Marina Circuit;Abu Dhabi;UAE;6;6;Finished;8.0;58;+7.463;5424808;1497000;1626000;1416000;1;21.669;21.669
+Mercedes;1;Lewis Hamilton;British;1;2022;3;Bahrain International Circuit;Sakhir;Bahrain;5;3;Finished;15.0;57;+9.675;5863259;2205000;1908000;2098000;3;25.5253;76.576
+Mercedes;847;George Russell;British;1;2022;3;Bahrain International Circuit;Sakhir;Bahrain;9;4;Finished;12.0;57;+11.211;5864795;2189000;2112000;2136000;3;25.5987;76.796
+Mercedes;847;George Russell;British;2;2022;77;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;6;5;Finished;10.0;50;+32.732;5092025;2420000;2358000;1844000;1;21.415;21.415
+Mercedes;1;Lewis Hamilton;British;2;2022;77;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;15;10;Finished;1.0;50;+1:13.948;5133241;2143000;;;1;21.788;21.788
+Mercedes;847;George Russell;British;3;2022;1;Albert Park Grand Prix Circuit;Melbourne;Australia;6;3;Finished;15.0;58;+25.593;5292141;1545000;1216000;2013000;1;18.479;18.479
+Mercedes;1;Lewis Hamilton;British;3;2022;1;Albert Park Grand Prix Circuit;Melbourne;Australia;5;4;Finished;12.0;58;+28.543;5295091;1541000;1246000;1905000;1;17.877;17.877
+Mercedes;847;George Russell;British;4;2022;21;Autodromo Enzo e Dino Ferrari;Imola;Italy;11;4;Finished;12.0;63;+42.506;5570492;1583000;1957000;;1;31.079;31.079
+Mercedes;847;George Russell;British;5;2022;79;Miami International Autodrome;Miami;USA;12;5;Finished;10.0;57;+18.582;5682840;2290000;1973000;;1;19.035;19.035
+Mercedes;1;Lewis Hamilton;British;5;2022;79;Miami International Autodrome;Miami;USA;6;6;Finished;8.0;57;+21.368;5685626;2188000;2537000;2365000;1;18.82;18.82
+Mercedes;847;George Russell;British;6;2022;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;4;3;Finished;15.0;66;+32.927;5873402;1418000;1610000;1533000;3;22.336;67.008
+Mercedes;1;Lewis Hamilton;British;6;2022;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;6;5;Finished;10.0;66;+54.534;5895009;1452000;1934000;1652000;3;25.1333;75.4
+Mercedes;847;George Russell;British;7;2022;6;Circuit de Monaco;Monte-Carlo;Monaco;6;5;Finished;10.0;64;+11.968;7002233;1507000;1337000;832000;1;25.352;25.352
+Mercedes;1;Lewis Hamilton;British;7;2022;6;Circuit de Monaco;Monte-Carlo;Monaco;8;8;Finished;4.0;64;+50.388;7040653;1224000;1315000;1280000;2;24.6515;49.303
+Mercedes;847;George Russell;British;8;2022;73;Baku City Circuit;Baku;Azerbaijan;5;3;Finished;15.0;51;+45.995;5691936;3334000;2861000;3232000;2;20.5325;41.065
+Mercedes;1;Lewis Hamilton;British;8;2022;73;Baku City Circuit;Baku;Azerbaijan;7;4;Finished;12.0;51;+1:11.679;5717620;3519000;2762000;3444000;2;21.1505;42.301
+Mercedes;1;Lewis Hamilton;British;9;2022;7;Circuit Gilles Villeneuve;Montreal;Canada;4;3;Finished;15.0;70;+7.006;5788763;2821000;2043000;2211000;2;23.843;47.686
+Mercedes;847;George Russell;British;9;2022;7;Circuit Gilles Villeneuve;Montreal;Canada;8;4;Finished;12.0;70;+12.313;5794070;2140000;2390000;1937000;2;24.01;48.02
+Mercedes;1;Lewis Hamilton;British;10;2022;9;Silverstone Circuit;Silverstone;UK;5;3;Finished;16.0;52;+6.225;8276536;2828000;2522000;3455000;2;29.4165;58.833
+Mercedes;1;Lewis Hamilton;British;11;2022;70;Red Bull Ring;Spielberg;Austria;8;3;Finished;15.0;71;+41.217;5105529;439000;775000;931000;2;22.8615;45.723
+Mercedes;847;George Russell;British;11;2022;70;Red Bull Ring;Spielberg;Austria;4;4;Finished;12.0;71;+58.972;5123284;595000;997000;731000;2;29.966;59.932
+Mercedes;1;Lewis Hamilton;British;12;2022;34;Circuit Paul Ricard;Le Castellet;France;4;2;Finished;18.0;53;+10.587;5412699;2021000;2194000;2625000;1;37.189;37.189
+Mercedes;847;George Russell;British;12;2022;34;Circuit Paul Ricard;Le Castellet;France;6;3;Finished;15.0;53;+16.495;5418607;2089000;2553000;2051000;1;38.277;38.277
+Mercedes;1;Lewis Hamilton;British;13;2022;11;Hungaroring;Budapest;Hungary;7;2;Finished;19.0;70;+7.834;5983746;1454000;1115000;1222000;2;21.897;43.794
+Mercedes;847;George Russell;British;13;2022;11;Hungaroring;Budapest;Hungary;1;3;Finished;15.0;70;+12.337;5988249;1487000;1234000;1397000;2;22.253;44.506
+Mercedes;847;George Russell;British;14;2022;13;Circuit de Spa-Francorchamps;Spa;Belgium;5;4;Finished;12.0;44;+29.140;5182034;3350000;3161000;3476000;2;22.901;45.802
+Mercedes;847;George Russell;British;15;2022;39;Circuit Park Zandvoort;Zandvoort;Netherlands;6;2;Finished;18.0;72;+4.071;5806844;1221000;1424000;807000;3;20.488;61.464
+Mercedes;1;Lewis Hamilton;British;15;2022;39;Circuit Park Zandvoort;Zandvoort;Netherlands;4;4;Finished;12.0;72;+13.016;5815789;991000;735000;1248000;3;17.455;52.365
+Mercedes;847;George Russell;British;16;2022;14;Autodromo Nazionale di Monza;Monza;Italy;2;3;Finished;15.0;53;+3.405;4830916;2045000;2007000;1802000;2;24.5945;49.189
+Mercedes;1;Lewis Hamilton;British;16;2022;14;Autodromo Nazionale di Monza;Monza;Italy;19;5;Finished;10.0;53;+5.380;4832891;1368000;1968000;1784000;1;24.282;24.282
+Mercedes;1;Lewis Hamilton;British;17;2022;15;Marina Bay Street Circuit;Marina Bay;Singapore;3;9;Finished;2.0;59;+1:01.515;7401753;3341000;3811000;3406000;1;41.019;41.019
+Mercedes;1;Lewis Hamilton;British;18;2022;22;Suzuka Circuit;Suzuka;Japan;6;5;Finished;10.0;28;+40.326;10944330;2706000;2243000;2061000;1;25.059;25.059
+Mercedes;847;George Russell;British;18;2022;22;Suzuka Circuit;Suzuka;Japan;8;8;Finished;4.0;28;+47.661;10951665;2665000;2265000;2189000;1;28.728;28.728
+Mercedes;1;Lewis Hamilton;British;19;2022;69;Circuit of the Americas;Austin;USA;3;2;Finished;18.0;56;+5.023;6136710;2308000;2832000;2987000;2;24.2485;48.497
+Mercedes;847;George Russell;British;19;2022;69;Circuit of the Americas;Austin;USA;4;5;Finished;11.0;56;+44.815;6176502;2355000;2792000;3028000;3;26.1647;78.494
+Mercedes;1;Lewis Hamilton;British;20;2022;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;3;2;Finished;18.0;71;+15.186;5931915;1309000;1632000;1164000;1;23.194;23.194
+Mercedes;847;George Russell;British;20;2022;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;2;4;Finished;13.0;71;+49.431;5966160;1723000;1645000;1159000;2;22.9565;45.913
+Mercedes;847;George Russell;British;21;2022;18;Autódromo José Carlos Pace;São Paulo;Brazil;1;1;Finished;26.0;71;1:38:34.044;5914044;1267000;978000;779000;2;23.5005;47.001
+Mercedes;1;Lewis Hamilton;British;21;2022;18;Autódromo José Carlos Pace;São Paulo;Brazil;2;2;Finished;18.0;71;+1.529;5915573;1183000;1199000;1331000;2;23.748;47.496
+Mercedes;847;George Russell;British;22;2022;24;Yas Marina Circuit;Abu Dhabi;UAE;6;5;Finished;10.0;58;+35.888;5301802;2045000;2380000;1951000;2;26.087;52.174
+Mercedes;1;Lewis Hamilton;British;1;2023;3;Bahrain International Circuit;Sakhir;Bahrain;7;5;Finished;10.0;57;+50.977;5687713;2403000;2313000;2184000;2;24.686;49.372
+Mercedes;847;George Russell;British;1;2023;3;Bahrain International Circuit;Sakhir;Bahrain;6;7;Finished;6.0;57;+55.873;5692609;1917000;2307000;2140000;2;25.734;51.468
+Mercedes;847;George Russell;British;2;2023;77;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;3;4;Finished;12.0;50;+25.866;4900760;2332000;1872000;2537000;1;20.828;20.828
+Mercedes;1;Lewis Hamilton;British;2;2023;77;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;7;5;Finished;10.0;50;+31.065;4905959;2429000;2114000;1963000;1;21.102;21.102
+Mercedes;1;Lewis Hamilton;British;4;2023;73;Baku City Circuit;Baku;Azerbaijan;5;6;Finished;8.0;51;+46.145;5608581;2633000;3110000;2637000;1;20.324;20.324
+Mercedes;847;George Russell;British;4;2023;73;Baku City Circuit;Baku;Azerbaijan;11;8;Finished;5.0;51;+1:14.240;5636676;2593000;3114000;;2;20.924;41.848
+Mercedes;847;George Russell;British;5;2023;79;Miami International Autodrome;Miami;USA;6;4;Finished;12.0;57;+33.229;5291470;1766000;2363000;2424000;1;22.335;22.335
+Mercedes;1;Lewis Hamilton;British;5;2023;79;Miami International Autodrome;Miami;USA;13;6;Finished;8.0;57;+51.249;5309490;2466000;2595000;;1;22.15;22.15
+Mercedes;1;Lewis Hamilton;British;6;2023;6;Circuit de Monaco;Monte-Carlo;Monaco;5;4;Finished;13.0;78;+39.062;6571042;1592000;876000;1385000;2;25.6395;51.279
+Mercedes;847;George Russell;British;6;2023;6;Circuit de Monaco;Monte-Carlo;Monaco;8;5;Finished;10.0;78;+56.284;6588264;1489000;871000;1624000;1;30.98;30.98
+Mercedes;1;Lewis Hamilton;British;7;2023;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;4;2;Finished;18.0;66;+24.090;5302030;1657000;1719000;1538000;2;22.653;45.306
+Mercedes;847;George Russell;British;7;2023;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;12;3;Finished;15.0;66;+32.389;5310329;1106000;1227000;;2;22.1645;44.329
+Mercedes;1;Lewis Hamilton;British;8;2023;7;Circuit Gilles Villeneuve;Montreal;Canada;3;3;Finished;15.0;70;+4.598;5642946;1814000;1626000;2247000;2;24.044;48.088
+Mercedes;847;George Russell;British;9;2023;70;Red Bull Ring;Spielberg;Austria;11;7;Finished;6.0;71;+48.403;5182010;986000;728000;;3;20.6367;61.91
+Mercedes;1;Lewis Hamilton;British;9;2023;70;Red Bull Ring;Spielberg;Austria;5;8;Finished;4.0;71;+49.196;5182803;973000;488000;1059000;3;22.044;66.132
+Mercedes;1;Lewis Hamilton;British;10;2023;9;Silverstone Circuit;Silverstone;UK;7;3;Finished;15.0;52;+6.783;5123721;2155000;2225000;1831000;1;29.169;29.169
+Mercedes;847;George Russell;British;10;2023;9;Silverstone Circuit;Silverstone;UK;6;5;Finished;10.0;52;+11.206;5128144;2152000;2462000;1775000;1;29.455;29.455
+Mercedes;1;Lewis Hamilton;British;11;2023;11;Hungaroring;Budapest;Hungary;1;4;Finished;12.0;70;+39.134;5927768;1657000;1447000;1569000;2;21.851;43.702
+Mercedes;847;George Russell;British;11;2023;11;Hungaroring;Budapest;Hungary;18;6;Finished;8.0;70;+1:05.825;5954459;1167000;;;2;21.7805;43.561
+Mercedes;1;Lewis Hamilton;British;12;2023;13;Circuit de Spa-Francorchamps;Spa;Belgium;3;4;Finished;13.0;44;+49.671;5000121;4043000;3465000;2907000;3;23.0897;69.269
+Mercedes;847;George Russell;British;12;2023;13;Circuit de Spa-Francorchamps;Spa;Belgium;8;6;Finished;8.0;44;+1:03.101;5013551;3575000;3725000;3625000;1;23.837;23.837
+Mercedes;1;Lewis Hamilton;British;13;2023;39;Circuit Park Zandvoort;Zandvoort;Netherlands;13;6;Finished;8.0;72;+13.209;8657620;2179000;1351000;;4;20.0855;80.342
+Mercedes;847;George Russell;British;13;2023;39;Circuit Park Zandvoort;Zandvoort;Netherlands;3;17;Finished;0.0;72;+55.754;8700165;1605000;1760000;954000;6;24.5332;147.199
+Mercedes;847;George Russell;British;14;2023;14;Autodromo Nazionale di Monza;Monza;Italy;4;5;Finished;10.0;51;+23.028;4444171;1468000;1642000;1871000;1;24.215;24.215
+Mercedes;1;Lewis Hamilton;British;14;2023;14;Autodromo Nazionale di Monza;Monza;Italy;8;6;Finished;8.0;51;+42.679;4463822;2237000;1629000;2020000;1;24.255;24.255
+Mercedes;1;Lewis Hamilton;British;15;2023;15;Marina Bay Street Circuit;Marina Bay;Singapore;5;3;Finished;16.0;62;+1.269;6398687;2571000;1939000;2345000;2;33.106;66.212
+Mercedes;1;Lewis Hamilton;British;16;2023;22;Suzuka Circuit;Suzuka;Japan;7;5;Finished;10.0;53;+49.376;5507797;2611000;1840000;2648000;2;24.236;48.472
+Mercedes;847;George Russell;British;16;2023;22;Suzuka Circuit;Suzuka;Japan;8;7;Finished;6.0;53;+57.659;5516080;2611000;2068000;2019000;1;24.034;24.034
+Mercedes;847;George Russell;British;17;2023;78;Losail International Circuit;Al Daayen;Qatar;2;4;Finished;12.0;57;+34.119;5293287;1834000;2267000;1659000;4;31.1833;124.733
+Mercedes;847;George Russell;British;18;2023;69;Circuit of the Americas;Austin;USA;5;5;Finished;10.0;56;+24.999;5746361;2325000;2706000;2179000;2;24.163;48.326
+Mercedes;1;Lewis Hamilton;British;19;2023;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;6;2;Finished;19.0;71;+13.875;7364689;1757000;1591000;1474000;1;22.21;22.21
+Mercedes;847;George Russell;British;19;2023;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;8;6;Finished;8.0;71;+41.020;7391834;1973000;1693000;1694000;1;22.311;22.311
+Mercedes;1;Lewis Hamilton;British;20;2023;18;Autódromo José Carlos Pace;São Paulo;Brazil;5;8;Finished;4.0;71;+1:02.859;7071753;1204000;866000;1129000;3;22.0553;66.166
+Mercedes;1;Lewis Hamilton;British;21;2023;80;Las Vegas Strip Street Circuit;Las Vegas;United States;10;7;Finished;6.0;50;+21.755;5370044;2347000;2817000;;2;23.7775;47.555
+Mercedes;847;George Russell;British;21;2023;80;Las Vegas Strip Street Circuit;Las Vegas;United States;3;8;Finished;4.0;50;+23.091;5371380;2177000;2331000;2092000;2;21.6045;43.209
+Mercedes;847;George Russell;British;22;2023;24;Yas Marina Circuit;Abu Dhabi;UAE;4;3;Finished;15.0;58;+20.328;5242952;1777000;1453000;2168000;2;21.867;43.734
+Mercedes;1;Lewis Hamilton;British;22;2023;24;Yas Marina Circuit;Abu Dhabi;UAE;11;9;Finished;2.0;58;+44.424;5267048;1877000;1799000;;2;22.12;44.24
+Mercedes;847;George Russell;British;1;2024;3;Bahrain International Circuit;Sakhir;Bahrain;3;5;Finished;10.0;57;+46.788;5551530;2150000;2662000;2225000;2;24.822;49.644
+Mercedes;1;Lewis Hamilton;British;1;2024;3;Bahrain International Circuit;Sakhir;Bahrain;9;7;Finished;6.0;57;+50.324;5555066;2251000;2458000;2450000;2;24.5905;49.181
+Mercedes;847;George Russell;British;2;2024;77;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;7;6;Finished;8.0;50;+39.936;4883209;2429000;2128000;1996000;1;21.013;21.013
+Mercedes;1;Lewis Hamilton;British;2;2024;77;Jeddah Corniche Circuit;Jeddah;Saudi Arabia;8;9;Finished;2.0;50;+47.391;4890664;2674000;2286000;2140000;1;20.17;20.17
+Mercedes;847;George Russell;British;4;2024;22;Suzuka Circuit;Suzuka;Japan;9;7;Finished;6.0;53;+45.951;6909517;2539000;1880000;1748000;2;23.284;46.568
+Mercedes;1;Lewis Hamilton;British;4;2024;22;Suzuka Circuit;Suzuka;Japan;7;9;Finished;2.0;53;+48.626;6912192;2401000;2567000;2446000;2;23.6445;47.289
+Mercedes;847;George Russell;British;5;2024;17;Shanghai International Circuit;Shanghai;China;8;6;Finished;8.0;56;+38.724;6091278;2184000;2649000;2473000;2;22.561;45.122
+Mercedes;1;Lewis Hamilton;British;5;2024;17;Shanghai International Circuit;Shanghai;China;18;9;Finished;2.0;56;+57.986;6110540;2673000;;;2;22.59;45.18
+Mercedes;1;Lewis Hamilton;British;6;2024;79;Miami International Autodrome;Miami;USA;8;6;Finished;8.0;57;+16.585;5466461;1847000;2317000;1787000;1;22.107;22.107
+Mercedes;847;George Russell;British;6;2024;79;Miami International Autodrome;Miami;USA;7;8;Finished;4.0;57;+34.789;5484665;1839000;1775000;1747000;1;22.8;22.8
+Mercedes;1;Lewis Hamilton;British;7;2024;21;Autodromo Enzo e Dino Ferrari;Imola;Italy;8;6;Finished;8.0;63;+35.104;5160356;1564000;1577000;1404000;1;29.547;29.547
+Mercedes;847;George Russell;British;7;2024;21;Autodromo Enzo e Dino Ferrari;Imola;Italy;6;7;Finished;7.0;63;+47.154;5172406;1067000;1571000;1134000;2;29.6345;59.269
+Mercedes;1;Lewis Hamilton;British;8;2024;6;Circuit de Monaco;Monte-Carlo;Monaco;7;7;Finished;7.0;78;+14.908;8610462;1188000;716000;1221000;1;24.232;24.232
+Mercedes;847;George Russell;British;9;2024;7;Circuit Gilles Villeneuve;Montreal;Canada;1;3;Finished;15.0;70;+4.317;6352244;793000;1402000;720000;3;25.8773;77.632
+Mercedes;1;Lewis Hamilton;British;9;2024;7;Circuit Gilles Villeneuve;Montreal;Canada;7;4;Finished;13.0;70;+4.915;6352842;1571000;1639000;1000000;3;25.6017;76.805
+Mercedes;1;Lewis Hamilton;British;10;2024;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;3;3;Finished;15.0;66;+17.790;5318017;863000;1452000;1361000;2;21.7215;43.443
+Mercedes;847;George Russell;British;10;2024;4;Circuit de Barcelona-Catalunya;Montmeló;Spain;4;4;Finished;12.0;66;+22.320;5322547;1176000;1472000;1363000;2;23.8615;47.723
+Mercedes;847;George Russell;British;11;2024;70;Red Bull Ring;Spielberg;Austria;3;1;Finished;25.0;71;1:24:22.798;5062798;885000;316000;1080000;2;21.451;42.902
+Mercedes;1;Lewis Hamilton;British;11;2024;70;Red Bull Ring;Spielberg;Austria;5;4;Finished;12.0;71;+23.142;5085940;841000;353000;1143000;2;24.422;48.844
+Mercedes;1;Lewis Hamilton;British;12;2024;9;Silverstone Circuit;Silverstone;UK;2;1;Finished;25.0;52;1:22:27.059;4947059;2287000;2330000;2490000;2;29.4835;58.967
+Mercedes;1;Lewis Hamilton;British;13;2024;11;Hungaroring;Budapest;Hungary;5;3;Finished;15.0;70;+14.880;5896869;1107000;1267000;1754000;2;21.608;43.216
+Mercedes;847;George Russell;British;13;2024;11;Hungaroring;Budapest;Hungary;17;8;Finished;5.0;70;+42.368;5924357;1988000;;;2;21.3485;42.697
+Mercedes;1;Lewis Hamilton;British;14;2024;13;Circuit de Spa-Francorchamps;Spa;Belgium;3;1;Finished;25.0;44;+0.526;526;3992000;3277000;4015000;2;22.946;45.892
+Mercedes;847;George Russell;British;15;2024;39;Circuit Park Zandvoort;Zandvoort;Netherlands;4;7;Finished;6.0;72;+44.617;5490136;709000;1152000;844000;2;21.5025;43.005
+Mercedes;1;Lewis Hamilton;British;15;2024;39;Circuit Park Zandvoort;Zandvoort;Netherlands;14;8;Finished;4.0;72;+49.599;5495118;1035000;1548000;;2;21.097;42.194
+Mercedes;1;Lewis Hamilton;British;16;2024;14;Autodromo Nazionale di Monza;Monza;Italy;6;5;Finished;10.0;53;+22.820;4503547;1677000;1781000;1653000;2;24.312;48.624
+Mercedes;847;George Russell;British;16;2024;14;Autodromo Nazionale di Monza;Monza;Italy;3;7;Finished;6.0;53;+39.715;4520442;1369000;2017000;1580000;2;29.4965;58.993
+Mercedes;847;George Russell;British;17;2024;73;Baku City Circuit;Baku;Azerbaijan;5;3;Finished;15.0;51;+31.328;5609335;2719000;2849000;3334000;1;19.954;19.954
+Mercedes;1;Lewis Hamilton;British;17;2024;73;Baku City Circuit;Baku;Azerbaijan;0;9;Finished;2.0;51;+1:32.401;5670408;2669000;3285000;2809000;1;21.289;21.289
+Mercedes;847;George Russell;British;18;2024;15;Marina Bay Street Circuit;Marina Bay;Singapore;4;4;Finished;12.0;62;+1:01.040;6113611;2611000;1953000;2607000;1;28.739;28.739
+Mercedes;1;Lewis Hamilton;British;18;2024;15;Marina Bay Street Circuit;Marina Bay;Singapore;3;6;Finished;8.0;62;+1:25.248;6137819;2193000;2669000;2581000;1;29.272;29.272
+Mercedes;847;George Russell;British;19;2024;69;Circuit of the Americas;Austin;USA;20;6;Finished;8.0;56;+56.295;5765934;2516000;2122000;2894000;1;29.327;29.327
+Mercedes;1;Lewis Hamilton;British;20;2024;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;6;4;Finished;12.0;71;+44.780;6100580;1326000;1933000;1611000;1;22.538;22.538
+Mercedes;847;George Russell;British;20;2024;32;Autódromo Hermanos Rodríguez;Mexico City;Mexico;5;5;Finished;10.0;71;+48.536;6104336;1214000;1897000;1316000;1;22.462;22.462
+Mercedes;847;George Russell;British;21;2024;18;Autódromo José Carlos Pace;São Paulo;Brazil;2;4;Finished;12.0;69;+23.265;7637695;1861000;1867000;1958000;1;25.698;25.698
+Mercedes;1;Lewis Hamilton;British;21;2024;18;Autódromo José Carlos Pace;São Paulo;Brazil;14;10;Finished;1.0;69;+50.753;7665183;2010000;;;1;25.205;25.205
+Mercedes;847;George Russell;British;22;2024;80;Las Vegas Strip Street Circuit;Las Vegas;United States;1;1;Finished;25.0;50;1:22:05.969;4925969;2166000;2699000;2232000;2;21.0235;42.047
+Mercedes;1;Lewis Hamilton;British;22;2024;80;Las Vegas Strip Street Circuit;Las Vegas;United States;10;2;Finished;18.0;50;+7.313;4933282;2205000;2487000;2986000;2;21.211;42.422
+Mercedes;847;George Russell;British;23;2024;78;Losail International Circuit;Al Daayen;Qatar;1;4;Finished;12.0;57;+14.104;5479427;1501000;1329000;1775000;4;29.2448;116.979
+Mercedes;1;Lewis Hamilton;British;23;2024;78;Losail International Circuit;Al Daayen;Qatar;6;12;Finished;0.0;57;+56.122;5521445;1897000;1355000;1271000;4;27.7118;110.847
+Mercedes;1;Lewis Hamilton;British;24;2024;24;Yas Marina Circuit;Abu Dhabi;UAE;16;4;Finished;12.0;58;+36.483;5229774;2267000;;;1;21.694;21.694
+Mercedes;847;George Russell;British;24;2024;24;Yas Marina Circuit;Abu Dhabi;UAE;6;5;Finished;10.0;58;+37.538;5230829;2058000;1663000;1512000;1;21.656;21.656
